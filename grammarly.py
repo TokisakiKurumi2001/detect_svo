@@ -18,7 +18,8 @@ def parse_tree(sentence):
                             if len(subtree[1][1]) == 2:
                                 return sentence
                             else:
-                                print("Missing Adv")
+                                # print("Missing Adv")
+                                return sentence + " " + "<mo>"
                         elif subtree[1][0].label().startswith("V"):
                             count = 0
                             for subsubtree in subtree[1][:]:
@@ -26,39 +27,58 @@ def parse_tree(sentence):
                                     if len(subtree[1][1]) == 2:
                                         return sentence
                                     else:
-                                        print("Missing Adv")
-                                    count = 1
-                                    break
+                                        # print("Missing Adv")
+                                        return sentence + "<mo>"
                                 if subsubtree.label() == "NP":
                                     count += 1
                             if count == 0:
-                                print("Missing Object")
+                                # print("Missing Object")
+                                return sentence + " " + "<mo>"
                     else:
-                        print("Missing Object")
+                        # print("Missing Object")
+                        return sentence + " " + "<mo>"
                 elif subtree[0].label() == "IN":
-                    print("Missing Subject & Verb")
+                    # print("Missing Subject & Verb")
+                    return "<ms>" + " " + "<mv>" + " " + sentence
                 elif subtree[0].label().startswith("V"):
-                    print("Missing Subject")
+                    count = 1
+                    # print("Missing Subject")
                     if subtree[1].label() == "PP":
                         if len(subtree[1]) < 2:
-                            print("Missing Object")
+                            # print("Missing Object")
+                            count += 1
+                    return "<ms>" + " " + sentence if count == 1 else "<ms>" + " " + sentence + " " + "<mo>"
                 else:
                     count = 0
                     for subsubtree in subtree[:]:
                         if subsubtree.label().startswith("V"):
                             count += 1
                     if count == 0:
-                        print("Missing Verb")
+                        # print("Missing Verb")
+                        out = ""
+                        if subtree[0].label().startswith("N"):
+                            out = out + " ".join(subtree[0].leaves())
+                        out += " " + "<mv>" + " "
+                        ls = []
+                        if subtree[1].label().startswith("N"):
+                            for subsubtree in subtree[1:]:
+                                ls += subsubtree.leaves()
+                            out = out + " ".join(ls)
+                        return out
             else:
                 if subtree.label().startswith("V"):
-                    print("Missing Subject & Object")
+                    # print("Missing Subject & Object")
+                    return "<ms>" + " " + sentence + " " + "<mo>"
                 elif subtree.label() == "PRP" or subtree.label().startswith("N"):
-                    print("Missing Verb & Object/Missing Subject & Verb")
+                    # print("Missing Verb & Object/Missing Subject & Verb")
+                    return sentence + " " + "<mv>" + " " + "<mo>"
                 elif subtree.label() == "IN":
-                    print("Missing Subject, Verb, & Adv")
+                    # print("Missing Subject, Verb, & Adv")
+                    return "<ms>" + " " + "<mv>" + " " + sentence + " " + "<mo>"
         break
+    return sentence
 
 if __name__ == "__main__":
-    sentence = "I dont't like."
-
-    parse_tree(sentence)
+    sentence = "I like."
+    new_sentence = parse_tree(sentence)
+    print(new_sentence)
