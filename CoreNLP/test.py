@@ -69,19 +69,20 @@ def svo_parser(sentence):
 
 if __name__ == "__main__":
     sentences = [
-                "I like exercising before sunrise.",
-                "I come here once a week.",
-                "I often go running.",
-                "I prefer working out with a partner.",
-                "I need a drink.",
-                "I have been working there for a year and a half.",
-                "I'm looking for opportunities to learn new things.",
-                "My house is a 30-minute drive from the city center.",
-                "It's a noisy place to live.",
-                "I prefer spending time at home.",
-                "My family often gather for food on holidays.",
-                "I see my family every two weeks.",
-                "The most popular dish in my country is Pho."
+                # "I like exercising before sunrise.",
+                # "I come here once a week.",
+                # "I often go running.",
+                # "I prefer working out with a partner.",
+                # "I need a drink.",
+                # "I have been working there for a year and a half.",
+                # "I'm looking for opportunities to learn new things.",
+                # "My house is a 30-minute drive from the city center.",
+                # "It's a noisy place to live.",
+                # "I prefer spending time at home.",
+                # "My family often gather for food on holidays.",
+                # "I see my family every two weeks.",
+                # "The most popular dish in my country is Pho."
+                "I have worked there for 2 years."
                 ]
     for sent in sentences:
         try:
