@@ -1,19 +1,21 @@
-from cmath import exp
-from re import sub
 from nltk.parse.corenlp import CoreNLPParser
+import re
 
-def svo_parser(sentence):
+def parse_tree(sentence):
+    parser = CoreNLPParser()
+    # sentence = re.sub(r"[.]", "", sentence)
+    tree = next(parser.parse_text(sentence))
     svo = {
         "subject": "",
         "verb": "",
-        "object": ""
+        "object": "",
+        "adv": ""
     }
-
-    parser = CoreNLPParser()
-
-    tree = next(parser.parse_text(sentence))
+    # print(tree)
     tree.pretty_print()
     subtree = tree[0]
+
+    print(f"This is subtree:\n{subtree[2]}")
 
     if len(subtree) >= 3:
         vp_index = 1
@@ -25,7 +27,7 @@ def svo_parser(sentence):
             # detect verbs
             verbs = []
             subtree = subtree[vp_index]
-            print(subtree)
+            # print(subtree)
             while ("VB" in subtree[0].label() or "MD" in subtree[0].label()):
                 if subtree[0].label() != "MD":
                     verbs = verbs + subtree[0].leaves()
@@ -60,34 +62,9 @@ def svo_parser(sentence):
                             if svo["object"] == "":
                                 svo["object"] = " ".join(subtree[j, z].leaves())
                             break
-        else:
-            raise Exception("Something is not right")
-    else:
-        raise Exception("Something is not right")
-
     return svo
 
 if __name__ == "__main__":
-    sentences = [
-                # "I like exercising before sunrise.",
-                # "I come here once a week.",
-                # "I often go running.",
-                # "I prefer working out with a partner.",
-                # "I need a drink.",
-                # "I have been working there for a year and a half.",
-                # "I'm looking for opportunities to learn new things.",
-                # "My house is a 30-minute drive from the city center.",
-                # "It's a noisy place to live.",
-                # "I prefer spending time at home.",
-                # "My family often gather for food on holidays.",
-                # "I see my family every two weeks.",
-                # "The most popular dish in my country is Pho."
-                # "I have worked there for 2 years.",
-                "should bring about 10 million dong."
-                ]
-    for sent in sentences:
-        try:
-            print(svo_parser(sent))
-        except Exception as e:
-            print(e, sent)
-            pass
+    sentence = "I have worked there for 2 years and a half."
+    svo = parse_tree(sentence)
+    print(svo)
