@@ -10,6 +10,7 @@ def finalize():
     # TODO: remove punctuation in part of sentences
     pass
 
+
 def svo_parser(sentence):
     sentence = re.sub(r'([a-zA-Z])([,.!])', r'\1 \2', sentence)
     svo = dict()
@@ -53,12 +54,13 @@ def svo_parser(sentence):
         for j in range(1, len(subtree)):
             if subtree[j].label() == "ADVP": # object as "here, there, etc."
                 svo["object"] = " ".join(subtree[j].leaves())
-                break
             elif subtree[j].label() == "NP":
-                svo["object"] = " ".join(subtree[j].leaves())
+                if "object" not in svo:
+                    svo["object"] = " ".join(subtree[j].leaves())
                 for z in range(len(subtree[j])):
                     if subtree[j, z].label() == "NP":
-                        svo["object"] = " ".join(subtree[j, z].leaves())
+                        if "object" not in svo:
+                            svo["object"] = " ".join(subtree[j, z].leaves())
                     elif subtree[j, z].label() == "PP":
                         svo["adverbial phrase"] = " ".join(subtree[j, z].leaves())
             elif subtree[j].label() == "PP":
@@ -89,23 +91,26 @@ def svo_parser(sentence):
 
     return svo
 
+
 if __name__ == "__main__":
     sentences = [
-                # "like exercising before sunrise.",
-                # "I come here once a week.",
-                # "often go running.",
-                # "prefer working out with a partner.",
-                # "I a drink for every weekends.",
-                # "often a drink.",
-                # "I at Step Up."
-                # "have been working there for a year and a half.",
-                # "am looking for opportunities to learn new things.",
-                # "is a 30-minute drive from the city center.",
-                # "is a noisy place to live.",
-                # "I prefer spending time at home.",
-                # "my family usually for food every weekends.",
-                # "see my family every two weeks.",
-                "the bus station usually depart at the weekends."
+                "I have worked there for 2 years."
+                # "like exercising before sunrise.", # khong thay
+                "I come here once a week.",
+                "often go running.",
+                "prefer working out with a partner.",
+                "I a drink for every weekends.",
+                "often a drink.",
+                "I at Step Up.",
+                "have been working there for a year and a half.",
+                "am looking for opportunities to learn new things.",
+                "is a 30-minute drive from the city center.",
+                "is a noisy place to live.",
+                "I prefer spending time at home.",
+                "my family usually for food every weekends.",
+                "see my family every two weeks.",
+                "the bus station usually depart at the weekends.",
+                "I."
                 ]
     for sent in sentences:
         try:
