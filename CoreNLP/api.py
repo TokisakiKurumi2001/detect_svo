@@ -82,8 +82,8 @@ def preprocess_sentence(sent: str) -> str:
 
 
 if __name__ == "__main__":
-    original_sent = "I have worked there for 2 years and a half"
-    usr_sent = "have worked there for 2 years and a half."
+    original_sent = "I'm from Japan."
+    usr_sent = "I'm from"
     res, recommend = compare_detect_segment(original_sent, usr_sent)
     if DEMO:
         print(res)
