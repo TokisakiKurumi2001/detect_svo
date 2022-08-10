@@ -81,7 +81,7 @@ def svo_parser(sentence):
                 svo["subject"] = ' '.join(tokens[:advp_index]) # Trinh please comment this
             new_sent = ' '.join(tokens[:temp_verb_index+advp_index] + ["is"] + tokens[temp_verb_index+advp_index:]) # Trinh please comment this
         else: # Trinh please comment this
-            doc = nlp(sent) # Trinh please comment this
+            doc = nlp(sentence) # Trinh please comment this
             deps = [word.dep_ for word in doc] # Trinh please comment this
             root_index = deps.index("ROOT") # Trinh please comment this
             svo["subject"] = ' '.join(tokens[:root_index+1]) # Trinh please comment this
