@@ -11,7 +11,7 @@ def compute_score(file_name: str):
         usr_sent = df['Missing'].iloc[idx]
         ground_truth = preprocess_sentence(df['Masking'].iloc[idx])
         try:
-            predict = compare_detect_segment(origin_sent, usr_sent)
+            predict, _ = compare_detect_segment(origin_sent, usr_sent)
             if predict == ground_truth:
                 score += 1
         except:

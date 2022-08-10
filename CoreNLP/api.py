@@ -1,6 +1,7 @@
 from detect import svo_parser
 from debug import debug
 import os
+from copy import deepcopy
 
 DEMO = os.getenv("DEMO")
 
@@ -54,10 +55,12 @@ def compare_detect_segment(original_sent: str, usr_sent: str) -> str:
     debug(f"User: {usr_segment}")
     buffer = ""
     missing_keys = []
-    for key in original_segment.keys():
+    recommend_segment = deepcopy(usr_segment)
+    for key, value in original_segment.items():
         if key not in usr_segment:
             missing_keys.append(key)
             usr_segment[key] = mappings(key)
+            recommend_segment[key] = value
             buffer += f"Missing {key} "
     buffer = buffer.strip()
     if DEMO:
@@ -65,7 +68,8 @@ def compare_detect_segment(original_sent: str, usr_sent: str) -> str:
     debug(missing_keys)
     debug(usr_segment)
     mask_sent = build_sentence(usr_segment) + "."
-    return mask_sent
+    recommend_sent = build_sentence(recommend_segment) + "."
+    return mask_sent, recommend_sent
 
 
 def preprocess_sentence(sent: str) -> str:
@@ -80,6 +84,7 @@ def preprocess_sentence(sent: str) -> str:
 if __name__ == "__main__":
     original_sent = "I have worked there for 2 years and a half"
     usr_sent = "have worked there for 2 years and a half."
-    res = compare_detect_segment(original_sent, usr_sent)
+    res, recommend = compare_detect_segment(original_sent, usr_sent)
     if DEMO:
         print(res)
+        print(recommend)
