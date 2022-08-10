@@ -14,6 +14,10 @@ def compute_score(file_name: str):
             predict, _ = compare_detect_segment(origin_sent, usr_sent)
             if predict == ground_truth:
                 score += 1
+            else:
+                print(
+                    f"Predict: {predict}, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}"
+                )
         except:
             print(
                 f"Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}")
