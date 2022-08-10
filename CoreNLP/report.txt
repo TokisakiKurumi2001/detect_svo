@@ -50,7 +50,7 @@ Origin: I improve my English by talking to foreigners., User: I improve my Engli
 Origin: I improve my English by talking to foreigners., User: I improve my English  , Truth: I improve my English <ma>.
 Origin: I improve my English by talking to foreigners., User: I improve by talking to foreigners, Truth: I improve <mo> by talking to foreigners.
 Origin: I improve my English by talking to foreigners., User: I my English by talking to foreigners, Truth: I <mv> my English by talking to foreigners.
-0 21 465
-1 7 274
-2 3 145
-3 29 550
+0 69 465
+1 29 274
+2 10 145
+3 53 550
