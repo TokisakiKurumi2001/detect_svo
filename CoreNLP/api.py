@@ -31,6 +31,17 @@ def postprocess_origin_segment(origin_segment):
     # dictionary are passed by reference, there is no need for returning value
 
 
+def build_sentence(segment: dict) -> str:
+    """
+    Build the sentence according to the rules of S V O Adv
+    """
+    rules = ['subject', 'verb', 'object', 'adverbial phrase']
+    buffer = ""
+    for rule in rules:
+        buffer += segment[rule] + " " if rule in segment else ""
+    return buffer.strip()
+
+
 def compare_detect_segment(original_sent: str, usr_sent: str) -> str:
     """
     Take 2 params: Original sentence with correct part of the sentence and user corrupted sentence
@@ -53,7 +64,7 @@ def compare_detect_segment(original_sent: str, usr_sent: str) -> str:
         print(buffer)
     debug(missing_keys)
     debug(usr_segment)
-    mask_sent = " ".join(usr_segment.values()) + "."
+    mask_sent = build_sentence(usr_segment) + "."
     return mask_sent
 
 
@@ -68,7 +79,7 @@ def preprocess_sentence(sent: str) -> str:
 
 if __name__ == "__main__":
     original_sent = "I have worked there for 2 years and a half"
-    usr_sent = "I."
+    usr_sent = "have worked there for 2 years and a half."
     res = compare_detect_segment(original_sent, usr_sent)
     if DEMO:
         print(res)
