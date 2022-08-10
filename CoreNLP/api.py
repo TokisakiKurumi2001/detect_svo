@@ -1,15 +1,8 @@
 from detect import svo_parser
+from debug import debug
+import os
 
-DEBUG_FLAG = False
-DEMO = True
-
-
-def debug(sent, *args, **kwargs):
-    """
-    This function only print out if the flag is set. Else ignore
-    """
-    if DEBUG_FLAG:
-        print(sent, *args, **kwargs)
+DEMO = os.getenv("DEMO")
 
 
 def mappings(segment_name: str) -> str:

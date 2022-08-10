@@ -1,0 +1,275 @@
+Origin,Missing,Masking
+I don't like the low salary.,don't like the low salary,<ms> don't like the low salary
+I don't like the low salary.,I don't like the salary,I don't like the <ma> salary
+I don't like the low salary.,I don't like the,I don't like the <mo>
+I don't like the low salary.,I the low salary,I <mv> the low salary
+I don't like the repetitive tasks.,don't like the repetitive tasks,<ms> don't like the repetitive tasks
+I don't like the repetitive tasks.,I don't like the tasks,I don't like the <ma> tasks
+I don't like the repetitive tasks.,I don't like the,I don't like the <mo>
+I don't like the repetitive tasks.,I the repetitive tasks,I <mv> the repetitive tasks
+I don't like the paperwork.,don't like the paperwork,<ms> don't like the paperwork
+I don't like the paperwork.,I don't like the,I don't like the <mo>
+I don't like the paperwork.,I the paperwork,I <mv> the paperwork
+You should hang out with your family.,should hang out with your family,<ms> should hang out with your family
+You should hang out with your family.,You should hang out your family,You should hang out <mp> your family
+You should hang out with your family.,You should hang out with ,You should hang out with <mo>
+You should hang out with your family.,You with your family,You <mv> with your family
+You should learn to enjoy your job.,should learn to enjoy your job,<ms> should learn to enjoy your job
+You should learn to enjoy your job.,You should learn enjoy your job,You should learn <mp> enjoy your job
+You should learn to enjoy your job.,You should learn to enjoy ,You should learn to enjoy <mo>
+You should learn to enjoy your job.,You to enjoy your job,You <mv> to enjoy your job
+You should relax after work.,should relax after work,<ms> should relax after work
+You should relax after work.,You should relax ,You should relax <mo>
+You should relax after work.,You after work,You <mv> after work
+I would like to have coffee with you.,would like to have coffee with you,<ms> would like to have coffee with you
+I would like to have coffee with you.,I would like ,I would like <mo>
+I would like to have coffee with you.,I coffee with you,I <mv> coffee with you
+I would like to go see a movie.,would like to go see a movie,<ms> would like to go see a movie
+I would like to go see a movie.,I would like go see a movie,I would like <mp> go see a movie
+I would like to go see a movie.,I would like ,I would like <mo>
+I would like to go see a movie.,I a movie,I <mv> a movie
+I don't want to have coffee with you.,don't want to have coffee with you,<ms> don't want to have coffee with you
+I don't want to have coffee with you.,I don't want ,I don't want <mo>
+I don't want to have coffee with you.,I coffee with you,I <mv> coffee with you
+I don't want to go out for lunch.,don't want to go out for lunch,<ms> don't want to go out for lunch
+I don't want to go out for lunch.,I don't want ,I don't want <mo>
+I don't want to go out for lunch.,I for lunch,I <mv> for lunch
+I think students should do internships.,think students should do internships,<ms> think students should do internships
+I think students should do internships.,I think students should ,I think students should <mo>
+I think students should do internships.,I think students ,I think students <mv>
+I think students should focus on studying.,think students should focus on studying,<ms> think students should focus on studying
+I think students should focus on studying.,I think students should focus studying,I think students should focus <mp> studying
+I think students should focus on studying.,I think students should ,I think students should <mo>
+I think students should focus on studying.,I think students ,I think students <mv>
+I think students should have a part-time job.,think students should have a part-time job,<ms> think students should have a part-time job
+I think students should have a part-time job.,I think students should ,I think students should <mo>
+I think students should have a part-time job.,I think students ,I think students <mv>
+You should practice interviewing.,should practice interviewing,<ms> should practice interviewing
+You should practice interviewing.,You should ,You should <mo>
+You should practice interviewing.,You interviewing,You <mv> interviewing
+You should prepare your CV.,should prepare your CV,<ms> should prepare your CV
+You should prepare your CV.,You should,You should <mo>
+You should prepare your CV.,You your CV,You <mv> your CV
+You should research the company.,should research the company,<ms> should research the company
+You should research the company.,You should,You should <mo>
+You should research the company.,You the company,You <mv> the company
+My advice is to be honest.,is to be honest,<ms> is to be honest
+My advice is to be honest.,My advice is be honest,My advice is <mp> be honest
+My advice is to be honest.,My advice is ,My advice is <mo>
+My advice is to be honest.,My advice be honest,My advice <mv> be honest
+My advice is to start with a smile.,is to start with a smile,<ms> is to start with a smile
+My advice is to start with a smile.,My advice is ,My advice is <mo>
+My advice is to start with a smile.,My advice a smile,My advice <mv> a smile
+My advice is not to be late.,is not to be late,<ms> is not to be late
+My advice is not to be late.,My advice is not be late,My advice is not <mp> be late
+My advice is not to be late.,My advice is not,My advice is not <mo>
+My advice is not to be late.,My advice be late,My advice <mv> be late
+I think doing an internship will gain us experience.,think doing an internship will gain us experience,<ms> think doing an internship will gain us experience
+I think doing an internship will gain us experience.,I think will gain us experience,I think <mo> will gain us experience
+I think doing an internship will gain us experience.,I think gain us experience,I think <mv> gain us experience
+I think doing an internship will affect our studies.,think doing an internship will affect our studies,<ms> think doing an internship will affect our studies
+I think doing an internship will affect our studies.,I think will affect our studies,I think <mo> will affect our studies
+I think doing an internship will affect our studies.,I think affect our studies,I think <mv> affect our studies
+I think doing an internship will improve our skills.,think doing an internship will improve our skills,<ms> think doing an internship will improve our skills
+I think doing an internship will improve our skills.,I think will improve our skills,I think <mo> will improve our skills
+I think doing an internship will improve our skills.,I think improve our skills,I think <mv> improve our skills
+I work less during exam season.,work less during exam season,<ms> work less during exam season
+I work less during exam season.,I work less exam season,I work less <mp> exam season
+I work less during exam season.,I work during exam season,I work <ma> during exam season
+I work less during exam season.,I work less ,I work less <mo>
+I work less during exam season.,I during exam season,I <mv> during exam season
+I study during my work breaks during exam season.,study during my work breaks during exam season,<ms> study during my work breaks during exam season
+I study during my work breaks during exam season.,I study during my work breaks,I study during my work breaks during <mo>
+I take days off to study during exam season.,take days off to study during exam season,<ms> take days off to study during exam season
+I take days off to study during exam season.,I take days off to study ,I take days off to study <mo>
+I take days off to study during exam season.,I during exam season,I <mv> during exam season
+I like studying more.,like studying more,<ms> like studying more
+I like studying more.,I like studying,I like studying <ma>
+I like studying more.,I studying more,I <mv> studying more
+I like doing other things more.,like doing other things more,<ms> like doing other things more
+I like doing other things more.,I like doing other things ,I like doing other things <ma>
+I like doing other things more.,I other things more,I <mv> other things more
+I like working more.,like working more,<ms> like working more
+I like working more.,I like working ,I like working <ma>
+I like working more.,I working more,I <mv> working more
+My job is related to my major.,is related to my major,<ms> is related to my major
+My job is related to my major.,My job is related my major,My job is related <mp> my major
+My job is related to my major.,My job is ,My job is <mo>
+My job is related to my major.,My job to my major,My job <mv> to my major
+My job is fun and interesting.,is fun and interesting,<ms> is fun and interesting
+My job is fun and interesting.,My job is ,My job is <mo>
+My job is fun and interesting.,My job fun and interesting,My job <mv> fun and interesting
+My job is not related to my major.,is not related to my major,<ms> is not related to my major
+My job is not related to my major.,My job is not related my major,My job is not related <mp> my major
+My job is not related to my major.,My job is not,My job is not <mo>
+My job is not related to my major.,My job to my major,My job <mv> to my major
+My job is not flexible.,is not flexible,<ms> is not flexible
+My job is not flexible.,My job is not,My job is not <mo>
+My job is not flexible.,My job flexible,My job <mv> flexible
+I have missed a deadline.,have missed a deadline,<ms> have missed a deadline
+I have missed a deadline.,I have missed,I have missed <mo>
+I have missed a deadline.,I a deadline,I <mv> a deadline
+I have talked to my boss.,have talked to my boss,<ms> have talked to my boss
+I have talked to my boss.,I have talked my boss,I have talked <mp> my boss
+I have talked to my boss.,I have talked to,I have talked to <mo>
+I have talked to my boss.,I my boss,I <mv> my boss
+I have never missed a deadline.,have never missed a deadline,<ms> have never missed a deadline
+I have never missed a deadline.,I have never missed ,I have never missed <mo>
+I have never missed a deadline.,I a deadline,I <mv> a deadline
+I have never been late for work.,have never been late for work,<ms> have never been late for work
+I have never been late for work.,I have never been late work,I have never been late <mp> work
+I have never been late for work.,I have never been ,I have never been <mo>
+I have never been late for work.,I late for work,I <mv> late for work
+I usually plan everything ahead.,usually plan everything ahead,<ms> usually plan everything ahead
+I usually plan everything ahead.,I usually plan ahead,I usually plan <mo> ahead
+I usually plan everything ahead.,I usually everything ahead,I usually <mv> everything ahead
+I usually maintain focus when working.,usually maintain focus when working,<ms> usually maintain focus when working
+I usually maintain focus when working.,I usually when working,I usually <mo> when working
+I usually maintain focus when working.,I usually when working,I usually <mv> when working
+I usually avoid multitasking.,usually avoid multitasking,<ms> usually avoid multitasking
+I usually avoid multitasking.,I usually avoid ,I usually avoid <mo>
+I usually avoid multitasking.,I usually multitasking,I usually <mv> multitasking
+It would have flexible working hours.,would have flexible working hours,<ms> would have flexible working hours
+It would have flexible working hours.,It would have working hours,It would have <ma> working hours
+It would have flexible working hours.,It would have ,It would have <mo>
+It would have flexible working hours.,It flexible working hours,It <mv> flexible working hours
+It would have no office drama.,would have no office drama,<ms> would have no office drama
+It would have no office drama.,It would have ,It would have <mo>
+It would have no office drama.,It no office drama,It <mv> no office drama
+It would have fewer meetings.,would have fewer meetings,<ms> would have fewer meetings
+It would have fewer meetings.,It would have meetings,It would have <ma> meetings
+It would have fewer meetings.,It would have ,It would have <mo>
+It would have fewer meetings.,It fewer meetings,It <mv> fewer meetings
+My advice is to be confident.,is to be confident,<ms> is to be confident
+My advice is to be confident.,My advice is be confident,My advice is <mp> be confident
+My advice is to be confident.,My advice is ,My advice is <mo>
+My advice is to be confident.,My advice be confident,My advice <mv> be confident
+My advice is to work hard.,is to work hard,<ms> is to work hard
+My advice is to work hard.,My advice is work hard,My advice is <mp> work hard
+My advice is to work hard.,My advice is to work,My advice is to work <ma>
+My advice is to work hard.,My advice is ,My advice is <mo>
+My advice is to work hard.,My advice work hard,My advice <mv> work hard
+My advice is to learn from your boss.,is to learn from your boss,<ms> is to learn from your boss
+My advice is to learn from your boss.,My advice is ,My advice is <mo>
+My advice is to learn from your boss.,My advice from your boss,My advice <mv> from your boss
+I have made a reservation.,have made a reservation,<ms> have made a reservation
+I have made a reservation.,I have made,I have made <mo>
+I have made a reservation.,I a reservation,I <mv> a reservation
+I have ordered food.,have ordered food,<ms> have ordered food
+I have ordered food.,I have ordered ,I have ordered <mo>
+I have ordered food.,I food,I <mv> food
+I have not made a reservation.,have not made a reservation,<ms> have not made a reservation
+I have not made a reservation.,I have not made ,I have not made <mo>
+I have not made a reservation.,I a reservation,I <mv> a reservation
+I have not had the bill.,have not had the bill,<ms> have not had the bill
+I have not had the bill.,I have not had ,I have not had <mo>
+I have not had the bill.,I the bill,I <mv> the bill
+I would like to sit by the window.,would like to sit by the window,<ms> would like to sit by the window
+I would like to sit by the window.,I would like ,I would like <mo>
+I would like to sit by the window.,I by the window,I <mv> by the window
+I would like to sit in the corner.,would like to sit in the corner,<ms> would like to sit in the corner
+I would like to sit in the corner.,I would like ,I would like <mo>
+I would like to sit in the corner.,I in the corner,I <mv> in the corner
+I would like to sit away from the main door.,would like to sit away from the main door,<ms> would like to sit away from the main door
+I would like to sit away from the main door.,I would like to sit from the main door,I would like to sit <ma> from the main door
+I would like to sit away from the main door.,I would like ,I would like <mo>
+I would like to sit away from the main door.,I from the main door,I <mv> from the main door
+I am ready to order.,am ready to order,<ms> am ready to order
+I am ready to order.,I am ready order,I am ready <mp> order
+I am ready to order.,I am ready ,I am ready <mo>
+I am ready to order.,I am to order,I am <mv> to order
+I am ready for dessert.,am ready for dessert,<ms> am ready for dessert
+I am ready for dessert.,I am ready dessert,I am ready <mp> dessert
+I am ready for dessert.,I am ready ,I am ready <mo>
+I am ready for dessert.,I am for dessert,I am <mv> for dessert
+I'm not ready to order yet.,am not ready to order yet,<ms> not ready to order yet
+I'm not ready to order yet.,I'm not ready order yet,I'm not ready <mp> order yet
+I'm not ready to order yet.,I'm not ready to order,I'm not ready to order <ma>
+I'm not ready to order yet.,I'm to order yet,I'm <mv> to order yet
+I'm not ready to pay yet.,am not ready to pay yet,<ms> not ready to pay yet
+I'm not ready to pay yet.,I'm not ready pay yet,I'm not ready <mp> pay yet
+I'm not ready to pay yet.,I'm not ready to pay,I'm not ready to pay <ma>
+I'm not ready to pay yet.,I'm to pay yet,I'm <mv> to pay yet
+I would like an egg salad.,would like an egg salad,<ms> would like an egg salad
+I would like an egg salad.,I would like ,I would like <mo>
+I would like an egg salad.,I an egg salad,I <mv> an egg salad
+I would like a cheese pizza.,would like a cheese pizza,<ms> would like a cheese pizza
+I would like a cheese pizza.,I would like ,I would like <mo>
+I would like a cheese pizza.,I a cheese pizza,I <mv> a cheese pizza
+I would like two chicken sandwiches.,would like two chicken sandwiches,<ms> would like two chicken sandwiches
+I would like two chicken sandwiches.,I would like ,I would like <mo>
+I would like two chicken sandwiches.,I two chicken sandwiches,I <mv> two chicken sandwiches
+I would like a glass of orange juice.,would like a glass of orange juice,<ms> would like a glass of orange juice
+I would like a glass of orange juice.,I would like a glass orange juice,I would like a glass <mp> orange juice
+I would like a glass of orange juice.,I would like ,I would like <mo>
+I would like a glass of orange juice.,I a glass of orange juice,I <mv> a glass of orange juice
+I would like two cokes.,would like two cokes,<ms> would like two cokes
+I would like two cokes.,I would like ,I would like <mo>
+I would like two cokes.,I two cokes,I <mv> two cokes
+I would like a bottle of water.,would like a bottle of water,<ms> would like a bottle of water
+I would like a bottle of water.,I would like a bottle water,I would like a bottle <mp> water
+I would like a bottle of water.,I would like ,I would like <mo>
+I would like a bottle of water.,I a bottle of water,I <mv> a bottle of water
+I will pay by cash.,will pay by cash,<ms> will pay by cash
+I will pay by cash.,I will pay cash,I will pay <mp> cash
+I will pay by cash.,I will pay,I will pay <mo>
+I will pay by cash.,I by cash,I <mv> by cash
+I will pay by e-wallet.,will pay by e-wallet,<ms> will pay by e-wallet
+I will pay by e-wallet.,I will pay e-wallet,I will pay <mp> e-wallet
+I will pay by e-wallet.,I will pay,I will pay <mo>
+I will pay by e-wallet.,I by e-wallet,I <mv> by e-wallet
+I will pay by card.,will pay by card,<ms> will pay by card
+I will pay by card.,I will pay card,I will pay <mp> card
+I will pay by card.,I will pay,I will pay <mo>
+I will pay by card.,I by card,I <mv> by card
+I'm free tomorrow.,am free tomorrow,<ms> free tomorrow
+I'm free tomorrow.,I am tomorrow,<mo> tomorrow
+I'm free tomorrow.,I'm tomorrow,I'm <mv> tomorrow
+I'm free this weekend.,am free this weekend,<ms> free this weekend
+I'm free this weekend.,I am this weekend,<mo> this weekend
+I'm free this weekend.,I'm this weekend,I'm <mv> this weekend
+I'm free the day after tomorrow.,am free the day after tomorrow,<ms> free the day after tomorrow
+I'm free the day after tomorrow.,I'm free the day tomorrow,I'm free the day <mp> tomorrow
+I'm free the day after tomorrow.,I am the day after tomorrow,<mo> the day after tomorrow
+I'm free the day after tomorrow.,I'm the day after tomorrow,I'm <mv> the day after tomorrow
+I like horror movies.,like horror movies,<ms> like horror movies
+I like horror movies.,I like,I like <mo>
+I like horror movies.,I horror movies,I <mv> horror movies
+I like romance movies.,like romance movies,<ms> like romance movies
+I like romance movies.,I like,I like <mo>
+I like romance movies.,I romance movies,I <mv> romance movies
+I like comedy movies.,like comedy movies,<ms> like comedy movies
+I like comedy movies.,I like,I like <mo>
+I like comedy movies.,I comedy movies,I <mv> comedy movies
+I have seen the trailer.,have seen the trailer,<ms> have seen the trailer
+I have seen the trailer.,I have seen ,I have seen <mo>
+I have seen the trailer.,I the trailer,I <mv> the trailer
+I have seen that movie.,have seen that movie,<ms> have seen that movie
+I have seen that movie.,I have seen ,I have seen <mo>
+I have seen that movie.,I that movie,I <mv> that movie
+I have not seen the trailer.,have not seen the trailer,<ms> have not seen the trailer
+I have not seen the trailer.,I have not seen ,I have not seen <mo>
+I have not seen the trailer.,I the trailer,I <mv> the trailer
+I have not seen the review.,have not seen the review,<ms> have not seen the review
+I have not seen the review.,I have not seen ,I have not seen <mo>
+I have not seen the review.,I the review,I <mv> the review
+We should meet at the cinema.,should meet at the cinema,<ms> should meet at the cinema
+We should meet at the cinema.,We should meet the cinema,We should meet <mp> the cinema
+We should meet at the cinema.,We should meet ,We should meet <mo>
+We should meet at the cinema.,We at the cinema,We <mv> at the cinema
+We should meet at my place.,should meet at my place,<ms> should meet at my place
+We should meet at my place.,We should meet my place,We should meet <mp> my place
+We should meet at my place.,We should meet ,We should meet <mo>
+We should meet at my place.,We at my place,We <mv> at my place
+We should meet at the café near the cinema.,should meet at the café near the cinema,<ms> should meet at the café near the cinema
+We should meet at the café near the cinema.,We should meet ,We should meet <mo>
+We should meet at the café near the cinema.,We at the café near the cinema,We <mv> at the café near the cinema
+I usually have popcorn.,usually have popcorn,<ms> usually have popcorn
+I usually have popcorn.,I usually have ,I usually have <mo>
+I usually have popcorn.,I usually popcorn,I usually <mv> popcorn
+I usually have beef jerky.,usually have beef jerky,<ms> usually have beef jerky
+I usually have beef jerky.,I usually have ,I usually have <mo>
+I usually have beef jerky.,I usually beef jerky,I usually <mv> beef jerky
+I usually have iced coke.,usually have iced coke,<ms> usually have iced coke
+I usually have iced coke.,I usually have ,I usually have <mo>
+I usually have iced coke.,I usually iced coke,I usually <mv> iced coke

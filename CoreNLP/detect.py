@@ -4,7 +4,9 @@ from tkinter import RAISED
 from nltk.parse.corenlp import CoreNLPParser
 import re
 import spacy
+import os
 nlp = spacy.load("en_core_web_sm")
+
 
 def finalize():
     # TODO: remove punctuation in part of sentences
@@ -18,16 +20,22 @@ def svo_parser(sentence):
     parser = CoreNLPParser()
 
     tree = next(parser.parse_text(sentence))
-    tree.pretty_print()
+    if os.getenv("TREE"):
+        tree.pretty_print()
     subtree = tree[0] if len(tree) == 1 else tree
 
-    ## START HERE
+    # START HERE
     children = [tree.label() for tree in subtree]
-    np_index = next((i for i in range(len(children)) if children[i] == "NP"), None)
-    advp_index = next((i for i in range(len(children)) if children[i] == "ADVP"), None) # always, often, usually, etc.
-    vp_index = next((i for i in range(len(children)) if children[i] == "VP"), None) # find first occurence of VP, if not found, return None
+    np_index = next((i for i in range(len(children))
+                    if children[i] == "NP"), None)
+    # always, often, usually, etc.
+    advp_index = next((i for i in range(len(children))
+                      if children[i] == "ADVP"), None)
+    # find first occurence of VP, if not found, return None
+    vp_index = next((i for i in range(len(children))
+                    if children[i] == "VP"), None)
 
-    if vp_index is not None: # if VERB exists
+    if vp_index is not None:  # if VERB exists
         # detect subjects
         if np_index is not None:
             svo["subject"] = " ".join(subtree[np_index].leaves())
@@ -38,11 +46,11 @@ def svo_parser(sentence):
         while ("VB" in subtree[0].label() or "MD" in subtree[0].label()):
             if subtree[0].label() != "MD":
                 verbs = verbs + subtree[0].leaves()
-            if len(subtree) > 1: # there are cases that have only one child, e.g: S - VP - VBG - running
+            if len(subtree) > 1:  # there are cases that have only one child, e.g: S - VP - VBG - running
                 if subtree[1].label() == "S":
                     subtree = subtree[1, 0]
                     continue
-                if subtree[1].label() == "VP":    
+                if subtree[1].label() == "VP":
                     subtree = subtree[1]
                 else:
                     break
@@ -52,7 +60,7 @@ def svo_parser(sentence):
 
         # traverse the middle tree to find Object
         for j in range(1, len(subtree)):
-            if subtree[j].label() == "ADVP": # object as "here, there, etc."
+            if subtree[j].label() == "ADVP":  # object as "here, there, etc."
                 svo["object"] = " ".join(subtree[j].leaves())
             elif subtree[j].label() == "NP":
                 if "object" not in svo:
@@ -62,7 +70,8 @@ def svo_parser(sentence):
                         if "object" not in svo:
                             svo["object"] = " ".join(subtree[j, z].leaves())
                     elif subtree[j, z].label() == "PP":
-                        svo["adverbial phrase"] = " ".join(subtree[j, z].leaves())
+                        svo["adverbial phrase"] = " ".join(
+                            subtree[j, z].leaves())
             elif subtree[j].label() == "PP":
                 svo["adverbial phrase"] = " ".join(subtree[j].leaves())
                 for z in range(len(subtree)):
@@ -70,48 +79,56 @@ def svo_parser(sentence):
                         if "object" not in svo:
                             svo["object"] = " ".join(subtree[j, z].leaves())
                         break
-    else: # if VERB does not exists, it is hard to detect subject and object -> use spacy for this
+    else:  # if VERB does not exists, it is hard to detect subject and object -> use spacy for this
         tokens = sentence.split(' ')
-        if advp_index and advp_index != 0: # Trinh please comment this
-            temp_verb_index = 0 # Trinh please comment this
-            if np_index is not None: # Trinh please comment this
-                temp_verb_index = len(subtree[np_index].leaves()) # Trinh please comment this
-                svo["subject"] = " ".join(subtree[np_index].leaves()) # Trinh please comment this
-            else: # Trinh please comment this
-                svo["subject"] = ' '.join(tokens[:advp_index]) # Trinh please comment this
-            new_sent = ' '.join(tokens[:temp_verb_index+advp_index] + ["is"] + tokens[temp_verb_index+advp_index:]) # Trinh please comment this
-        else: # Trinh please comment this
-            doc = nlp(sentence) # Trinh please comment this
-            deps = [word.dep_ for word in doc] # Trinh please comment this
-            root_index = deps.index("ROOT") # Trinh please comment this
-            svo["subject"] = ' '.join(tokens[:root_index+1]) # Trinh please comment this
-            new_sent = ' '.join(tokens[:root_index+1] + ["is"] + tokens[root_index+1:]) # Trinh please comment this
-        svo = svo_parser(new_sent) # Trinh please comment this
-        svo.pop('verb', None) # Trinh please comment this
+        if advp_index and advp_index != 0:  # Trinh please comment this
+            temp_verb_index = 0  # Trinh please comment this
+            if np_index is not None:  # Trinh please comment this
+                # Trinh please comment this
+                temp_verb_index = len(subtree[np_index].leaves())
+                # Trinh please comment this
+                svo["subject"] = " ".join(subtree[np_index].leaves())
+            else:  # Trinh please comment this
+                # Trinh please comment this
+                svo["subject"] = ' '.join(tokens[:advp_index])
+            new_sent = ' '.join(tokens[:temp_verb_index+advp_index] + ["is"] +
+                                tokens[temp_verb_index+advp_index:])  # Trinh please comment this
+        else:  # Trinh please comment this
+            doc = nlp(sentence)  # Trinh please comment this
+            deps = [word.dep_ for word in doc]  # Trinh please comment this
+            root_index = deps.index("ROOT")  # Trinh please comment this
+            # Trinh please comment this
+            svo["subject"] = ' '.join(tokens[:root_index+1])
+            # Trinh please comment this
+            new_sent = ' '.join(
+                tokens[:root_index+1] + ["is"] + tokens[root_index+1:])
+        svo = svo_parser(new_sent)  # Trinh please comment this
+        svo.pop('verb', None)  # Trinh please comment this
 
     return svo
 
 
 if __name__ == "__main__":
     sentences = [
-                "I have worked there for 2 years."
-                # "like exercising before sunrise.", # khong thay
-                "I come here once a week.",
-                "often go running.",
-                "prefer working out with a partner.",
-                "I a drink for every weekends.",
-                "often a drink.",
-                "I at Step Up.",
-                "have been working there for a year and a half.",
-                "am looking for opportunities to learn new things.",
-                "is a 30-minute drive from the city center.",
-                "is a noisy place to live.",
-                "I prefer spending time at home.",
-                "my family usually for food every weekends.",
-                "see my family every two weeks.",
-                "the bus station usually depart at the weekends.",
-                "I."
-                ]
+        # "I have worked there for 2 years."
+        # # "like exercising before sunrise.", # khong thay
+        # "I come here once a week.",
+        # "often go running.",
+        # "prefer working out with a partner.",
+        # "I a drink for every weekends.",
+        # "often a drink.",
+        # "I at Step Up.",
+        # "have been working there for a year and a half.",
+        # "am looking for opportunities to learn new things.",
+        # "is a 30-minute drive from the city center.",
+        # "is a noisy place to live.",
+        # "I prefer spending time at home.",
+        # "my family usually for food every weekends.",
+        # "see my family every two weeks.",
+        # "the bus station usually depart at the weekends.",
+        # "I."
+        "I work at."
+    ]
     for sent in sentences:
         try:
             print(svo_parser(sent))
