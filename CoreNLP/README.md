@@ -12,3 +12,41 @@
 chmod +x shutdown_server.sh # Run this only once
 python server.py stop
 ```
+
+## How to run the hard way (obviously correct way)
+
+### `detect.py` file
+
+To print the tree, please use TREE=True before `python detect.py`. For example,
+
+- Print Tree
+
+```bash
+TREE=True python detect.py
+```
+
+- Not print tree
+
+```bash
+python detect.py
+```
+
+### `api.py` file
+
+In this file, we add DEBUG_FLAG for printing debug statement and DEMO for demonstration
+
+- To demo
+
+```bash
+DEMO=True python api.py
+```
+
+- To Debug
+
+```bash
+DEBUG_FLAG=True python api.py
+```
+
+### `massive_test.py` file
+
+This call the `api.py`, `api.py` call `detect.py` so use the combination of the environment variable to get the best achievement
