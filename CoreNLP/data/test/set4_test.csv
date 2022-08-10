@@ -1,0 +1,551 @@
+Origin,Missing,Masking
+I have been a member for three months.,have been a member for three months,<ms> have been a member for three months
+I have been a member for three months.,I have been a member three months,I have been a member <mp> three months
+I have been a member for three months.,I have been a member,I have been a member <ma>
+I have been a member for three months.,I have been,I have been <mo>
+I have been a member for three months.,I have been for three months,I have been <mo> for three months
+I have been a member for three months.,I a member for three months,I <mv> a member for three months
+I have been a member for a year.,have been a member for a year,<ms> have been a member for a year
+I have been a member for a year.,I have been a member a year,I have been a member <mp> a year
+I have been a member for a year.,I have been,I have been <mo>
+I have been a member for a year.,I have been for a year,I have been a <mo> for a year
+I have been a member for a year.,I a member for a year,I <mv> a member for a year
+I have been a member for just one week.,have been a member for just one week,<ms> have been a member for just one week
+I have been a member for just one week.,I have been a member just one week,I have been a member <mp> just one week
+I have been a member for just one week.,I have been a member,I have been a member <ma>
+I have been a member for just one week.,I have been,I have been <mo>
+I have been a member for just one week.,I have been for just one week,I have been <mo> for just one week
+I have been a member for just one week.,I a member for just one week,I <mv> a member for just one week
+I joined to make some new friends.,joined to make some new friends,<ms> joined to make some new friends
+I joined to make some new friends.,I joined make some new friends,I joined <mp> make some new friends
+I joined to make some new friends.,I joined ,I joined <ma>
+I joined to make some new friends.,I joined to make  ,I joined to make <mo>
+I joined to make some new friends.,I joined to,I joined to <mo>
+I joined to make some new friends.,I joined to some new friends,I joined to <mv> some new friends
+I joined to make some new friends.,I to make some new friends,I <mv> to make some new friends
+I joined to help the community.,joined to help the community,<ms> joined to help the community
+I joined to help the community.,I joined help the community,I joined <mp> help the community
+I joined to help the community.,I joined ,I joined <ma>
+I joined to help the community.,I joined to,I joined to <mo>
+I joined to help the community.,I joined to help,I joined to help <mo>
+I joined to help the community.,I to help the community,I <mv> to help the community
+I joined to earn a certificate.,joined to earn a certificate,<ms> joined to earn a certificate
+I joined to earn a certificate.,I joined earn a certificate,I joined <mp> earn a certificate
+I joined to earn a certificate.,I joined ,I joined <ma>
+I joined to earn a certificate.,I joined to,I joined to <mo>
+I joined to earn a certificate.,I joined to earn,I joined to earn <mo>
+I joined to earn a certificate.,I to earn a certificate,I <mv> to earn a certificate
+I find it very interesting.,find it very interesting,<ms> find it very interesting
+I find it very interesting.,I  find it,I find it <ma>
+I find it very interesting.,I find  ,I find <mo>
+I find it very interesting.,I it very interesting,I <mv> it very interesting
+I find it challenging.,find it challenging,<ms> find it challenging
+I find it challenging.,I  find it,I find it <ma>
+I find it challenging.,I find ,I find <mo>
+I find it challenging.,I it challenging,I <mv> it challenging
+I find it boring.,find it boring,<ms> find it boring
+I find it boring.,I  find it,I find it <ma>
+I find it boring.,I find  ,I find <mo>
+I find it boring.,I it boring,I <mv> it boring
+I'm also a part of a charity for children in need.,Am also a part of a charity for children in need,<ms> also a part of a charity for children in need
+I'm also a part of a charity for children in need.,I'm a part of a charity for children in need,I'm <ma> a part of a charity for children in need
+I'm also a part of a charity for children in need.,I'm also a part of,I'm also a part of a <mo>
+I'm also a part of a charity for children in need.,I'm also ,I'm also <mo>
+I'm also a part of a charity for children in need.,I a part of a charity for children in need,<mv> a part of a charity for children in need
+I'm also a part of an environment cleaning team.,Am also a part of an environment cleaning team,<ms> also a part of an environment cleaning team
+I'm also a part of an environment cleaning team.,I'm also a part environment cleaning team,I'm also a part <mp> environment cleaning team
+I'm also a part of an environment cleaning team.,I'm a part of an environment cleaning team,I'm <ma> a part of an environment cleaning team
+I'm also a part of an environment cleaning team.,I'm also a part of,I'm also a part of <mo>
+I'm also a part of an environment cleaning team.,I'm also,I'm also <mo>
+I'm also a part of an environment cleaning team.,I a part of an environment cleaning team,<mv> a part of an environment cleaning team
+I'm also a part of an animal rescue team.,Am also a part of an animal rescue team,<ms> also a part of an animal rescue team
+I'm also a part of an animal rescue team.,I'm also a part an animal rescue team,I'm also a part <mp> an animal rescue team
+I'm also a part of an animal rescue team.,I'm a part of an animal rescue team,I'm <ma> a part of an animal rescue team
+I'm also a part of an animal rescue team.,I'm also a part of,I'm also a part of <mo>
+I'm also a part of an animal rescue team.,I'm also,I'm also <mo>
+I'm also a part of an animal rescue team.,I a part of an animal rescue team,<mv> a part of an animal rescue team
+I'm in charge of running media sites.,am in charge of running media sites,<ms> in charge of running media sites
+I'm in charge of running media sites.,I'm in charge running media sites,I'm in charge <mp> running media sites
+I'm in charge of running media sites.,I'm in charge ,I'm in charge <mo>
+I'm in charge of running media sites.,I'm of running media sites,I'm <mv> of running media sites
+I'm in charge of collecting data.,in charge of collecting data,<ms> in charge of collecting data
+I'm in charge of collecting data.,I'm in charge collecting data,I'm in charge <mp> collecting data
+I'm in charge of collecting data.,I'm of collecting data,I'm <mv> of collecting data
+I'm in charge of managing volunteers.,in charge of managing volunteers,<ms> in charge of managing volunteers
+I'm in charge of managing volunteers.,I'm in charge managing volunteers,I'm in charge <mp> managing volunteers
+I'm in charge of managing volunteers.,I'm of managing volunteers,I'm <mv> of managing volunteers
+I would like to be a part of this again.,would like to be a part of this again,<ms> would like to be a part of this again
+I would like to be a part of this again.,I would like to be a part this again,I would like to be a part <mp> this again
+I would like to be a part of this again.,I would like to be a part of this  ,I would like to be a part of this <ma>
+I would like to be a part of this again.,I would like to be,I would like to be <mo>
+I would like to be a part of this again.,I a part of this again,I <mv> a part of this again
+I would like to join other projects.,would like to join other projects,<ms> would like to join other projects
+I would like to join other projects.,I would like join other projects,I would like <mp> join other projects
+I would like to join other projects.,I would like to  ,I would like to <mo>
+I would like to join other projects.,I would like to join,I would like to join <mo>
+I would like to join other projects.,I to join other projects,I <mv> to join other projects
+I don't want to be a part of this again.,don't want to be a part of this again,<ms> don't want to be a part of this again
+I don't want to be a part of this again.,I don't want to be a part of this  ,I don't want to be a part of this <ma>
+I don't want to be a part of this again.,I don't want to be,I don't want to be <mo>
+I don't want to be a part of this again.,I a part of this again,I <mv> a part of this again
+I don't want to make new friends.,don't want to make new friends,<ms> don't want to make new friends
+I don't want to make new friends.,I don't want make new friends,I don't want <mp> make new friends
+I don't want to make new friends.,I don't want to  ,I don't want to <mo>
+I don't want to make new friends.,I don't want to make,I don't want to make <mo>
+I don't want to make new friends.,I to make new friends,I <mv> to make new friends
+I found out about it through their Facebook event.,found out about it through their Facebook event,<ms> found out about it through their Facebook event
+I found out about it through their Facebook event.,I found out about it ,I found out about it <ma>
+I found out about it through their Facebook event.,I found out,I found out <mo>
+I found out about it through a friend.,found out about it through a friend,<ms> found out about it through a friend
+I found out about it through a friend.,I found out,I found out <mo>
+I found out about it through a friend.,I about it through a friend,I <mv> about it through a friend
+I found out about it through a poster at my favorite café.,found out about it through a poster at my favorite café,<ms> found out about it through a poster at my favorite café
+I found out about it through a poster at my favorite café.,I found out,I found out <mo>
+I come to these festivals all the time.,come to these festivals all the time,<ms> come to these festivals all the time
+I come to these festivals all the time.,I come these festivals all the time,I come <mp> these festivals all the time
+I come to these festivals all the time.,I come to these festivals  ,I come to these festivals <ma>
+I come to these festivals all the time.,I come all the time,I come <mo> all the time
+I come to these festivals all the time.,I to these festivals all the time,I <mv> to these festivals all the time
+I come to these festivals when I have the chance.,I come these festivals when I have the chance,I come <mp> these festivals when I have the chance
+I come to these festivals when I have the chance.,I come when I have the chance,I come <mo> when I have the chance
+I come to these festivals every summer.,come to these festivals every summer,<ms> come to these festivals every summer
+I come to these festivals every summer.,I come these festivals every summer,I come <mp> these festivals every summer
+I come to these festivals every summer.,I come to these festivals ,I come to these festivals <ma>
+I come to these festivals every summer.,I come every summer,I come <mo> every summer
+I come to these festivals every summer.,I to these festivals every summer,I <mv> to these festivals every summer
+I'm excited to see my favorite singer., Am excited to see my favorite singer,<ms> excited to see my favorite singer
+I'm excited to see my favorite singer.,I'm excited see my favorite singer,I'm excited <mp> see my favorite singer
+I'm excited to see my favorite singer.,I'm excited to see my singer,I'm excited to see my <ma> singer
+I'm excited to see my favorite singer.,I'm excited ,I'm excited <mo>
+I'm excited to see my favorite singer.,I'm excited to see,I'm excited to see <mo>
+I'm excited to see my favorite singer.,I excited to see my favorite singer,<mv> excited to see my favorite singer
+I'm excited to see my favorite rock band.,Am excited to see my favorite rock band,<ms> excited to see my favorite rock band
+I'm excited to see my favorite rock band.,I'm excited see my favorite rock band,I'm excited <mp> see my favorite rock band
+I'm excited to see my favorite rock band.,I'm excited to see my rock band,I'm excited to see my <ma> rock band
+I'm excited to see my favorite rock band.,I'm excited ,I'm excited <mo>
+I'm excited to see my favorite rock band.,I'm excited to see,I'm excited to see <mo>
+I'm excited to see my favorite rock band.,I excited to see my favorite rock band,<mv> excited to see my favorite rock band
+I'm excited to see all the performances.,Am excited to see all the performances,<ms> excited to see all the performances
+I'm excited to see all the performances.,I'm excited see all the performances,I'm excited <mp> see all the performances
+I'm excited to see all the performances.,I'm excited to see the performances,I'm excited to see <ma> the performances
+I'm excited to see all the performances.,I'm excited ,I'm excited <mo>
+I'm excited to see all the performances.,I'm excited to see,I'm excited to see <mo>
+I'm excited to see all the performances.,I excited to see all the performances,<mv> excited to see all the performances
+I like pop music.,like pop music,<ms> like pop music
+I like pop music.,I like  ,I like <mo>
+I like pop music.,I pop music,I <mv> pop music
+I like rock music.,like rock music,<ms> like rock music
+I like rock music.,I like ,I like <mo>
+I like rock music.,I rock music,I <mv> rock music
+I like country music.,like country music,<ms> like country music
+I like country music.,I like ,I like <mo>
+I like country music.,I country music,I <mv> country music
+I have been a fan for a year.,have been a fan for a year,<ms> have been a fan for a year
+I have been a fan for a year.,I have been a fan a year,I have been a fan <mp> a year
+I have been a fan for a year.,I have been a fan for  ,I have been a fan for a <ma>
+I have been a fan for a year.,I have been for a year,I have been a <mo> for a year
+I have been a fan for a year.,I a fan for a year,I <mv> a fan for a year
+I have been a fan for a while.,have been a fan for a while,<ms> have been a fan for a while
+I have been a fan for a while.,I have been a fan a while,I have been a fan <mp> a while
+I have been a fan for a while.,I have been a fan for,I have been a fan for a <ma>
+I have been a fan for a while.,I have been for a while,I have been a <mo> for a while
+I have been a fan for a while.,I a fan for a while,I <mv> a fan for a while
+I have been a fan ever since their debut.,have been a fan ever since their debut,<ms> have been a fan ever since their debut
+I have been a fan ever since their debut.,I have been a fan ,I have been a fan <ma>
+I have been a fan ever since their debut.,I have been ever since their debut,I have been <mo> ever since their debut
+I have been a fan ever since their debut.,I a fan ever since their debut,I <mv> a fan ever since their debut
+I come here once a week.,come here once a week,<ms> come here once a week
+I come here once a week.,I come once a week,I come <mp> once a week
+I come here once a week.,I come here ,I come here <ma>
+I come here once a week.,I come ,I come <mo>
+I come here once a week.,I here once a week,I <mv> here once a week
+I come here every weekend., come here every weekend,<ms> come here every weekend
+I come here every weekend.,I come every weekend,I come <mp> every weekend
+I come here every weekend.,I come here ,I come here <ma>
+I come here every weekend.,I come ,I come <mo>
+I come here every weekend.,I here every weekend,I <mv> here every weekend
+I come here twice a month.,come here twice a month,<ms> come here twice a month
+I come here twice a month.,I come twice a month,I come <mp> twice a month
+I come here twice a month.,I come here  ,I come here <ma>
+I come here twice a month.,I come ,I come <mo>
+I come here twice a month.,I here twice a month,I <mv> here twice a month
+I like exercising before sunrise.,like exercising before sunrise,<ms> like exercising before sunrise
+I like exercising before sunrise.,I like exercising  ,I like exercising <ma>
+I like exercising before sunrise.,I like,I like <mo>
+I like exercising before sunrise.,I exercising before sunrise,I <mv> exercising before sunrise
+I like exercising after lunch.,like exercising after lunch,<ms> like exercising after lunch
+I like exercising after lunch.,I like exercising,I like exercising <ma>
+I like exercising after lunch.,I like,I like <mo>
+I like exercising after lunch.,I exercising after lunch,I <mv> exercising after lunch
+I like exercising before bed.,like exercising before bed,<ms> like exercising before bed
+I like exercising before bed.,I like exercising,I like exercising <ma>
+I like exercising before bed.,I like,I like <mo>
+I like exercising before bed.,I exercising before bed,I <mv> exercising before bed
+I like exercising at the park because it's more spacious.,like exercising at the park because it's more spacious,<ms> like exercising at the park because it's more spacious
+I like exercising at the park because it's more spacious.,I like exercising the park because it's more spacious,I like exercising <mp> the park because it's more spacious
+I like exercising at the park because it's more spacious.,I like exercising at the park  ,I like exercising at the park <ma>
+I like exercising at the park because it's more spacious.,I like at the park because it's more spacious,I like <mo> at the park because it's more spacious
+I like exercising at the park because it's more spacious.,I exercising at the park because it's more spacious,I <mv> exercising at the park because it's more spacious
+I like exercising at the park because it's free., like exercising at the park because it's free,<ms> like exercising at the park because it's free
+I like exercising at the park because it's free.,I like exercising the park because it's free,I like exercising <mp> the park because it's free
+I like exercising at the park because it's free.,I like exercising at the park  ,I like exercising at the park <ma>
+I like exercising at the park because it's free.,I like at the park because it's free,I like <mo> at the park because it's free
+I like exercising at the park because it's free.,I exercising at the park because it's free,I <mv> exercising at the park because it's free
+I like exercising at the park because it's more relaxing.,like exercising at the park because it's more relaxing,<ms> like exercising at the park because it's more relaxing
+I like exercising at the park because it's more relaxing.,I like exercising the park because it's more relaxing,I like exercising <mp> the park because it's more relaxing
+I like exercising at the park because it's more relaxing.,I like exercising at the park  ,I like exercising at the park <ma>
+I like exercising at the park because it's more relaxing.,I like at the park because it's more relaxing,I like <mo> at the park because it's more relaxing
+I often go running.,often go running,<ms> often go running
+I often go running.,I go running,I <ma> go running
+I often go running.,I often  ,I often <mo>
+I often go running.,I often ,I often <mv>
+I often go cycling.,often go cycling,<ms> often go cycling
+I often go cycling.,I go cycling,I <ma> go cycling
+I often go cycling.,I often  ,I often <mo>
+I often go cycling.,I often ,I often <mv>
+I often do aerobics., often do aerobics,<ms> often do aerobics
+I often do aerobics.,I do aerobics,I <ma> do aerobics
+I often do aerobics.,I often  ,I often <mo>
+I often do aerobics.,I often,I often <mv>
+I prefer working out with a partner.,prefer working out with a partner,<ms> prefer working out with a partner
+I prefer working out with a partner.,I prefer working out a partner,I prefer working out <mp> a partner
+I prefer working out with a partner.,I prefer working out,I prefer working out <ma>
+I prefer working out with a partner.,I prefer with a partner,I prefer <mo> with a partner
+I prefer working out with a partner.,I working out with a partner,I <mv> working out with a partner
+I prefer working out alone.,prefer working out alone,<ms> prefer working out alone
+I prefer working out alone.,I prefer working out  ,I prefer working out <ma>
+I prefer working out alone.,I prefer alone,I prefer <mo> alone
+I prefer working out alone.,I working out alone,I <mv> working out alone
+I prefer working out with a trainer.,prefer working out with a trainer,<ms> prefer working out with a trainer
+I prefer working out with a trainer.,I prefer working out a trainer,I prefer working out <mp> a trainer
+I prefer working out with a trainer.,I prefer working out,I prefer working out <ma>
+I prefer working out with a trainer.,I prefer with a trainer,I prefer <mo> with a trainer
+I prefer working out with a trainer.,I working out with a trainer,I <mv> working out with a trainer
+I need a drink.,need a drink,<ms> need a drink
+I need a drink.,I need,I need <mo>
+I need a drink.,I a drink,I <mv> a drink
+I need a shower.,need a shower,<ms> need a shower
+I need a shower.,I need,I need <mo>
+I need a shower.,I a shower,I <mv> a shower
+I don't need a drink.,don't need a drink,<ms> don't need a drink
+I don't need a drink.,I don't need,I don't need <mo>
+I don't need a drink.,I a drink,I <mv> a drink
+I don't need some snacks.,don't need some snacks,<ms> don't need some snacks
+I don't need some snacks.,I don't need,I don't need <mo>
+I don't need some snacks.,I some snacks,I <mv> some snacks
+I have been learning English for over ten years., have been learning English for over ten years,<ms> have been learning English for over ten years
+I have been learning English for over ten years.,I have been learning English over ten years,I have been learning English <mp> over ten years
+I have been learning English for over ten years.,I have been learning English for ,I have been learning English for <ma>
+I have been learning English for over ten years.,I have been learning for over ten years,I have been learning <mo> for over ten years
+I have been learning English for about two years.,have been learning English for about two years,<ms> have been learning English for about two years
+I have been learning English for about two years.,I have been learning English two years,I have been learning English <mp> two years
+I have been learning English for about two years.,I have been learning English for ,I have been learning English for <ma>
+I have been learning English for about two years.,I have been learning for about two years,I have been learning <mo> for about two years
+I have been learning English for about two years.,I English for about two years,I <mv> English for about two years
+I have been learning English for less than a year.,have been learning English for less than a year,<ms> have been learning English for less than a year
+I have been learning English for less than a year.,I have been learning English for ,I have been learning English for <ma>
+I have been learning English for less than a year.,I have been learning for less than a year,I have been learning <mo> for less than a year
+I have been learning English for less than a year.,I English for less than a year,I <mv> English for less than a year
+I want to have a high-paying job.,want to have a high-paying job,<ms> want to have a high-paying job
+I want to have a high-paying job.,I want to have,I want to have <mo>
+I want to have a high-paying job.,I have a high-paying job,I <mv> have a high-paying job
+I want to study abroad.,want to study abroad,<ms> want to study abroad
+I want to study abroad.,I want to study  ,I want to study <ma>
+I want to study abroad.,I want to,I want to <mo>
+I want to study abroad.,I study abroad,I <mv> study abroad
+I want to make friends around the world.,want to make friends around the world,<ms> want to make friends around the world
+I want to make friends around the world.,I want to make friends the world,I want to make friends <mp> the world
+I want to make friends around the world.,I want to make friends,I want to make friends <ma>
+I want to make friends around the world.,I want to around the world,I want to <mo> around the world
+I want to make friends around the world.,I make friends around the world,I <mv> make friends around the world
+I feel shy talking to foreigners.,feel shy talking to foreigners,<ms> feel shy talking to foreigners
+I feel shy talking to foreigners.,I feel shy talking foreigners,I feel shy talking <mp> foreigners
+I feel shy talking to foreigners.,I feel shy ,I feel shy <ma>
+I feel shy talking to foreigners.,I feel talking to foreigners,I feel <mo> talking to foreigners
+I feel shy talking to foreigners.,I shy talking to foreigners,I <mv> shy talking to foreigners
+I feel confident talking to foreigners., feel confident talking to foreigners,<ms> feel confident talking to foreigners
+I feel confident talking to foreigners.,I feel confident talking foreigners,I feel confident talking <mp> foreigners
+I feel confident talking to foreigners.,I feel confident ,I feel confident <ma>
+I feel confident talking to foreigners.,I feel talking to foreigners,I feel <mo> talking to foreigners
+I feel confident talking to foreigners.,I confident talking to foreigners,I <mv> confident talking to foreigners
+I feel amazing talking to foreigners.,feel amazing talking to foreigners,<ms> feel amazing talking to foreigners
+I feel amazing talking to foreigners.,I feel amazing talking foreigners,I feel amazing talking <mp> foreigners
+I feel amazing talking to foreigners.,I feel amazing,I feel amazing <ma>
+I feel amazing talking to foreigners.,I feel talking to foreigners,I feel <mo> talking to foreigners
+I feel amazing talking to foreigners.,I amazing talking to foreigners,I <mv> amazing talking to foreigners
+I find English vocabulary difficult.,find English vocabulary difficult,<ms> find English vocabulary difficult
+I find English vocabulary difficult.,I find English vocabulary,I find English vocabulary <ma>
+I find English vocabulary difficult.,I find difficult,I find <mo> difficult
+I find English vocabulary difficult.,I English vocabulary difficult,I <mv> English vocabulary difficult
+I find English pronunciation difficult.,find English pronunciation difficult,<ms> find English pronunciation difficult
+I find English pronunciation difficult.,I English pronunciation difficult,I <mv> English pronunciation difficult
+I find English grammar difficult.,find English grammar difficult,<ms> find English grammar difficult
+I find English grammar difficult.,I English grammar difficult,I <mv> English grammar difficult
+I have a problem with communicating in English.,have a problem with communicating in English,<ms> have a problem with communicating in English
+I have a problem with communicating in English.,I have a problem with communicating  ,I have a problem with communicating <ma>
+I have a problem with communicating in English.,I have with communicating in English,I have <mo> with communicating in English
+I have a problem with communicating in English.,I a problem with communicating in English,I <mv> a problem with communicating in English
+I have a problem with expressing my ideas.,have a problem with expressing my ideas,<ms> have a problem with expressing my ideas
+I have a problem with expressing my ideas.,I have a problem expressing my ideas,I have a problem <mp> expressing my ideas
+I have a problem with expressing my ideas.,I have a problem ,I have a problem <ma>
+I have a problem with expressing my ideas.,I have with expressing my ideas,I have <mo> with expressing my ideas
+I have a problem with expressing my ideas.,I a problem with expressing my ideas,I <mv> a problem with expressing my ideas
+I have a problem with understanding native speakers.,have a problem with understanding native speakers,<ms> have a problem with understanding native speakers
+I have a problem with understanding native speakers.,I have a problem understanding native speakers,I have a problem <mp> understanding native speakers
+I have a problem with understanding native speakers.,I have a problem ,I have a problem <ma>
+I have a problem with understanding native speakers.,I have with understanding native speakers,I have <mo> with understanding native speakers
+I have a problem with understanding native speakers.,I a problem with understanding native speakers,I <mv> a problem with understanding native speakers
+I improve my English by using English learning apps.,improve my English by using English learning apps,<ms> improve my English by using English learning apps
+I improve my English by using English learning apps.,I improve by using English learning apps,I improve <mo> English by using English learning apps
+I improve my English by using English learning apps.,I my English by using English learning apps,I <mv> my English by using English learning apps
+I improve my English by watching movies without subtitles.,improve my English by watching movies without subtitles,<ms> improve my English by watching movies without subtitles
+I improve my English by watching movies without subtitles.,I improve my English by watching movies subtitles,I improve my English by watching movies <mp> subtitles
+I improve my English by watching movies without subtitles.,I improve my English  ,I improve my English <ma>
+I improve my English by watching movies without subtitles.,I improve by watching movies without subtitles,I improve <mo> by watching movies without subtitles
+I improve my English by watching movies without subtitles.,I my English by watching movies without subtitles,I <mv> my English by watching movies without subtitles
+I improve my English by talking to foreigners.,improve my English by talking to foreigners,<ms> improve my English by talking to foreigners
+I improve my English by talking to foreigners.,I improve my English by talking foreigners,I improve my English by talking <mp> foreigners
+I improve my English by talking to foreigners.,I improve my English  ,I improve my English <ma>
+I improve my English by talking to foreigners.,I improve by talking to foreigners,I improve <mo> by talking to foreigners
+I improve my English by talking to foreigners.,I my English by talking to foreigners,I <mv> my English by talking to foreigners
+I have studied a lot for the exam.,have studied a lot for the exam,<ms> have studied a lot for the exam
+I have studied a lot for the exam.,I have studied a lot the exam,I have studied a lot <mp> the exam
+I have studied a lot for the exam.,I have studied for the exam,I have studied <ma> for the exam
+I have studied a lot for the exam.,I a lot for the exam,I <mv> a lot for the exam
+I have studied a little for the exam.,have studied a little for the exam,<ms> have studied a little for the exam
+I have studied a little for the exam.,I have studied a little the exam,I have studied a little <mp> the exam
+I have studied a little for the exam.,I have studied for the exam,I have studied <ma> for the exam
+I have studied just enough for the exam.,have studied just enough for the exam,<ms> have studied just enough for the exam
+I have studied just enough for the exam.,I have studied just enough the exam,I have studied just enough <mp> the exam
+I have studied just enough for the exam.,I have studied for the exam,I have studied <ma> for the exam
+I have studied just enough for the exam.,I just enough for the exam,I <mv> just enough for the exam
+I spend half an hour studying each day.,spend half an hour studying each day,<ms> spend half an hour studying each day
+I spend half an hour studying each day.,I spend half an hour each day,I spend half an hour <mo> each day
+I spend half an hour studying each day.,I half an hour studying each day,I <mv> half an hour studying each day
+I spend about an hour studying each day.,spend about an hour studying each day,<ms> spend about an hour studying each day
+I spend about an hour studying each day.,I spend about an hour each day,I spend about an hour <mo> each day
+I spend about an hour studying each day.,I about an hour studying each day,I <mv> about an hour studying each day
+I spend more than two hours studying each day.,spend more than two hours studying each day,<ms> spend more than two hours studying each day
+I spend more than two hours studying each day.,I spend more two hours studying each day,I spend more <mp> two hours studying each day
+I spend more than two hours studying each day.,I spend more than two hours each day,I spend more than two hours <mo> each day
+I spend more than two hours studying each day.,I more than two hours studying each day,I <mv> more than two hours studying each day
+I usually revise all the learning materials.,usually revise all the learning materials,<ms> usually revise all the learning materials
+I usually revise all the learning materials.,I usually revise,I usually revise <mo>
+I usually revise all the learning materials.,I usually all the learning materials,I usually <mv> all the learning materials
+I usually learn by heart.,usually learn by heart,<ms> usually learn by heart
+I usually learn by heart.,I usually by heart,I usually <mv> by heart
+I usually join in study groups.,usually join in study groups,<ms> usually join in study groups
+I usually join in study groups.,I usually join study groups,I usually jo<mp> <mp> study groups
+I usually join in study groups.,I usually study groups,I usually <mv> study groups
+I turn off my phone to stay focused.,turn off my phone to stay focused,<ms> turn off my phone to stay focused
+I turn off my phone to stay focused.,I turn off my phone stay focused,I turn off my phone <mp> stay focused
+I turn off my phone to stay focused.,I turn off my phone,I turn off my phone <ma>
+I turn off my phone to stay focused.,I turn off to stay focused,I turn off <mo> to stay focused
+I turn off my phone to stay focused.,I my phone to stay focused,I <mv> my phone to stay focused
+I drink coffee to stay focused.,drink coffee to stay focused,<ms> drink coffee to stay focused
+I drink coffee to stay focused.,I drink coffee stay focused,I drink coffee <mp> stay focused
+I drink coffee to stay focused.,I drink coffee,I drink coffee <ma>
+I drink coffee to stay focused.,I drink to stay focused,I drink <mo> to stay focused
+I drink coffee to stay focused.,I coffee to stay focused,I <mv> coffee to stay focused
+I put on headphones to stay focused.,put on headphones to stay focused,<ms> put on headphones to stay focused
+I put on headphones to stay focused.,I put on headphones  ,I put on headphones <ma>
+I put on headphones to stay focused.,I put on to stay focused,I put on <mo> to stay focused
+I put on headphones to stay focused.,I headphones to stay focused,I <mv> headphones to stay focused
+I forget what I learned easily.,I forget what I learned  ,I forget what I learned <ma>
+I lose track of time easily.,lose track of time easily,<ms> lose track of time easily
+I lose track of time easily.,I lose track time easily,I lose track <mp> time easily
+I lose track of time easily.,I lose track of time  ,I lose track of time <ma>
+I lose track of time easily.,I lose track easily,I lose track <mo> easily
+I lose track of time easily.,I of time easily,I <mv> of time easily
+I freak out easily.,freak out easily,<ms> freak out easily
+I freak out easily.,I freak easily ,I freak <mp> easily
+I freak out easily.,I freak out ,I freak out <ma>
+I freak out easily.,I easily,I <mv> easily
+I did pretty well on the test.,did pretty well on the test,<ms> did pretty well on the test
+I did pretty well on the test.,I did pretty well the test,I did pretty well <mp> the test
+I did pretty well on the test.,I pretty well on the test,I <mv> pretty well on the test
+I did amazing on the test., did amazing on the test,<ms> did amazing on the test
+I did amazing on the test.,I did amazing the test,I did amazing <mp> the test
+I did amazing on the test.,I amazing on the test,I <mv> amazing on the test
+I did awful on the test.,did awful on the test,<ms> did awful on the test
+I did awful on the test.,I did awful the test,I did awful <mp> the test
+I did awful on the test.,I awful on the test,I <mv> awful on the test
+I have plans for improving my presentation skills.,have plans for improving my presentation skills,<ms> have plans for improving my presentation skills
+I have plans for improving my presentation skills.,I have plans improving my presentation skills,I have plans <mp> improving my presentation skills
+I have plans for improving my presentation skills.,I have plans ,I have plans <ma>
+I have plans for improving my presentation skills.,I have for improving my presentation skills,I have <mo> for improving my presentation skills
+I have plans for improving my presentation skills.,I plans for improving my presentation skills,I <mv> plans for improving my presentation skills
+I have plans for improving my time-management skills.,have plans for improving my time-management skills,<ms> have plans for improving my time-management skills
+I have plans for improving my time-management skills.,I have plans improving my time-management skills,I have plans <mp> improving my time-management skills
+I have plans for improving my time-management skills.,I have plans ,I have plans <ma>
+I have plans for improving my time-management skills.,I have for improving my time-management skills,I have <mo> for improving my time-management skills
+I have plans for improving my time-management skills.,I plans for improving my time-management skills,I <mv> plans for improving my time-management skills
+I have plans for improving my problem-solving skills.,have plans for improving my problem-solving skills,<ms> have plans for improving my problem-solving skills
+I have plans for improving my problem-solving skills.,I have plans improving my problem-solving skills,I have plans <mp> improving my problem-solving skills
+I have plans for improving my problem-solving skills.,I have plans ,I have plans <ma>
+I have plans for improving my problem-solving skills.,I have for improving my problem-solving skills,I have <mo> for improving my problem-solving skills
+I have plans for improving my problem-solving skills.,I plans for improving my problem-solving skills,I <mv> plans for improving my problem-solving skills
+I take extra courses to gain knowledge.,take extra courses to gain knowledge,<ms> take extra courses to gain knowledge
+I take extra courses to gain knowledge.,I take extra course gain knowledge,I take extra <mp> gain knowledge
+I take extra courses to gain knowledge.,I take to gain knowledge,I take <mo> to gain knowledge
+I take extra courses to gain knowledge.,I extra courses to gain knowledge,I <mv> extra courses to gain knowledge
+I take extra courses to further my career.,take extra courses to further my career,<ms> take extra courses to further my career
+I take extra courses to further my career.,I take extra course further my career,I take extra <mp> further my career
+I take extra courses to further my career.,I take to further my career,I take <mo> to further my career
+I take extra courses to further my career.,I extra courses to further my career,I <mv> extra courses to further my career
+I take extra courses to work more efficiently.,take extra courses to work more efficiently,<ms> take extra courses to work more efficiently
+I take extra courses to work more efficiently.,I take extra course work more efficiently,I take extra <mp> work more efficiently
+I take extra courses to work more efficiently.,I take to work more efficiently,I take <mo> to work more efficiently
+I take extra courses to work more efficiently.,I extra courses to work more efficiently,I <mv> extra courses to work more efficiently
+I want to take a business course.,want to take a business course,<ms> want to take a business course
+I want to take a business course.,I want take a business course,I want <mp> take a business course
+I want to take a business course.,I want to take ,I want to take <mo>
+I want to take a business course.,I to take a business course,I <mv> to take a business course
+I want to take a programming course., want to take a programming course,<ms> want to take a programming course
+I want to take a programming course.,I want take a programming course,I want <mp> take a programming course
+I want to take a programming course.,I want to take ,I want to take <mo>
+I want to take a programming course.,I to take a programming course,I <mv> to take a programming course
+I want to take an English course., want to take an English course,<ms> want to take an English course
+I want to take an English course.,I want to take ,I want to take <mo>
+I prefer online classes.,prefer online classes,<ms> prefer online classes
+I prefer online classes.,I prefer  ,I prefer <mo>
+I prefer online classes.,I online classes,I <mv> online classes
+I prefer hybrid classes.,prefer hybrid classes,<ms> prefer hybrid classes
+I prefer hybrid classes.,I prefer  ,I prefer <mo>
+I prefer hybrid classes.,I hybrid classes,I <mv> hybrid classes
+I prefer offline classes.,prefer offline classes,<ms> prefer offline classes
+I prefer offline classes.,I prefer  ,I prefer <mo>
+I prefer offline classes.,I offline classes,I <mv> offline classes
+I prefer studying alone.,prefer studying alone,<ms> prefer studying alone
+I prefer studying alone.,I prefer studying  ,I prefer studying <ma>
+I prefer studying alone.,I prefer  ,I prefer <mo>
+I prefer studying alone.,I studying alone,I <mv> studying alone
+I prefer studying in groups of two.,prefer studying in groups of two,<ms> prefer studying in groups of two
+I prefer studying in groups of two.,I prefer studying  ,I prefer studying <ma>
+I prefer studying in groups of two.,I prefer  ,I prefer <mo>
+I prefer studying in groups of two.,I studying in groups of two,I <mv> studying in groups of two
+I prefer studying in groups of four.,prefer studying in groups of four,<ms> prefer studying in groups of four
+I prefer studying in groups of four.,I prefer studying  ,I prefer studying <ma>
+I prefer studying in groups of four.,I prefer  ,I prefer <mo>
+I prefer studying in groups of four.,I studying in groups of four,I <mv> studying in groups of four
+I would like to join an online business class.,would like to join an online business class,<ms> would like to join an online business class
+I would like to join an online business class.,I would like join an online business class,I would like <mp> join an online business class
+I would like to join an online business class.,I would like to join,I would like to join <mo>
+I would like to join an online business class.,I an online business class,I <mv> an online business class
+I would like to join an online marketing class.,would like to join an online marketing class,<ms> would like to join an online marketing class
+I would like to join an online marketing class.,I would like join an online marketing class,I would like <mp> join an online marketing class
+I would like to join an online marketing class.,I would like to join,I would like to join <mo>
+I would like to join an online marketing class.,I an online marketing class,I <mv> an online marketing class
+I would like to join an online English class.,would like to join an online English class,<ms> would like to join an online English class
+I would like to join an online English class.,I would like join an online English class,I would like <mp> join an online English class
+I would like to join an online English class.,I would like to join,I would like to join <mo>
+I would like to join an online English class.,I an online English class,I <mv> an online English class
+My major is Business Management., major is Business Management,<ms> major is Business Management
+My major is Business Management.,My major is ,My major is <mo>
+My major is Business Management.,My major Business Management,My major <mv> Business Management
+It is in Central Asia., is in Central Asia,<ms> is in Central Asia
+It is in Central Asia.,It is Central Asia,It is <mp> Central Asia
+It is in Central Asia.,It in Central Asia,It <mv> in Central Asia
+It is in East Asia.,is in East Asia,<ms> is in East Asia
+It is in East Asia.,It is East Asia,It is <mp> East Asia
+It is in East Asia.,It in East Asia,It <mv> in East Asia
+It is in South Asia.,is in South Asia,<ms> is in South Asia
+It is in South Asia.,It is South Asia,It is <mp> South Asia
+It is in South Asia.,It in South Asia,It <mv> in South Asia
+I like the local cuisine most.,like the local cuisine most,<ms> like the local cuisine most
+I like the local cuisine most.,I like most,I like <mo> most
+I like the local cuisine most.,I the local cuisine most,I <mv> the local cuisine most
+I like the wonderful culture most.,like the wonderful culture most,<ms> like the wonderful culture most
+I like the wonderful culture most.,I like most,I like <mo> most
+I like the wonderful culture most.,I the wonderful culture most,I <mv> the wonderful culture most
+I like the hospitable people most.,like the hospitable people most,<ms> like the hospitable people most
+I like the hospitable people most.,I like most,I like <mo> most
+I like the hospitable people most.,I the hospitable people most,I <mv> the hospitable people most
+I visited the museum while I was in that country.,I visited the museum while I was that country,I visited the museum while I was <mp> that country
+I visited the museum while I was in that country.,I visited while I was in that country,I visited <mo> while I was in that country
+I visited the museum while I was in that country.,I the museum while I was in that country,I <mv> the museum while I was in that country
+I visited the gallery while I was in that country.,I visited the gallery while I was that country,I visited the gallery while I was <mp> that country
+I visited the gallery while I was in that country.,I visited while I was in that country,I visited <mo> while I was in that country
+I visited the gallery while I was in that country.,I the gallery while I was in that country,I <mv> the gallery while I was in that country
+I visited the theater while I was in that country.,I visited the theater while I was that country,I visited the theater while I was <mp> that country
+I visited the theater while I was in that country.,I visited while I was in that country,I visited <mo> while I was in that country
+I visited the theater while I was in that country.,I the theater while I was in that country,I <mv> the theater while I was in that country
+I ate lots of specialties there.,ate lots of specialties there,<ms> ate lots of specialties there
+I ate lots of specialties there.,I ate lots specialties there,I ate lots <mp> specialties there
+I ate lots of specialties there.,I ate lots of there,I ate lots of <mo> there
+I ate lots of specialties there.,I lots of specialties there,I <mv> lots of specialties there
+I ate lots of Vietnamese food there.,ate lots of Vietnamese food there,<ms> ate lots of Vietnamese food there
+I ate lots of Vietnamese food there.,I ate lots specialties there,I ate lots <mp> there
+I ate lots of Vietnamese food there.,I ate lots of there,I ate lots of <mo> there
+I didn't eat lots of specialties there.,didn't eat lots of specialties there,<ms> didn't eat lots of specialties there
+I didn't eat lots of specialties there.,I didn't eat lots specialties there,I didn't eat lots <mp> specialties there
+I didn't eat lots of specialties there.,I didn't eat lots of there,I didn't eat lots of <mo> there
+I didn't eat lots of specialties there.,I lots of specialties there,I <mv> lots of specialties there
+I didn't eat lots of junk food there.,didn't eat lots of junk food there,<ms> didn't eat lots of junk food there
+I didn't eat lots of junk food there.,I didn't eat lots junk food there,I didn't eat lots <mp> junk food there
+I didn't eat lots of junk food there.,I didn't eat lots of there,I didn't eat lots of <mo> there
+I didn't eat lots of junk food there.,I lots of junk food there,I <mv> lots of junk food there
+The local people were friendly.,were friendly,<ms> were friendly
+The local people were friendly.,The local people friendly,The local people <mv> friendly
+The local people were unfriendly.,were unfriendly,<ms> were unfriendly
+The local people were unfriendly.,The local people unfriendly,The local people <mv> unfriendly
+The local people were kind.,were kind,<ms> were kind
+The local people were kind.,The local people kind,The local people <mv> kind
+The weather there is sunny.,is sunny,<ms> is sunny
+The weather there is sunny.,The weather there sunny,The weather there <mv> sunny
+The weather there is cloudy.,is cloudy,<ms> is cloudy
+The weather there is cloudy.,The weather there cloudy,The weather there <mv> cloudy
+The weather there is rainy.,is rainy,<ms> is rainy
+The weather there is rainy.,The weather there rainy,The weather there <mv> rainy
+You should pack some T-shirts., should pack some T-shirts,<ms> should pack some T-shirts
+You should pack some T-shirts.,You should pack  ,You should pack <mo>
+You should pack some T-shirts.,You some T-shirts,You <mv> some T-shirts
+You should pack some shorts.,should pack some shorts,<ms> should pack some shorts
+You should pack some shorts.,You should pack  ,You should pack <mo>
+You should pack some shorts.,You some shorts,You <mv> some shorts
+You should pack some sweaters.,should pack some sweaters,<ms> should pack some sweaters
+You should pack some sweaters.,You should pack  ,You should pack <mo>
+You should pack some sweaters.,You some sweaters,You <mv> some sweaters
+You can go there by plane., can go there by plane,<ms> can go there by plane
+You can go there by plane.,You can go  ,You can go <ma>
+You can go there by plane.,You there by plane,You <mv> there by plane
+You can go there by car., can go there by car,<ms> can go there by car
+You can go there by car.,You can go  ,You can go <ma>
+You can go there by car.,You there by car,You <mv> there by car
+You cannot go there by plane.,cannot go there by plane,<ms> cannot go there by plane
+You cannot go there by plane.,You cannot go  ,You cannot go <ma>
+You cannot go there by plane.,You there by plane,You <mv> there by plane
+You cannot go there by train., cannot go there by train,<ms> cannot go there by train
+You cannot go there by train.,You cannot go  ,You cannot go <ma>
+You cannot go there by train.,You there by train,You <mv> there by train
+You can travel around that place by taxi.,can travel around that place by taxi,<ms> can travel around that place by taxi
+You can travel around that place by taxi.,You can travel around by taxi,You can travel around <mo> by taxi
+You can travel around that place by taxi.,You around that place by taxi,You <mv> around that place by taxi
+You can travel around that place by bike.,can travel around that place by bike,<ms> can travel around that place by bike
+You can travel around that place by bike.,You can travel around by bike,You can travel around <mo> by bike
+You can travel around that place by bike.,You around that place by bike,You <mv> around that place by bike
+You can travel around that place on foot.,can travel around that place on foot,<ms> can travel around that place on foot
+You can travel around that place on foot.,You can travel around on foot,You can travel around <mo> on foot
+You can travel around that place on foot.,You around that place on foot,You <mv> around that place on foot
+The food there is excellent.,is excellent,<ms> is excellent
+The food there is excellent.,The food there excellent,The food there <mv> excellent
+The food there is delicious.,is delicious,<ms> is delicious
+The food there is delicious.,The food there delicious,The food there <mv> delicious
+The food there is quite bad.,is quite bad,<ms> is quite bad
+The food there is quite bad.,The food there is bad,The food there is <ma> bad
+The food there is quite bad.,The food there quite bad,The food there <mv> quite bad
+They have Vietnamese food at local restaurants.,have Vietnamese food at local restaurants,<ms> have Vietnamese food at local restaurants
+They have Vietnamese food at local restaurants.,They have Vietnamese food local restaurants,They have Vietnamese food <mp> local restaurants
+They have Vietnamese food at local restaurants.,They have Vietnamese food,They have Vietnamese food <ma>
+They have Vietnamese food at local restaurants.,They have at local restaurants,They have <mo> at local restaurants
+They have Vietnamese food at local restaurants.,They Vietnamese food at local restaurants,They <mv> Vietnamese food at local restaurants
+They have Korean food at local restaurants.,have Korean food at local restaurants,<ms> have Korean food at local restaurants
+They have Korean food at local restaurants.,They have Korean food local restaurants,They have Korean food <mp> local restaurants
+They have Korean food at local restaurants.,They have Korean food,They have Korean food <ma>
+They have Korean food at local restaurants.,They have at local restaurants,They have <mo> at local restaurants
+They have Korean food at local restaurants.,They Korean food at local restaurants,They <mv> Korean food at local restaurants
+They have Japanese food at local restaurants.,have Japanese food at local restaurants,<ms> have Japanese food at local restaurants
+They have Japanese food at local restaurants.,They have Japanese food local restaurants,They have Japanese food <mp> local restaurants
+They have Japanese food at local restaurants.,They have Japanese food,They have Japanese food <ma>
+They have Japanese food at local restaurants.,They have at local restaurants,They have <mo> at local restaurants
+They have Japanese food at local restaurants.,They Japanese food at local restaurants,They <mv> Japanese food at local restaurants

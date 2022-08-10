@@ -1,0 +1,466 @@
+Origin,Missing,Masking
+I work at an education company,work at an education company,<ms> work at an education company
+I work at an education company,I work an education company,I work <mp> an education company
+I work at an education company,I work ,I work <ma>
+I work at an education company,I work at an education,I work at an education <mo>
+I work at an education company,I work at an company,I work at an <mo> company
+I work at an education company,I work at an ,I work at an <mo>
+I work at an education company,I at an education company,I <mv> at an education company
+I work at Step Up.,work at Step Up,<ms> work at Step Up
+I work at Step Up.,I work Step Up,I work <mp> Step Up
+I work at Step Up.,I work ,I work <ma>
+I work at Step Up.,I work at ,I work at <mo>
+I work at Step Up.,I at Step Up,I <mv> at Step Up
+I work at a local bank.,work at a local bank,<ms> work at a local bank
+I work at a local bank.,I work a local bank,I work <mp> a local bank
+I work at a local bank.,I work ,I work <ma>
+I work at a local bank.,I at a local bank,I <mv> at a local bank
+I have been working there for a year and a half.,have been working there for a year and a half,<ms> have been working there for a year and a half
+I have been working there for a year and a half.,I have been working there a year and a half,I have been working there <mp> a year and a half
+I have been working there for a year and a half.,I have been working for a year and a half,I have been working <mo> for a year and a half
+I have been working there for a year and a half.,I have been there for a year and a half,I have been <mv> there for a year and a half
+I have been working there for about 2 years.,have been working there for about 2 years,<ms> have been working there for about 2 years
+I have been working there for about 2 years.,I have been working there about 2 years,I have been working there <mp> about 2 years
+I have been working there for about 2 years.,I have been working for about 2 years,I have been working <mo> for about 2 years
+I have been working there for about 2 years.,I have been there for about 2 years,I have been <mv> there for about 2 years
+I have been working there for less than 2 years.,have been working there for less than 2 years,<ms> have been working there for less than 2 years
+I have been working there for less than 2 years.,I have been working there less than 2 years,I have been working there <mp> less than 2 years
+I have been working there for less than 2 years.,I have been working for less than 2 years,I have been working <mo> for less than 2 years
+I have been working there for less than 2 years.,I have been there for less than 2 years,I have been <mv> there for less than 2 years
+I like the work environment.,like the work environment,<ms> like the work environment
+I like the work environment.,I like the,I like the <mo>
+I like the company's product.,like the company's product,<ms> like the company's product
+I like the company's product.,I like the ,I like the <mo>
+I like the company's product.,I the company's product,I <mv> the company's product
+I like the company's culture.,like the company's culture,<ms> like the company's culture
+I like the company's culture.,I like the,I like the <mo>
+I like the company's culture.,I the company's culture,I <mv> the company's culture
+My greatest strength is communication skills.,is communication skills,<ms> is communication skills
+My greatest strength is communication skills.,My greatest strength is ,My greatest strength is <mo>
+My greatest strength is problem-solving skills.,is problem-solving skills,<ms> is problem-solving skills
+My greatest strength is problem-solving skills.,My greatest strength is ,My greatest strength is <mo>
+My greatest strength is teamwork skills.,is teamwork skills,<ms> is teamwork skills
+My greatest strength is teamwork skills.,My greatest strength is ,My greatest strength is <mo>
+My greatest weakness is lack of confidence.,is lack of confidence,<ms> is lack of confidence
+My greatest weakness is lack of confidence.,My greatest weakness is lack confidence,My greatest weakness is lack <mp> confidence
+My greatest weakness is lack of confidence.,My greatest weakness is ,My greatest weakness is <mo>
+My greatest weakness is lack of confidence.,My greatest weakness is of confidence,My greatest weakness is <mv> of confidence
+My greatest weakness is lack of flexibility.,is lack of flexibility,<ms> is lack of flexibility
+My greatest weakness is lack of flexibility.,My greatest weakness is lack flexibility,My greatest weakness is lack <mp> flexibility
+My greatest weakness is lack of flexibility.,My greatest weakness is ,My greatest weakness is <mo>
+My greatest weakness is lack of English skills.,is lack of English skills,<ms> is lack of English skills
+My greatest weakness is lack of English skills.,My greatest weakness is lack English skills,My greatest weakness is lack <mp> English skills
+My greatest weakness is lack of English skills.,My greatest weakness is,My greatest weakness is <mo>
+I'm looking for opportunities to learn new things.,looking for opportunities to learn new things,<ms> looking for opportunities to learn new things
+I'm looking for opportunities to learn new things.,I'm looking for opportunities to,I'm looking for opportunities to <mo>
+I'm looking for good benefit package.,looking for good benefit package,<ms> looking for good benefit package
+I'm looking for good benefit package.,I'm looking good benefit package,I'm looking <mp> good benefit package
+I'm looking for good benefit package.,I'm looking for ,I'm looking for <mo>
+I'm looking for opportunities to develop myself.,looking for opportunities to develop myself,<ms> looking for opportunities to develop myself
+I'm looking for opportunities to develop myself.,I'm looking for opportunities to ,I'm looking for opportunities to <mo>
+I live in Ba Dinh District.,live in Ba Dinh District,<ms> live in Ba Dinh District
+I live in Ba Dinh District.,I live Ba Dinh District,I live <mp> Ba Dinh District
+I live in Ba Dinh District.,I live in ,I live in <mo>
+I live in Ba Dinh District.,I in Ba Dinh District,I <mv> in Ba Dinh District
+I live on Nguyen Chi Thanh Street.,live on Nguyen Chi Thanh Street,<ms> live on Nguyen Chi Thanh Street
+I live on Nguyen Chi Thanh Street.,I live Nguyen Chi Thanh Street,I live <mp> Nguyen Chi Thanh Street
+I live on Nguyen Chi Thanh Street.,I live on ,I live on <mo>
+I live on Nguyen Chi Thanh Street.,I on Nguyen Chi Thanh Street,I <mv> on Nguyen Chi Thanh Street
+I live near Vincom shopping mall.,live near Vincom shopping mall,<ms> live near Vincom shopping mall
+I live near Vincom shopping mall.,I live near ,I live near <mo>
+I live near Vincom shopping mall.,I near Vincom shopping mall,I <mv> near Vincom shopping mall
+My house is a 30-minute drive from the city center.,is a 30-minute drive from the city center,<ms> is a 30-minute drive from the city center
+My house is a 30-minute drive from the city center.,My house is a 30-minute drive from the,My house is a 30-minute drive from the <mo>
+My house is a 30-minute drive from the city center.,My house is a 30-minute the city center,My house is a 30-minute <mv> the city center
+My house is a 15-minute walk from the city center.,is a 15-minute walk from the city center,<ms> is a 15-minute walk from the city center
+My house is a 15-minute walk from the city center.,My house is a 15-minute walk from the,My house is a 15-minute walk from the <mo>
+My house is a 15-minute walk from the city center.,My house is a 15-minute the city center,My house is a 15-minute <mv> the city center
+My house is a 15-minute drive from the city center.,is a 15-minute drive from the city center,<ms> is a 15-minute drive from the city center
+My house is a 15-minute drive from the city center.,My house is a 15-minute drive from the,My house is a 15-minute drive from the <mo>
+My house is a 15-minute drive from the city center.,My house is a 15-minute the city center,My house is a 15-minute <mv> the city center
+It's a noisy place to live.,is a noisy place to live,<ms> a noisy place to live
+It's a noisy place to live.,It's a noisy place live,It's a noisy place <mp> live
+It's a noisy place to live.,It's a noisy place to,It's a noisy place to <mv>
+It's a nice place to live.,is a nice place to live,<ms> a nice place to live
+It's a nice place to live.,It's a nice place live,It's a nice place <mp> live
+It's a nice place to live.,It's a nice place to,It's a nice place to <mv>
+It's a quiet place to live.,is a quiet place to live,<ms> a quiet place to live
+It's a quiet place to live.,It's a quiet place live,It's a quiet place <mp> live
+It's a quiet place to live.,It's a quiet place to,It's a quiet place to <mv>
+I live in a house.,live in a house,<ms> live in a house
+I live in a house.,I live a house,I live <mp> a house
+I live in a house.,I live in a,I live in a <mo>
+I live in a house.,I in a house,I <mv> in a house
+I live in a dorm.,live in a dorm,<ms> live in a dorm
+I live in a dorm.,I live a dorm,I live <mp> a dorm
+I live in a dorm.,I live in a ,I live in a <mo>
+I live in a dorm.,I in a dorm,I <mv> in a dorm
+I live in an apartment.,live in an apartment,<ms> live in an apartment
+I live in an apartment.,I live an apartment,I live <mp> an apartment
+I live in an apartment.,I live in an ,I live in an <mo>
+I live in an apartment.,I in an apartment,I <mv> in an apartment
+I live with my family.,live with my family,<ms> live with my family
+I live with my family.,I live with ,I live with <mo>
+I live with my family.,I with my family,I <mv> with my family
+I live with a friend.,live with a friend,<ms> live with a friend
+I live with a friend.,I live with ,I live with <mo>
+I live with a friend.,I with a friend,I <mv> with a friend
+I live by myself.,live by myself,<ms> live by myself
+I live by myself.,I live myself,I live <mp> myself
+I live by myself.,I live ,I live <mo>
+I live by myself.,I by myself,I <mv> by myself
+I prefer spending time at home.,prefer spending time at home,<ms> prefer spending time at home
+I prefer spending time at home.,I prefer spending time home,I prefer spending time <mp> home
+I prefer spending time at home.,I prefer spending time at ,I prefer spending time at <mo>
+I prefer spending time at home.,I at home,I <mv> at home
+I prefer spending time at my girlfriend's house.,prefer spending time at my girlfriend's house,<ms> prefer spending time at my girlfriend's house
+I prefer spending time at my girlfriend's house.,I prefer spending time my girlfriend's house,I prefer spending time <mp> my girlfriend's house
+I prefer spending time at my girlfriend's house.,I prefer spending time at ,I prefer spending time at <mo>
+I prefer spending time at my girlfriend's house.,I at my girlfriend's house,I <mv> at my girlfriend's house
+I prefer spending time outside.,prefer spending time outside,<ms> prefer spending time outside
+I prefer spending time outside.,I prefer spending time ,I prefer spending time <mo>
+I prefer spending time outside.,I outside,I <mv> outside
+I have a big family.,have a big family,<ms> have a big family
+I have a big family.,I have family,I have <ma> family
+I have a big family.,I have a ,I have a <mo>
+I have a big family.,I a big family,I <mv> a big family
+I have a happy family.,have a happy family,<ms> have a happy family
+I have a happy family.,I have family,I have <ma> family
+I have a happy family.,I have a ,I have a <mo>
+I have a happy family.,I a happy family,I <mv> a happy family
+I have a small family.,have a small family,<ms> have a small family
+I have a small family.,I have family,I have <ma> family
+I have a small family.,I have a ,I have a <mo>
+I have a small family.,I a small family,I <mv> a small family
+I have one younger brother.,have one younger brother,<ms> have one younger brother
+I have one younger brother.,I have one ,I have one <mo>
+I have one younger brother.,I one younger brother,I <mv> one younger brother
+I have two older sisters.,have two older sisters,<ms> have two older sisters
+I have two older sisters.,I have two ,I have two <mo>
+I have two older sisters.,I two older sisters,I <mv> two older sisters
+I have no siblings.,have no siblings,<ms> have no siblings
+I have no siblings.,I have no,I have no <mo>
+I have no siblings.,I no siblings,I <mv> no siblings
+I see my family every two weeks.,see my family every two weeks,<ms> see my family every two weeks
+I see my family every two weeks.,I see my family,I see my family <ma>
+I see my family every two weeks.,I see every two weeks,I see <mo> every two weeks
+I see my family every two weeks.,I my family every two weeks,I <mv> my family every two weeks
+I see my family three times a week.,see my family three times a week,<ms> see my family three times a week
+I see my family three times a week.,I see my family,I see my family <ma>
+I see my family three times a week.,I see three times a week,I see <mo> three times a week
+I see my family three times a week.,I my family three times a week,I <mv> my family three times a week
+I see my family on the weekends.,see my family on the weekends,<ms> see my family on the weekends
+I see my family on the weekends.,I see my family the weekends,I see my family <mp> the weekends
+I see my family on the weekends.,I see my family,I see my family <ma>
+I see my family on the weekends.,I see on the weekends,I see <mo> on the weekends
+I see my family on the weekends.,I my family on the weekends,I <mv> my family on the weekends
+My family usually gather for food on holidays.,usually gather for food on holidays,<ms> usually gather for food on holidays
+My family usually gather for food on holidays.,My family gather for food on holidays,My family <ma> gather for food on holidays
+My family usually gather for food on holidays.,My family usually gather for on holidays,My family usually gather for <mo> on holidays
+My family usually gather for food on holidays.,My family usually for food on holidays,My family usually <mv> for food on holidays
+My family usually watch movies on holidays.,usually watch movies on holidays,<ms> usually watch movies on holidays
+My family usually watch movies on holidays.,My family usually watch movies holidays,My family usually watch movies <mp> holidays
+My family usually watch movies on holidays.,My family watch movies on holidays,My family <ma> watch movies on holidays
+My family usually watch movies on holidays.,My family usually watch on holidays,My family usually watch <mo> on holidays
+My family usually watch movies on holidays.,My family usually movies on holidays,My family usually <mv> movies on holidays
+My family usually hang out on holidays.,usually hang out on holidays,<ms> usually hang out on holidays
+My family usually hang out on holidays.,My family usually hang out holidays,My family usually hang out <mp> holidays
+My family usually hang out on holidays.,My family hang out movies on holidays,My family <ma> hang out on holidays
+My family usually hang out on holidays.,My family usually on holidays,My family usually <mv> on holidays
+I would rather live with my friends.,would rather live with my friends,<ms> would rather live with my friends
+I would rather live with my friends.,I would rather live with ,I would rather live with <mo>
+I would rather live with my friends.,I with my friends,I <mv> with my friends
+I would rather live by myself.,would rather live by myself,<ms> would rather live by myself
+I would rather live by myself.,I would rather live myself,I would rather live <mp> myself
+I would rather live by myself.,I would rather live ,I would rather live <mo>
+I would rather live by myself.,I by myself,I <mv> by myself
+I would rather live with my parents.,would rather live with my parents,<ms> would rather live with my parents
+I would rather live with my parents.,I would rather live with ,I would rather live with <mo>
+I would rather live with my parents.,I with my parents,I <mv> with my parents
+The most popular dish in my country is Pho.,is Pho,<ms> is Pho
+The most popular dish in my country is Pho.,The most popular dish my country is Pho,The most popular dish <mp> my country is Pho
+The most popular dish in my country is Pho.,The most popular dish in my country is ,The most popular dish in my country is <mo>
+The most popular dish in my country is Bun Cha.,is Bun Cha,<ms> is Bun Cha
+The most popular dish in my country is Bun Cha.,The most popular dish my country is Bun Cha,The most popular dish <mp> my country is Bun Cha
+The most popular dish in my country is Bun Cha.,The most popular dish in my country is ,The most popular dish in my country is <mo>
+The most popular dish in my country is Banh Xeo.,is Banh Xeo,<ms> is Banh Xeo
+The most popular dish in my country is Banh Xeo.,The most popular dish my country is Banh Xeo,The most popular dish <mp> my country is Banh Xeo
+The most popular dish in my country is Banh Xeo.,The most popular dish in my country is ,The most popular dish in my country is <mo>
+"It usually costs under 50,000 VND.","usually costs under 50,000 VND","<ms> usually costs under 50,000 VND"
+"It usually costs under 50,000 VND.","It costs under 50,000 VND","It <ma> costs under 50,000 VND"
+"It usually costs under 50,000 VND.","It usually under 50,000 VND","It usually <mv> under 50,000 VND"
+"It usually costs over 50,000 VND.","usually costs over 50,000 VND","<ms> usually costs over 50,000 VND"
+"It usually costs over 50,000 VND.","It costs over 50,000 VND","It <ma> costs over 50,000 VND"
+"It usually costs over 50,000 VND.","It usually over 50,000 VND","It usually <mv> over 50,000 VND"
+"It usually costs around 50,000 VND.","usually costs around 50,000 VND","<ms> usually costs around 50,000 VND"
+"It usually costs around 50,000 VND.","It costs around 50,000 VND","It <ma> costs around 50,000 VND"
+"It usually costs around 50,000 VND.","It usually around 50,000 VND","It usually <mv> around 50,000 VND"
+Hanoi is the best place to get that.,is the best place to get that,<ms> is the best place to get that
+Hanoi is the best place to get that.,Hanoi is the best place get that,Hanoi is the best place <mp> get that
+Hanoi is the best place to get that.,Hanoi is the best place to get ,Hanoi is the best place to get <mo>
+Hanoi is the best place to get that.,Hanoi is the best place to that,Hanoi is the best place to <mv> that
+Da Nang is the best place to get that.,is the best place to get that,<ms> is the best place to get that
+Da Nang is the best place to get that.,Da Nang is the best place get that,Da Nang is the best place <mp> get that
+Da Nang is the best place to get that.,Da Nang is the best place to get ,Da Nang is the best place to get <mo>
+Da Nang is the best place to get that.,Da Nang is the best place to that,Da Nang is the best place to <mv> that
+Ho Chi Minh city is the best place to get that.,is the best place to get that,<ms> is the best place to get that
+Ho Chi Minh city is the best place to get that.,Ho Chi Minh city is the best place get that,Ho Chi Minh city is the best place <mp> get that
+Ho Chi Minh city is the best place to get that.,Ho Chi Minh city is the best place to get ,Ho Chi Minh city is the best place to get <mo>
+Ho Chi Minh city is the best place to get that.,Ho Chi Minh city is the best place to that,Ho Chi Minh city is the best place to <mv> that
+I prefer to eat street food.,prefer to eat street food,<ms> prefer to eat street food
+I prefer to eat street food.,I prefer to eat ,I prefer to eat <mo>
+I prefer to eat street food.,I street food,I <mv> street food
+I prefer to eat homemade food.,prefer to eat homemade food,<ms> prefer to eat homemade food
+I prefer to eat homemade food.,I prefer to eat ,I prefer to eat <mo>
+I prefer to eat homemade food.,I homemade food,I <mv> homemade food
+I prefer to eat in a restaurant.,prefer to eat in a restaurant,<ms> prefer to eat in a restaurant
+I prefer to eat in a restaurant.,I prefer to eat ,I prefer to eat <mo>
+I prefer to eat in a restaurant.,I in a restaurant,I <mv> in a restaurant
+I like the low prices.,like the low prices,<ms> like the low prices
+I like the low prices.,I like the ,I like the <mo>
+I like the low prices.,I the low prices,I <mv> the low prices
+I like the exciting atmosphere.,like the exciting atmosphere,<ms> like the exciting atmosphere
+I like the exciting atmosphere.,I like the ,I like the <mo>
+I like the exciting atmosphere.,I the exciting atmosphere,I <mv> the exciting atmosphere
+I like the open space.,like the open space,<ms> like the open space
+I like the open space.,I like the ,I like the <mo>
+I like the open space.,I the open space,I <mv> the open space
+My favorite street food is egg coffee.,is egg coffee,<ms> is egg coffee
+My favorite street food is egg coffee.,My favorite street food is ,My favorite street food is <mo>
+My favorite street food is spring rolls.,is spring rolls,<ms> is spring rolls
+My favorite street food is spring rolls.,My favorite street food is ,My favorite street food is <mo>
+My favorite street food is rice paper salad.,is rice paper salad,<ms> is rice paper salad
+My favorite street food is rice paper salad.,My favorite street food is ,My favorite street food is <mo>
+I'm starving.,starving,<ms> starving
+I'm hungry.,hungry,<ms> hungry
+I'm not starving.,not starving,<ms> not starving
+I'm busy.,busy,<ms> busy
+I usually eat fried rice for lunch.,usually eat fried rice for lunch,<ms> usually eat fried rice for lunch
+I usually eat fried rice for lunch.,I usually eat fried rice lunch,I usually eat fried rice <mp> lunch
+I usually eat fried rice for lunch.,I eat fried rice for lunch,I <ma> eat fried rice for lunch
+I usually eat fried rice for lunch.,I usually eat for lunch,I usually eat <mo> for lunch
+I usually eat fried rice for lunch.,I usually fried rice for lunch,I usually <mv> fried rice for lunch
+I usually eat pizza for lunch.,usually eat pizza for lunch,<ms> usually eat pizza for lunch
+I usually eat pizza for lunch.,I usually eat pizza lunch,I usually eat pizza <mp> lunch
+I usually eat pizza for lunch.,I eat pizza for lunch,I <ma> eat pizza for lunch
+I usually eat pizza for lunch.,I usually eat for lunch,I usually eat <mo> for lunch
+I usually eat pizza for lunch.,I usually pizza for lunch,I usually <mv> pizza for lunch
+I usually eat different dishes for lunch.,usually eat different dishes for lunch,<ms> usually eat different dishes for lunch
+I usually eat different dishes for lunch.,I usually eat different dishes lunch,I usually eat different dishes <mp> lunch
+I usually eat different dishes for lunch.,I eat different dishes for lunch,I <ma> eat different dishes for lunch
+I usually eat different dishes for lunch.,I usually eat for lunch,I usually eat <mo> for lunch
+I usually eat different dishes for lunch.,I usually different dishes for lunch,I usually <mv> different dishes for lunch
+I want a light meal today.,want a light meal today,<ms> want a light meal today
+I want a light meal today.,I want a light meal,I want a light meal <ma>
+I want a light meal today.,I want a today,I want a <mo> today
+I want a light meal today.,I a light meal today,I <mv> a light meal today
+I want a special meal today.,want a special meal today,<ms> want a special meal today
+I want a special meal today.,I want a special meal,I want a special meal <ma>
+I want a special meal today.,I want a today,I want a <mo> today
+I want a special meal today.,I a special meal today,I <mv> a special meal today
+I want a heavy meal today.,want a heavy meal today,<ms> want a heavy meal today
+I want a heavy meal today.,I want a heavy meal,I want a heavy meal <ma>
+I want a heavy meal today.,I want a today,I want a <mo> today
+I want a heavy meal today.,I a heavy meal today,I <mv> a heavy meal today
+I have tried that noodle place.,have tried that noodle place,<ms> have tried that noodle place
+I have tried that noodle place.,I have tried ,I have tried <mo>
+I have tried that noodle place.,I that noodle place,I <mv> that noodle place
+I have tried that ice cream place.,have tried that ice cream place,<ms> have tried that ice cream place
+I have tried that ice cream place.,I have tried that ,I have tried that <mo>
+I have tried that ice cream place.,I that ice cream place,I <mv> that ice cream place
+I haven't tried that noodle place.,haven't tried that noodle place,<ms> haven't tried that noodle place
+I haven't tried that noodle place.,I haven't tried ,I haven't tried <mo>
+I haven't tried that noodle place.,I that noodle place,I <mv> that noodle place
+I haven't tried that restaurant.,haven't tried that restaurant,<ms> haven't tried that restaurant
+I haven't tried that restaurant.,I haven't tried ,I haven't tried <mo>
+I haven't tried that restaurant.,I that restaurant,I <mv> that restaurant
+I like chocolate cake.,like chocolate cake,<ms> like chocolate cake
+I like chocolate cake.,I like ,I like <mo>
+I like chocolate cake.,I chocolate cake,I <mv> chocolate cake
+I like bubble tea.,like bubble tea,<ms> like bubble tea
+I like bubble tea.,I like ,I like <mo>
+I like bubble tea.,I bubble tea,I <mv> bubble tea
+I like sweet soup.,like sweet soup,<ms> like sweet soup
+I like sweet soup.,I like ,I like <mo>
+I like sweet soup.,I sweet soup,I <mv> sweet soup
+I'm from Vietnam.,from Vietnam,<ms> from Vietnam
+I'm from Vietnam.,I'm from ,I'm from <mo>
+I'm from Vietnam.,I'm Vietnam,I'm <mv> Vietnam
+I'm from Japan.,from Japan,<ms> from Japan
+I'm from Japan.,I'm from ,I'm from <mo>
+I'm from Japan.,I'm Japan,I'm <mv> Japan
+I'm from China.,from China,<ms> from China
+I'm from China.,I'm from ,I'm from <mo>
+I'm from China.,I'm China,I'm <mv> China
+I'm a teacher.,a teacher,<ms> a teacher
+I'm a teacher.,I'm a ,I'm a <mo>
+I'm a banker.,a banker,<ms> a banker
+I'm a banker.,I'm a ,I'm a <mo>
+I'm a student.,a student,<ms> a student
+I'm a student.,I'm a ,I'm a <mo>
+I do the housework after work.,do the housework after work,<ms> do the housework after work
+I do the housework after work.,I do the housework ,I do the housework <ma>
+I do the housework after work.,I do after work,I do <mo> after work
+I do the housework after work.,I the housework after work,I <mv> the housework after work
+I hang out with my friends after work.,hang out with my friends after work,<ms> hang out with my friends after work
+I hang out with my friends after work.,I hang out with my friends ,I hang out with my friends <ma>
+I hang out with my friends after work.,I hang out with after work,I hang out with <mo> after work
+I hang out with my friends after work.,I with my friends after work,I <mv> with my friends after work
+I work on my side hustle after work.,work on my side hustle after work,<ms> work on my side hustle after work
+I work on my side hustle after work.,I work my side hustle after work,I work <mp> my side hustle after work
+I work on my side hustle after work.,I work on my side hustle ,I work on my side hustle <ma> work
+I work on my side hustle after work.,I work on after work,I work on <mo> after work
+My hobby is playing the guitar.,My hobby is playing ,My hobby is playing <mo>
+You can get in touch with me through Facebook.,can get in touch with me through Facebook,<ms> can get in touch with me through Facebook
+You can get in touch with me through Facebook.,You can get in touch with me Facebook,You can get in touch with me <mp> Facebook
+You can get in touch with me through Facebook.,You can get in touch with me through ,You can get in touch with me through <mo>
+You can get in touch with me through Facebook.,You can with me through Facebook,You can <mv> with me through Facebook
+You can get in touch with me by phone.,can get in touch with me by phone,<ms> can get in touch with me by phone
+You can get in touch with me by phone.,You can get in touch with me by ,You can get in touch with me by <mo>
+You can get in touch with me by phone.,You can with me by phone,You can <mv> with me by phone
+You can get in touch with me by e-mail.,can get in touch with me by e-mail,<ms> can get in touch with me by e-mail
+You can get in touch with me by e-mail.,You can get in touch with me by ,You can get in touch with me by <mo>
+You can get in touch with me by e-mail.,You can with me by e-mail,You can <mv> with me by e-mail
+I'm in the finance department.,in the finance department,<ms> in the finance department
+I'm in the finance department.,I'm the finance department,I'm <mp> the finance department
+I'm in the finance department.,I'm in ,I'm in <mo>
+I'm in the marketing department.,in the marketing department,<ms> in the marketing department
+I'm in the marketing department.,I'm the marketing department,I'm <mp> the marketing department
+I'm in the marketing department.,I'm in ,I'm in <mo>
+I'm in the sales department.,in the sales department,<ms> in the sales department
+I'm in the sales department.,I'm the sales department,I'm <mp> the sales department
+I'm in the sales department.,I'm in ,I'm in <mo>
+We mainly sell products.,mainly sell products,<ms> mainly sell products
+We mainly sell products.,We mainly sell ,We mainly sell <mo>
+We mainly sell products.,We mainly products,We mainly <mv> products
+We mainly create products.,mainly create products,<ms> mainly create products
+We mainly create products.,We mainly create ,We mainly create <mo>
+We mainly create products.,We mainly products,We mainly <mv> products
+We mainly manage the company's money.,mainly manage the company's money,<ms> mainly manage the company's money
+We mainly manage the company's money.,We mainly manage ,We mainly manage <mo>
+We mainly manage the company's money.,We mainly the company's money,We mainly <mv> the company's money
+I find dealing with the customers most exciting.,find dealing with the customers most exciting,<ms> find dealing with the customers most exciting
+I find dealing with the customers most exciting.,I find dealing with most exciting,I find dealing with <mo> most exciting
+I find dealing with the customers most exciting.,I with the customers most exciting,I <mv> with the customers most exciting
+I find brainstorming ideas most exciting.,find brainstorming ideas most exciting,<ms> find brainstorming ideas most exciting
+I find brainstorming ideas most exciting.,I find brainstorming most exciting,I find brainstorming <mo> most exciting
+I find brainstorming ideas most exciting.,I most exciting,I <mv> most exciting
+I find business trips most exciting.,find business trips most exciting,<ms> find business trips most exciting
+I find business trips most exciting.,I find most exciting,I find <mo> most exciting
+I find business trips most exciting.,I business trips most exciting,I <mv> business trips most exciting
+My major is Finance.,is Finance,<ms> is Finance
+My major is Finance.,My major is ,My major is <mo>
+My major is Information Technology.,is Information Technology,<ms> is Information Technology
+My major is Information Technology.,My major is ,My major is <mo>
+I want to earn a lot of money.,want to earn a lot of money,<ms> want to earn a lot of money
+I want to earn a lot of money.,I want to earn ,I want to earn <mo>
+I want to earn a lot of money.,I to earn a lot of money,I <mv> to earn a lot of money
+I want to open my own business.,want to open my own business,<ms> want to open my own business
+I want to open my own business.,I want open my own business,I want <mp> open my own business
+I want to open my own business.,I want to open ,I want to open <mo>
+I want to open my own business.,I to open my own business,I <mv> to open my own business
+I want to be an engineer.,want to be an engineer,<ms> want to be an engineer
+I want to be an engineer.,I want be an engineer,I want <mp> be an engineer
+I want to be an engineer.,I want to be ,I want to be <mo>
+I want to be an engineer.,I to be an engineer,I <mv> to be an engineer
+I find my major useful.,find my major useful,<ms> find my major useful
+I find my major useful.,I find my useful,I find my <mo> useful
+I find my major useful.,I my major useful,I <mv> my major useful
+I find my major interesting.,find my major interesting,<ms> find my major interesting
+I find my major interesting.,I find my interesting,I find my <mo> interesting
+I find my major interesting.,I my major interesting,I <mv> my major interesting
+I find my major boring.,find my major boring,<ms> find my major boring
+I find my major boring.,I find my boring,I find my <mo> boring
+I find my major boring.,I my major boring,I <mv> my major boring
+My plan is to enter grad school.,is to enter grad school,<ms> is to enter grad school
+My plan is to enter grad school.,My plan is to enter ,My plan is to enter <mo>
+My plan is to get a job.,is to get a job,<ms> is to get a job
+My plan is to get a job.,My plan is to get a ,My plan is to get a <mo>
+My plan is to get a job.,My plan is to a job,My plan is to <mv> a job
+My plan is to take a gap year.,is to take a gap year,<ms> is to take a gap year
+My plan is to take a gap year.,My plan is to take a ,My plan is to take a <mo>
+I would love to study abroad.,would love to study abroad,<ms> would love to study abroad
+I would love to study abroad.,I would love study abroad,I would love <mp> study abroad
+I would love to study abroad.,I would love to study,I would love to study <mo>
+I would love to study abroad.,I abroad,I <mv> abroad
+I would love to join an exchange program.,would love to join an exchange program,<ms> would love to join an exchange program
+I would love to join an exchange program.,I would love join an exchange program,I would love <mp> join an exchange program
+I would love to join an exchange program.,I would love to join ,I would love to join <mo>
+I would love to join an exchange program.,I an exchange program,I <mv> an exchange program
+I would love to study locally.,would love to study locally,<ms> would love to study locally
+I would love to study locally.,I would love study locally,I would love <mp> study locally
+I would love to study locally.,I would love to study,I would love to study <mo>
+I would love to study locally.,I locally,I <mv> locally
+We should travel to the northern part of Vietnam.,should travel to the northern part of Vietnam,<ms> should travel to the northern part of Vietnam
+We should travel to the northern part of Vietnam.,We should travel to ,We should travel to <mo>
+We should travel to the northern part of Vietnam.,We should to the northern part of Vietnam,We should <mv> to the northern part of Vietnam
+We should travel to the central part of Vietnam.,should travel to the central part of Vietnam,<ms> should travel to the central part of Vietnam
+We should travel to the central part of Vietnam.,We should travel to ,We should travel to <mo>
+We should travel to the central part of Vietnam.,We should to the central part of Vietnam,We should <mv> to the central part of Vietnam
+We should travel to the southern part of Vietnam.,should travel to the southern part of Vietnam,<ms> should travel to the southern part of Vietnam
+We should travel to the southern part of Vietnam.,We should travel ,We should travel <mo>
+We should travel to the southern part of Vietnam.,We should to the southern part of Vietnam,We should <mv> to the southern part of Vietnam
+It is famous for its delicious seafood.,is famous for its delicious seafood,<ms> is famous for its delicious seafood
+It is famous for its delicious seafood.,It is famous its delicious seafood,It is famous <mp> its delicious seafood
+It is famous for its delicious seafood.,It is famous for its delicious ,It is famous for its delicious <mo>
+It is famous for its delicious seafood.,It is for its delicious seafood,It is <mv> for its delicious seafood
+It is famous for its beautiful beaches.,is famous for its beautiful beaches,<ms> is famous for its beautiful beaches
+It is famous for its beautiful beaches.,It is famous its beautiful beaches,It is famous <mp> its beautiful beaches
+It is famous for its beautiful beaches.,It is famous for its beautiful ,It is famous for its beautiful <mo>
+It is famous for its beautiful beaches.,It is for its beautiful beaches,It is <mv> for its beautiful beaches
+It is famous for its high mountains.,is famous for its high mountains,<ms> is famous for its high mountains
+It is famous for its high mountains.,It is famous its high mountains,It is famous <mp> its high mountains
+It is famous for its high mountains.,It is famous for its high ,It is famous for its high <mo>
+It is famous for its high mountains.,It is for its high mountains,It is <mv> for its high mountains
+It is an ideal place to travel.,is an ideal place to travel,<ms> is an ideal place to travel
+It is an ideal place to travel.,It is an ideal place travel,It is an ideal place <mp> travel
+It is a horrible place to travel.,is a horrible place to travel,<ms> is a horrible place to travel
+It is a horrible place to travel.,It is a horrible place travel,It is a horrible place <mp> travel
+It is an alright place to travel.,is an alright place to travel,<ms> is an alright place to travel
+It is an alright place to travel.,It is an alright place travel,It is an alright place <mp> travel
+We should stay there for at least three days.,should stay there for at least three days,<ms> should stay there for at least three days
+We should stay there for at least three days.,We should stay there least three days,We should stay there <mp> least three days
+We should stay there for at least three days.,We should stay for at least three days,We should stay <ma> for at least three days
+We should stay there for at least three days.,We should stay at least three days,We should stay <mo> at least three days
+We should stay there for at least three days.,We should there for at least three days,We should <mv> there for at least three days
+We should stay there for about three days.,should stay there for about three days,<ms> should stay there for about three days
+We should stay there for about three days.,We should stay there about three days,We should stay there <mp> about three days
+We should stay there for about three days.,We should stay for about three days,We should stay <ma> for about three days
+We should stay there for about three days.,We should stay for about three days,We should stay <mo> for about three days
+We should stay there for about three days.,We should there for about three days,We should <mv> there for about three days
+We should stay there for less than three days.,should stay there for less than three days,<ms> should stay there for less than three days
+We should stay there for less than three days.,We should stay there less than three days,We should stay there <mp> less than three days
+We should stay there for less than three days.,We should stay for less than three days,We should stay <ma> for less than three days
+We should stay there for less than three days.,We should stay for less than three days,We should stay <mo> for less than three days
+We should stay there for less than three days.,We should there for less than three days,We should <mv> there for less than three days
+I prefer going by train.,prefer going by train,<ms> prefer going by train
+I prefer going by train.,I prefer going train,I prefer going <mp> train
+I prefer going by train.,I prefer going by ,I prefer going by <mo>
+I prefer going by train.,I by train,I <mv> by train
+I prefer going by motorbike.,prefer going by motorbike,<ms> prefer going by motorbike
+I prefer going by motorbike.,I prefer going motorbike,I prefer going <mp> motorbike
+I prefer going by motorbike.,I prefer going by ,I prefer going by <mo>
+I prefer going by motorbike.,I by motorbike,I <mv> by motorbike
+I prefer going by car.,prefer going by car,<ms> prefer going by car
+I prefer going by car.,I prefer going car,I prefer going <mp> car
+I prefer going by car.,I prefer going by ,I prefer going by <mo>
+I prefer going by car.,I by car,I <mv> by car
+We should bring a lot of money.,should bring a lot of money,<ms> should bring a lot of money
+We should bring a lot of money.,We should bring a lot money,We should bring a lot <mp> money
+We should bring a lot of money.,We should bring a,We should bring a <mo>
+We should bring a lot of money.,We should a lot of money,We should <mv> a lot of money
+We should bring a little money.,should bring a little money,<ms> should bring a little money
+We should bring a little money.,We should bring a,We should bring a <mo>
+We should bring a little money.,We should a little money,We should <mv> a little money
+We should bring about 10 million dong.,should bring about 10 million dong,<ms> should bring about 10 million dong
+We should bring about 10 million dong.,We should bring ,We should bring <mo>
+We should bring about 10 million dong.,We should about 10 million dong,We should <mv> about 10 million dong
+We can get to the beach by going straight.,can get to the beach by going straight,<ms> can get to the beach by going straight
+We can get to the beach by going straight.,We can get to the beach,We can get to the beach <ma>
+We can get to the beach by going straight.,We can get to by going straight,We can get to <mo> by going straight
+We can get to the beach by going left.,can get to the beach by going left,<ms> can get to the beach by going left
+We can get to the beach by going left.,We can get to the beach,We can get to the beach <ma>
+We can get to the beach by going left.,We can get to  by going left,We can get to <mo> by going left
+We can get to the beach by going along this road.,can get to the beach by going along this road,<ms> can get to the beach by going along this road
+We can get to the beach by going along this road.,We can get to the beach,We can get to the beach <ma>
+We can get to the beach by going along this road.,We can get to by going along this road,We can get to <mo> by going along this road

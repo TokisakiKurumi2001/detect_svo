@@ -1,0 +1,56 @@
+Origin: I work at Step Up., User: I work at , Truth: I work at <mo>.
+Origin: I'm looking for opportunities to learn new things., User: I'm looking for opportunities to, Truth: I'm looking for opportunities to <mo>.
+Origin: I'm looking for good benefit package., User: I'm looking for , Truth: I'm looking for <mo>.
+Origin: I'm looking for opportunities to develop myself., User: I'm looking for opportunities to , Truth: I'm looking for opportunities to <mo>.
+Origin: I live in Ba Dinh District., User: I live in , Truth: I live in <mo>.
+Origin: I live on Nguyen Chi Thanh Street., User: I live on , Truth: I live on <mo>.
+Origin: I live near Vincom shopping mall., User: I live near , Truth: I live near <mo>.
+Origin: I live with my family., User: I live with , Truth: I live with <mo>.
+Origin: I live with a friend., User: I live with , Truth: I live with <mo>.
+Origin: I prefer spending time at home., User: I prefer spending time at , Truth: I prefer spending time at <mo>.
+Origin: I prefer spending time at my girlfriend's house., User: I prefer spending time at , Truth: I prefer spending time at <mo>.
+Origin: I'm from Vietnam., User: I'm from , Truth: I'm from <mo>.
+Origin: I'm from Japan., User: I'm from , Truth: I'm from <mo>.
+Origin: I'm from China., User: I'm from , Truth: I'm from <mo>.
+Origin: I hang out with my friends after work., User: I hang out with after work, Truth: I hang out with <mo> after work.
+Origin: You can get in touch with me through Facebook., User: You can get in touch with me through , Truth: You can get in touch with me through <mo>.
+Origin: You can get in touch with me by phone., User: You can get in touch with me by , Truth: You can get in touch with me by <mo>.
+Origin: You can get in touch with me by e-mail., User: You can get in touch with me by , Truth: You can get in touch with me by <mo>.
+Origin: We should travel to the northern part of Vietnam., User: We should travel to , Truth: We should travel to <mo>.
+Origin: We should travel to the central part of Vietnam., User: We should travel to , Truth: We should travel to <mo>.
+Origin: I prefer going by train., User: I prefer going by , Truth: I prefer going by <mo>.
+Origin: I prefer going by motorbike., User: I prefer going by , Truth: I prefer going by <mo>.
+Origin: I prefer going by car., User: I prefer going by , Truth: I prefer going by <mo>.
+Origin: We can get to the beach by going straight., User: can get to the beach by going straight, Truth: <ms> can get to the beach by going straight.
+Origin: We can get to the beach by going straight., User: We can get to the beach, Truth: We can get to the beach <ma>.
+Origin: We can get to the beach by going straight., User: We can get to by going straight, Truth: We can get to <mo> by going straight.
+Origin: We can get to the beach by going left., User: can get to the beach by going left, Truth: <ms> can get to the beach by going left.
+Origin: We can get to the beach by going left., User: We can get to the beach, Truth: We can get to the beach <ma>.
+Origin: We can get to the beach by going left., User: We can get to  by going left, Truth: We can get to <mo> by going left.
+Origin: We can get to the beach by going along this road., User: can get to the beach by going along this road, Truth: <ms> can get to the beach by going along this road.
+Origin: We can get to the beach by going along this road., User: We can get to the beach, Truth: We can get to the beach <ma>.
+Origin: We can get to the beach by going along this road., User: We can get to by going along this road, Truth: We can get to <mo> by going along this road.
+Origin: You should hang out with your family., User: You should hang out with , Truth: You should hang out with <mo>.
+Origin: I have talked to my boss., User: I have talked to, Truth: I have talked to <mo>.
+Origin: I joined to make some new friends., User: I joined to, Truth: I joined to <mo>.
+Origin: I joined to help the community., User: I joined to, Truth: I joined to <mo>.
+Origin: I joined to earn a certificate., User: I joined to, Truth: I joined to <mo>.
+Origin: I have been a fan for a year., User: I have been a fan for  , Truth: I have been a fan for a <ma>.
+Origin: I have been a fan for a while., User: I have been a fan for, Truth: I have been a fan for a <ma>.
+Origin: I improve my English by using English learning apps., User: improve my English by using English learning apps, Truth: <ms> improve my English by using English learning apps.
+Origin: I improve my English by using English learning apps., User: I improve by using English learning apps, Truth: I improve <mo> English by using English learning apps.
+Origin: I improve my English by using English learning apps., User: I my English by using English learning apps, Truth: I <mv> my English by using English learning apps.
+Origin: I improve my English by watching movies without subtitles., User: improve my English by watching movies without subtitles, Truth: <ms> improve my English by watching movies without subtitles.
+Origin: I improve my English by watching movies without subtitles., User: I improve my English by watching movies subtitles, Truth: I improve my English by watching movies <mp> subtitles.
+Origin: I improve my English by watching movies without subtitles., User: I improve my English  , Truth: I improve my English <ma>.
+Origin: I improve my English by watching movies without subtitles., User: I improve by watching movies without subtitles, Truth: I improve <mo> by watching movies without subtitles.
+Origin: I improve my English by watching movies without subtitles., User: I my English by watching movies without subtitles, Truth: I <mv> my English by watching movies without subtitles.
+Origin: I improve my English by talking to foreigners., User: improve my English by talking to foreigners, Truth: <ms> improve my English by talking to foreigners.
+Origin: I improve my English by talking to foreigners., User: I improve my English by talking foreigners, Truth: I improve my English by talking <mp> foreigners.
+Origin: I improve my English by talking to foreigners., User: I improve my English  , Truth: I improve my English <ma>.
+Origin: I improve my English by talking to foreigners., User: I improve by talking to foreigners, Truth: I improve <mo> by talking to foreigners.
+Origin: I improve my English by talking to foreigners., User: I my English by talking to foreigners, Truth: I <mv> my English by talking to foreigners.
+0 69 465
+1 29 274
+2 10 145
+3 53 550

@@ -1,11 +1,17 @@
 from nltk.parse.corenlp import CoreNLPServer
 import os
-java_path = "D:/jdk-17.0.0.35-hotspot/bin/java.exe"
+import sys
+import subprocess
+java_path = "/usr/bin/java"
 os.environ['JAVAHOME'] = java_path
 
 server = CoreNLPServer(
-   "stanford-corenlp-4.5.0/stanford-corenlp-4.5.0.jar", 
-   "stanford-corenlp-4.5.0/stanford-corenlp-4.5.0-models.jar"
+    "stanford-corenlp-4.5.0/stanford-corenlp-4.5.0.jar",
+    "stanford-corenlp-4.5.0/stanford-corenlp-4.5.0-models.jar"
 )
 
-server.start()
+if __name__ == "__main__":
+    if sys.argv[1] == "start":
+        server.start()
+    elif sys.argv[1] == "stop":
+        subprocess.call("./shutdown_server.sh", shell=True)
