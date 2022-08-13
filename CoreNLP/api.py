@@ -15,20 +15,20 @@ def mappings(segment_name: str) -> str:
     return maps[segment_name]
 
 
-def postprocess_origin_segment(origin_segment):
+def postprocess_segment(segment):
     """
     If the object string is in the averbial phrase, remove the object
     """
     flag = False
-    exist_object = 'object' in origin_segment
-    exist_adv = 'adverbial phrase' in origin_segment
+    exist_object = 'object' in segment
+    exist_adv = 'adverbial phrase' in segment
     if exist_object and exist_adv:
-        object_value = origin_segment['object']
-        adv_value = origin_segment['adverbial phrase']
+        object_value = segment['object']
+        adv_value = segment['adverbial phrase']
         if object_value in adv_value:
             flag = True
     if flag:
-        origin_segment.pop('object')
+        segment.pop('object')
     # dictionary are passed by reference, there is no need for returning value
 
 
@@ -50,7 +50,8 @@ def compare_detect_segment(original_sent: str, usr_sent: str) -> str:
     """
     original_segment = svo_parser(preprocess_sentence(original_sent))
     usr_segment = svo_parser(preprocess_sentence(usr_sent))
-    postprocess_origin_segment(original_segment)
+    postprocess_segment(original_segment)
+    postprocess_segment(usr_segment)
     debug(f"Original: {original_segment}")
     debug(f"User: {usr_segment}")
     buffer = ""
@@ -82,8 +83,8 @@ def preprocess_sentence(sent: str) -> str:
 
 
 if __name__ == "__main__":
-    original_sent = "I'm from Japan."
-    usr_sent = "I'm from"
+    original_sent = "I work at an education company."
+    usr_sent = "work at an education company"
     res, recommend = compare_detect_segment(original_sent, usr_sent)
     if DEMO:
         print(res)

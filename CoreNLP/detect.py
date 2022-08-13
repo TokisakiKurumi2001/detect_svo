@@ -7,8 +7,14 @@ nlp = spacy.load("en_core_web_sm")
 
 
 def edge_reserve(sentence: str, flag: List[int] = None) -> Tuple[str, List[int]]:
-    mappings = {'work': 'is', 'like': 'prefer'}
-    reverse_mappings = {'is': 'work', 'prefer': 'like'}
+    """
+    This function takes a string sentence and the flag for indicating for/back-ward replacement
+
+    Issues for having the function.
+    A corrupted sentence. "word
+    """
+    mappings = {'work': 'worked', 'like': 'liked'}
+    reverse_mappings = {'worked': 'work', 'liked': 'like'}
     forward = False
     if flag is None:
         forward = True
