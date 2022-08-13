@@ -1,0 +1,1309 @@
+Predict: <ms> work an education company at an education company., Origin: I work at an education company, User: work at an education company, Truth: <ms> work at an education company.
+Predict: I work an education company <ma>., Origin: I work at an education company, User: I work an education company, Truth: I work <mp> an education company.
+Predict: I work an education at an education., Origin: I work at an education company, User: I work at an education, Truth: I work at an education <mo>.
+Predict: I work an company at an company., Origin: I work at an education company, User: I work at an company, Truth: I work at an <mo> company.
+Predict: I work an at an., Origin: I work at an education company, User: I work at an , Truth: I work at an <mo>.
+Origin: I work at an education company, User: I at an education company, Truth: I <mv> at an education company.
+Predict: <ms> work Step Up at Step Up., Origin: I work at Step Up., User: work at Step Up, Truth: <ms> work at Step Up.
+Predict: I work Step Up <ma>., Origin: I work at Step Up., User: I work Step Up, Truth: I work <mp> Step Up.
+Origin: I work at Step Up., User: I work at , Truth: I work at <mo>.
+Origin: I work at Step Up., User: I at Step Up, Truth: I <mv> at Step Up.
+Predict: <ms> work a local bank at a local bank., Origin: I work at a local bank., User: work at a local bank, Truth: <ms> work at a local bank.
+Predict: I work a local bank <ma>., Origin: I work at a local bank., User: I work a local bank, Truth: I work <mp> a local bank.
+Origin: I work at a local bank., User: I at a local bank, Truth: I <mv> at a local bank.
+Predict: I have been working there <ma>., Origin: I have been working there for a year and a half., User: I have been working there a year and a half, Truth: I have been working there <mp> a year and a half.
+Predict: I have been working a year and a half for a year and a half., Origin: I have been working there for a year and a half., User: I have been working for a year and a half, Truth: I have been working <mo> for a year and a half.
+Predict: I have been there for a year and a half., Origin: I have been working there for a year and a half., User: I have been there for a year and a half, Truth: I have been <mv> there for a year and a half.
+Predict: I have been working there about 2 years <ma>., Origin: I have been working there for about 2 years., User: I have been working there about 2 years, Truth: I have been working there <mp> about 2 years.
+Predict: I have been working about 2 years for about 2 years., Origin: I have been working there for about 2 years., User: I have been working for about 2 years, Truth: I have been working <mo> for about 2 years.
+Predict: I have been there for about 2 years., Origin: I have been working there for about 2 years., User: I have been there for about 2 years, Truth: I have been <mv> there for about 2 years.
+Predict: I have been working there less than 2 years <ma>., Origin: I have been working there for less than 2 years., User: I have been working there less than 2 years, Truth: I have been working there <mp> less than 2 years.
+Predict: I have been working less than 2 years for less than 2 years., Origin: I have been working there for less than 2 years., User: I have been working for less than 2 years, Truth: I have been working <mo> for less than 2 years.
+Predict: I have been there for less than 2 years., Origin: I have been working there for less than 2 years., User: I have been there for less than 2 years, Truth: I have been <mv> there for less than 2 years.
+Predict: <ms> like., Origin: I like the work environment., User: like the work environment, Truth: <ms> like the work environment.
+Predict: I like the., Origin: I like the work environment., User: I like the, Truth: I like the <mo>.
+Predict: <ms> like the company 's product., Origin: I like the company's product., User: like the company's product, Truth: <ms> like the company's product.
+Predict: I like the., Origin: I like the company's product., User: I like the , Truth: I like the <mo>.
+Origin: I like the company's product., User: I the company's product, Truth: I <mv> the company's product.
+Predict: <ms> like the company 's culture., Origin: I like the company's culture., User: like the company's culture, Truth: <ms> like the company's culture.
+Predict: I like the., Origin: I like the company's culture., User: I like the, Truth: I like the <mo>.
+Origin: I like the company's culture., User: I the company's culture, Truth: I <mv> the company's culture.
+Predict: <ms> is problem - solving skills., Origin: My greatest strength is problem-solving skills., User: is problem-solving skills, Truth: <ms> is problem-solving skills.
+Predict: <ms> work teamis skills., Origin: My greatest strength is teamwork skills., User: is teamwork skills, Truth: <ms> is teamwork skills.
+Predict: <ms> is lack of confidence of confidence., Origin: My greatest weakness is lack of confidence., User: is lack of confidence, Truth: <ms> is lack of confidence.
+Predict: My greatest weakness is lack confidence <ma>., Origin: My greatest weakness is lack of confidence., User: My greatest weakness is lack confidence, Truth: My greatest weakness is lack <mp> confidence.
+Predict: My greatest weakness is <mo> <ma>., Origin: My greatest weakness is lack of confidence., User: My greatest weakness is , Truth: My greatest weakness is <mo>.
+Predict: My greatest weakness is confidence of confidence., Origin: My greatest weakness is lack of confidence., User: My greatest weakness is of confidence, Truth: My greatest weakness is <mv> of confidence.
+Predict: <ms> is lack of flexibility of flexibility., Origin: My greatest weakness is lack of flexibility., User: is lack of flexibility, Truth: <ms> is lack of flexibility.
+Predict: My greatest weakness is lack flexibility <ma>., Origin: My greatest weakness is lack of flexibility., User: My greatest weakness is lack flexibility, Truth: My greatest weakness is lack <mp> flexibility.
+Predict: My greatest weakness is <mo> <ma>., Origin: My greatest weakness is lack of flexibility., User: My greatest weakness is , Truth: My greatest weakness is <mo>.
+Predict: <ms> is lack of English skills of English skills., Origin: My greatest weakness is lack of English skills., User: is lack of English skills, Truth: <ms> is lack of English skills.
+Predict: My greatest weakness is lack English skills <ma>., Origin: My greatest weakness is lack of English skills., User: My greatest weakness is lack English skills, Truth: My greatest weakness is lack <mp> English skills.
+Predict: My greatest weakness is <mo> <ma>., Origin: My greatest weakness is lack of English skills., User: My greatest weakness is, Truth: My greatest weakness is <mo>.
+Predict: <ms> looking opportunities for opportunities., Origin: I'm looking for opportunities to learn new things., User: looking for opportunities to learn new things, Truth: <ms> looking for opportunities to learn new things.
+Origin: I'm looking for opportunities to learn new things., User: I'm looking for opportunities to, Truth: I'm looking for opportunities to <mo>.
+Predict: <ms> looking good benefit package for good benefit package., Origin: I'm looking for good benefit package., User: looking for good benefit package, Truth: <ms> looking for good benefit package.
+Predict: I 'm looking good benefit package <ma>., Origin: I'm looking for good benefit package., User: I'm looking good benefit package, Truth: I'm looking <mp> good benefit package.
+Origin: I'm looking for good benefit package., User: I'm looking for , Truth: I'm looking for <mo>.
+Predict: <ms> looking opportunities for opportunities., Origin: I'm looking for opportunities to develop myself., User: looking for opportunities to develop myself, Truth: <ms> looking for opportunities to develop myself.
+Origin: I'm looking for opportunities to develop myself., User: I'm looking for opportunities to , Truth: I'm looking for opportunities to <mo>.
+Origin: I live in Ba Dinh District., User: live in Ba Dinh District, Truth: <ms> live in Ba Dinh District.
+Predict: I live Ba Dinh District <ma>., Origin: I live in Ba Dinh District., User: I live Ba Dinh District, Truth: I live <mp> Ba Dinh District.
+Origin: I live in Ba Dinh District., User: I live in , Truth: I live in <mo>.
+Origin: I live in Ba Dinh District., User: I in Ba Dinh District, Truth: I <mv> in Ba Dinh District.
+Origin: I live on Nguyen Chi Thanh Street., User: live on Nguyen Chi Thanh Street, Truth: <ms> live on Nguyen Chi Thanh Street.
+Predict: I live Nguyen Chi Thanh Street <ma>., Origin: I live on Nguyen Chi Thanh Street., User: I live Nguyen Chi Thanh Street, Truth: I live <mp> Nguyen Chi Thanh Street.
+Origin: I live on Nguyen Chi Thanh Street., User: I live on , Truth: I live on <mo>.
+Origin: I live on Nguyen Chi Thanh Street., User: I on Nguyen Chi Thanh Street, Truth: I <mv> on Nguyen Chi Thanh Street.
+Origin: I live near Vincom shopping mall., User: live near Vincom shopping mall, Truth: <ms> live near Vincom shopping mall.
+Origin: I live near Vincom shopping mall., User: I live near , Truth: I live near <mo>.
+Origin: I live near Vincom shopping mall., User: I near Vincom shopping mall, Truth: I <mv> near Vincom shopping mall.
+Predict: <ms> is a 30 - minute drive from the city center from the city center., Origin: My house is a 30-minute drive from the city center., User: is a 30-minute drive from the city center, Truth: <ms> is a 30-minute drive from the city center.
+Predict: My house is a 30 - minute drive from the from the., Origin: My house is a 30-minute drive from the city center., User: My house is a 30-minute drive from the, Truth: My house is a 30-minute drive from the <mo>.
+Predict: My house is a 30 - minute the city center <ma>., Origin: My house is a 30-minute drive from the city center., User: My house is a 30-minute the city center, Truth: My house is a 30-minute <mv> the city center.
+Predict: <ms> is a 15 - minute walk from the city center from the city center., Origin: My house is a 15-minute walk from the city center., User: is a 15-minute walk from the city center, Truth: <ms> is a 15-minute walk from the city center.
+Predict: My house is a 15 - minute walk from the from the., Origin: My house is a 15-minute walk from the city center., User: My house is a 15-minute walk from the, Truth: My house is a 15-minute walk from the <mo>.
+Predict: My house is a 15 - minute the city center <ma>., Origin: My house is a 15-minute walk from the city center., User: My house is a 15-minute the city center, Truth: My house is a 15-minute <mv> the city center.
+Predict: <ms> is a 15 - minute drive from the city center from the city center., Origin: My house is a 15-minute drive from the city center., User: is a 15-minute drive from the city center, Truth: <ms> is a 15-minute drive from the city center.
+Predict: My house is a 15 - minute drive from the from the., Origin: My house is a 15-minute drive from the city center., User: My house is a 15-minute drive from the, Truth: My house is a 15-minute drive from the <mo>.
+Predict: My house is a 15 - minute the city center <ma>., Origin: My house is a 15-minute drive from the city center., User: My house is a 15-minute the city center, Truth: My house is a 15-minute <mv> the city center.
+Predict: <ms> is a noisy place to live., Origin: It's a noisy place to live., User: is a noisy place to live, Truth: <ms> a noisy place to live.
+Predict: It 's a noisy place live., Origin: It's a noisy place to live., User: It's a noisy place live, Truth: It's a noisy place <mp> live.
+Predict: It 's a noisy place to., Origin: It's a noisy place to live., User: It's a noisy place to, Truth: It's a noisy place to <mv>.
+Predict: <ms> is a nice place to live., Origin: It's a nice place to live., User: is a nice place to live, Truth: <ms> a nice place to live.
+Predict: It 's a nice place live., Origin: It's a nice place to live., User: It's a nice place live, Truth: It's a nice place <mp> live.
+Predict: It 's a nice place to., Origin: It's a nice place to live., User: It's a nice place to, Truth: It's a nice place to <mv>.
+Predict: <ms> is a quiet place to live., Origin: It's a quiet place to live., User: is a quiet place to live, Truth: <ms> a quiet place to live.
+Predict: It 's a quiet place live., Origin: It's a quiet place to live., User: It's a quiet place live, Truth: It's a quiet place <mp> live.
+Predict: It 's a quiet place to., Origin: It's a quiet place to live., User: It's a quiet place to, Truth: It's a quiet place to <mv>.
+Origin: I live in a house., User: live in a house, Truth: <ms> live in a house.
+Predict: I live a house <ma>., Origin: I live in a house., User: I live a house, Truth: I live <mp> a house.
+Predict: I live a in a., Origin: I live in a house., User: I live in a, Truth: I live in a <mo>.
+Origin: I live in a house., User: I in a house, Truth: I <mv> in a house.
+Origin: I live in a dorm., User: live in a dorm, Truth: <ms> live in a dorm.
+Predict: I live a dorm <ma>., Origin: I live in a dorm., User: I live a dorm, Truth: I live <mp> a dorm.
+Predict: I live a in a., Origin: I live in a dorm., User: I live in a , Truth: I live in a <mo>.
+Origin: I live in a dorm., User: I in a dorm, Truth: I <mv> in a dorm.
+Origin: I live in an apartment., User: live in an apartment, Truth: <ms> live in an apartment.
+Predict: I live an apartment <ma>., Origin: I live in an apartment., User: I live an apartment, Truth: I live <mp> an apartment.
+Predict: I live an in an., Origin: I live in an apartment., User: I live in an , Truth: I live in an <mo>.
+Origin: I live in an apartment., User: I in an apartment, Truth: I <mv> in an apartment.
+Predict: <ms> live my family with my family., Origin: I live with my family., User: live with my family, Truth: <ms> live with my family.
+Origin: I live with my family., User: I live with , Truth: I live with <mo>.
+Origin: I live with my family., User: I with my family, Truth: I <mv> with my family.
+Predict: <ms> live a friend with a friend., Origin: I live with a friend., User: live with a friend, Truth: <ms> live with a friend.
+Origin: I live with a friend., User: I live with , Truth: I live with <mo>.
+Origin: I live with a friend., User: I with a friend, Truth: I <mv> with a friend.
+Origin: I live by myself., User: live by myself, Truth: <ms> live by myself.
+Predict: I live myself <ma>., Origin: I live by myself., User: I live myself, Truth: I live <mp> myself.
+Predict: I live <ma>., Origin: I live by myself., User: I live , Truth: I live <mo>.
+Origin: I live by myself., User: I by myself, Truth: I <mv> by myself.
+Predict: I prefer spending time home <ma>., Origin: I prefer spending time at home., User: I prefer spending time home, Truth: I prefer spending time <mp> home.
+Origin: I prefer spending time at home., User: I prefer spending time at , Truth: I prefer spending time at <mo>.
+Origin: I prefer spending time at home., User: I at home, Truth: I <mv> at home.
+Predict: <ms> prefer spending time at my girlfriend 's house., Origin: I prefer spending time at my girlfriend's house., User: prefer spending time at my girlfriend's house, Truth: <ms> prefer spending time at my girlfriend's house.
+Predict: I prefer spending time <ma>., Origin: I prefer spending time at my girlfriend's house., User: I prefer spending time my girlfriend's house, Truth: I prefer spending time <mp> my girlfriend's house.
+Origin: I prefer spending time at my girlfriend's house., User: I prefer spending time at , Truth: I prefer spending time at <mo>.
+Origin: I prefer spending time at my girlfriend's house., User: I at my girlfriend's house, Truth: I <mv> at my girlfriend's house.
+Predict: <ms> prefer outside., Origin: I prefer spending time outside., User: prefer spending time outside, Truth: <ms> prefer spending time outside.
+Predict: I prefer spending time., Origin: I prefer spending time outside., User: I prefer spending time , Truth: I prefer spending time <mo>.
+Origin: I prefer spending time outside., User: I outside, Truth: I <mv> outside.
+Predict: I have family., Origin: I have a big family., User: I have family, Truth: I have <ma> family.
+Predict: I have a., Origin: I have a big family., User: I have a , Truth: I have a <mo>.
+Origin: I have a big family., User: I a big family, Truth: I <mv> a big family.
+Predict: I have family., Origin: I have a happy family., User: I have family, Truth: I have <ma> family.
+Predict: I have a., Origin: I have a happy family., User: I have a , Truth: I have a <mo>.
+Origin: I have a happy family., User: I a happy family, Truth: I <mv> a happy family.
+Predict: I have family., Origin: I have a small family., User: I have family, Truth: I have <ma> family.
+Predict: I have a., Origin: I have a small family., User: I have a , Truth: I have a <mo>.
+Origin: I have a small family., User: I a small family, Truth: I <mv> a small family.
+Predict: I have one., Origin: I have one younger brother., User: I have one , Truth: I have one <mo>.
+Origin: I have one younger brother., User: I one younger brother, Truth: I <mv> one younger brother.
+Predict: I have two., Origin: I have two older sisters., User: I have two , Truth: I have two <mo>.
+Origin: I have two older sisters., User: I two older sisters, Truth: I <mv> two older sisters.
+Predict: I have no., Origin: I have no siblings., User: I have no, Truth: I have no <mo>.
+Origin: I have no siblings., User: I no siblings, Truth: I <mv> no siblings.
+Predict: <ms> see my family., Origin: I see my family every two weeks., User: see my family every two weeks, Truth: <ms> see my family every two weeks.
+Predict: I see my family., Origin: I see my family every two weeks., User: I see my family, Truth: I see my family <ma>.
+Predict: I see every two weeks., Origin: I see my family every two weeks., User: I see every two weeks, Truth: I see <mo> every two weeks.
+Origin: I see my family every two weeks., User: I my family every two weeks, Truth: I <mv> my family every two weeks.
+Predict: <ms> see my family three times., Origin: I see my family three times a week., User: see my family three times a week, Truth: <ms> see my family three times a week.
+Predict: I see my family., Origin: I see my family three times a week., User: I see my family, Truth: I see my family <ma>.
+Predict: I see three times a week., Origin: I see my family three times a week., User: I see three times a week, Truth: I see <mo> three times a week.
+Origin: I see my family three times a week., User: I my family three times a week, Truth: I <mv> my family three times a week.
+Predict: I see my family <ma>., Origin: I see my family on the weekends., User: I see my family the weekends, Truth: I see my family <mp> the weekends.
+Predict: I see the weekends on the weekends., Origin: I see my family on the weekends., User: I see on the weekends, Truth: I see <mo> on the weekends.
+Origin: I see my family on the weekends., User: I my family on the weekends, Truth: I <mv> my family on the weekends.
+Predict: <ms> gather food on holidays., Origin: My family usually gather for food on holidays., User: usually gather for food on holidays, Truth: <ms> usually gather for food on holidays.
+Predict: My family gather food on holidays., Origin: My family usually gather for food on holidays., User: My family gather for food on holidays, Truth: My family <ma> gather for food on holidays.
+Predict: My family gather <mo> for on holidays., Origin: My family usually gather for food on holidays., User: My family usually gather for on holidays, Truth: My family usually gather for <mo> on holidays.
+Origin: My family usually gather for food on holidays., User: My family usually for food on holidays, Truth: My family usually <mv> for food on holidays.
+Predict: <ms> watch movies on holidays., Origin: My family usually watch movies on holidays., User: usually watch movies on holidays, Truth: <ms> usually watch movies on holidays.
+Predict: My family watch movies <ma>., Origin: My family usually watch movies on holidays., User: My family usually watch movies holidays, Truth: My family usually watch movies <mp> holidays.
+Predict: My family watch movies on holidays., Origin: My family usually watch movies on holidays., User: My family watch movies on holidays, Truth: My family <ma> watch movies on holidays.
+Predict: My family watch holidays on holidays., Origin: My family usually watch movies on holidays., User: My family usually watch on holidays, Truth: My family usually watch <mo> on holidays.
+Origin: My family usually watch movies on holidays., User: My family usually movies on holidays, Truth: My family usually <mv> movies on holidays.
+Predict: <ms> hang holidays on holidays., Origin: My family usually hang out on holidays., User: usually hang out on holidays, Truth: <ms> usually hang out on holidays.
+Predict: My family hang holidays <ma>., Origin: My family usually hang out on holidays., User: My family usually hang out holidays, Truth: My family usually hang out <mp> holidays.
+Predict: My family hang movies on holidays on holidays., Origin: My family usually hang out on holidays., User: My family hang out movies on holidays, Truth: My family <ma> hang out on holidays.
+Origin: My family usually hang out on holidays., User: My family usually on holidays, Truth: My family usually <mv> on holidays.
+Predict: <ms>  rather., Origin: I would rather live with my friends., User: would rather live with my friends, Truth: <ms> would rather live with my friends.
+Predict: I  rather., Origin: I would rather live with my friends., User: I would rather live with , Truth: I would rather live with <mo>.
+Origin: I would rather live with my friends., User: I with my friends, Truth: I <mv> with my friends.
+Predict: <ms>  rather., Origin: I would rather live by myself., User: would rather live by myself, Truth: <ms> would rather live by myself.
+Predict: I  rather., Origin: I would rather live by myself., User: I would rather live myself, Truth: I would rather live <mp> myself.
+Predict: I  rather., Origin: I would rather live by myself., User: I would rather live , Truth: I would rather live <mo>.
+Origin: I would rather live by myself., User: I by myself, Truth: I <mv> by myself.
+Predict: <ms>  rather., Origin: I would rather live with my parents., User: would rather live with my parents, Truth: <ms> would rather live with my parents.
+Predict: I  rather., Origin: I would rather live with my parents., User: I would rather live with , Truth: I would rather live with <mo>.
+Origin: I would rather live with my parents., User: I with my parents, Truth: I <mv> with my parents.
+Predict: The most popular dish my country is Pho., Origin: The most popular dish in my country is Pho., User: The most popular dish my country is Pho, Truth: The most popular dish <mp> my country is Pho.
+Predict: The most popular dish my country is Bun Cha., Origin: The most popular dish in my country is Bun Cha., User: The most popular dish my country is Bun Cha, Truth: The most popular dish <mp> my country is Bun Cha.
+Predict: The most popular dish my country is Banh Xeo., Origin: The most popular dish in my country is Banh Xeo., User: The most popular dish my country is Banh Xeo, Truth: The most popular dish <mp> my country is Banh Xeo.
+Origin: It usually costs under 50,000 VND., User: usually costs under 50,000 VND, Truth: <ms> usually costs under 50,000 VND.
+Predict: It costs 50,000 VND under 50,000 VND., Origin: It usually costs under 50,000 VND., User: It costs under 50,000 VND, Truth: It <ma> costs under 50,000 VND.
+Origin: It usually costs under 50,000 VND., User: It usually under 50,000 VND, Truth: It usually <mv> under 50,000 VND.
+Origin: It usually costs over 50,000 VND., User: usually costs over 50,000 VND, Truth: <ms> usually costs over 50,000 VND.
+Predict: It costs 50,000 VND., Origin: It usually costs over 50,000 VND., User: It costs over 50,000 VND, Truth: It <ma> costs over 50,000 VND.
+Origin: It usually costs over 50,000 VND., User: It usually over 50,000 VND, Truth: It usually <mv> over 50,000 VND.
+Origin: It usually costs around 50,000 VND., User: usually costs around 50,000 VND, Truth: <ms> usually costs around 50,000 VND.
+Predict: It costs around 50,000 VND., Origin: It usually costs around 50,000 VND., User: It costs around 50,000 VND, Truth: It <ma> costs around 50,000 VND.
+Origin: It usually costs around 50,000 VND., User: It usually around 50,000 VND, Truth: It usually <mv> around 50,000 VND.
+Predict: Hanoi is the best place get that., Origin: Hanoi is the best place to get that., User: Hanoi is the best place get that, Truth: Hanoi is the best place <mp> get that.
+Predict: Hanoi is the best place to get., Origin: Hanoi is the best place to get that., User: Hanoi is the best place to get , Truth: Hanoi is the best place to get <mo>.
+Predict: Hanoi is the best place to that to that., Origin: Hanoi is the best place to get that., User: Hanoi is the best place to that, Truth: Hanoi is the best place to <mv> that.
+Predict: Da Nang is the best place get that., Origin: Da Nang is the best place to get that., User: Da Nang is the best place get that, Truth: Da Nang is the best place <mp> get that.
+Predict: Da Nang is the best place to get., Origin: Da Nang is the best place to get that., User: Da Nang is the best place to get , Truth: Da Nang is the best place to get <mo>.
+Predict: Da Nang is the best place to that to that., Origin: Da Nang is the best place to get that., User: Da Nang is the best place to that, Truth: Da Nang is the best place to <mv> that.
+Predict: Ho Chi Minh city is the best place get that., Origin: Ho Chi Minh city is the best place to get that., User: Ho Chi Minh city is the best place get that, Truth: Ho Chi Minh city is the best place <mp> get that.
+Predict: Ho Chi Minh city is the best place to get., Origin: Ho Chi Minh city is the best place to get that., User: Ho Chi Minh city is the best place to get , Truth: Ho Chi Minh city is the best place to get <mo>.
+Predict: Ho Chi Minh city is the best place to that to that., Origin: Ho Chi Minh city is the best place to get that., User: Ho Chi Minh city is the best place to that, Truth: Ho Chi Minh city is the best place to <mv> that.
+Predict: <ms> prefer., Origin: I prefer to eat street food., User: prefer to eat street food, Truth: <ms> prefer to eat street food.
+Predict: I prefer., Origin: I prefer to eat street food., User: I prefer to eat , Truth: I prefer to eat <mo>.
+Origin: I prefer to eat street food., User: I street food, Truth: I <mv> street food.
+Predict: <ms> prefer., Origin: I prefer to eat homemade food., User: prefer to eat homemade food, Truth: <ms> prefer to eat homemade food.
+Predict: I prefer., Origin: I prefer to eat homemade food., User: I prefer to eat , Truth: I prefer to eat <mo>.
+Origin: I prefer to eat homemade food., User: I homemade food, Truth: I <mv> homemade food.
+Predict: <ms> prefer., Origin: I prefer to eat in a restaurant., User: prefer to eat in a restaurant, Truth: <ms> prefer to eat in a restaurant.
+Predict: I prefer., Origin: I prefer to eat in a restaurant., User: I prefer to eat , Truth: I prefer to eat <mo>.
+Origin: I prefer to eat in a restaurant., User: I in a restaurant, Truth: I <mv> in a restaurant.
+Predict: I like the., Origin: I like the low prices., User: I like the , Truth: I like the <mo>.
+Origin: I like the low prices., User: I the low prices, Truth: I <mv> the low prices.
+Predict: I like the., Origin: I like the exciting atmosphere., User: I like the , Truth: I like the <mo>.
+Origin: I like the exciting atmosphere., User: I the exciting atmosphere, Truth: I <mv> the exciting atmosphere.
+Predict: I like the., Origin: I like the open space., User: I like the , Truth: I like the <mo>.
+Origin: I like the open space., User: I the open space, Truth: I <mv> the open space.
+Origin: I'm hungry., User: hungry, Truth: <ms> hungry.
+Origin: I'm not starving., User: not starving, Truth: <ms> not starving.
+Origin: I'm busy., User: busy, Truth: <ms> busy.
+Predict: fried rice for lunch eat <mo> <ma>., Origin: I usually eat fried rice for lunch., User: usually eat fried rice for lunch, Truth: <ms> usually eat fried rice for lunch.
+Predict: I eat fried rice lunch <ma>., Origin: I usually eat fried rice for lunch., User: I usually eat fried rice lunch, Truth: I usually eat fried rice <mp> lunch.
+Predict: I eat fried rice for lunch for lunch., Origin: I usually eat fried rice for lunch., User: I eat fried rice for lunch, Truth: I <ma> eat fried rice for lunch.
+Predict: I eat lunch for lunch., Origin: I usually eat fried rice for lunch., User: I usually eat for lunch, Truth: I usually eat <mo> for lunch.
+Predict: I fried rice for lunch., Origin: I usually eat fried rice for lunch., User: I usually fried rice for lunch, Truth: I usually <mv> fried rice for lunch.
+Predict: <ms> eat pizza for lunch for lunch., Origin: I usually eat pizza for lunch., User: usually eat pizza for lunch, Truth: <ms> usually eat pizza for lunch.
+Predict: I eat pizza lunch <ma>., Origin: I usually eat pizza for lunch., User: I usually eat pizza lunch, Truth: I usually eat pizza <mp> lunch.
+Predict: I eat pizza for lunch for lunch., Origin: I usually eat pizza for lunch., User: I eat pizza for lunch, Truth: I <ma> eat pizza for lunch.
+Predict: I eat lunch for lunch., Origin: I usually eat pizza for lunch., User: I usually eat for lunch, Truth: I usually eat <mo> for lunch.
+Origin: I usually eat pizza for lunch., User: I usually pizza for lunch, Truth: I usually <mv> pizza for lunch.
+Predict: <ms> eat different dishes for lunch., Origin: I usually eat different dishes for lunch., User: usually eat different dishes for lunch, Truth: <ms> usually eat different dishes for lunch.
+Predict: I eat different dishes lunch <ma>., Origin: I usually eat different dishes for lunch., User: I usually eat different dishes lunch, Truth: I usually eat different dishes <mp> lunch.
+Predict: I eat different dishes for lunch., Origin: I usually eat different dishes for lunch., User: I eat different dishes for lunch, Truth: I <ma> eat different dishes for lunch.
+Predict: I eat lunch for lunch., Origin: I usually eat different dishes for lunch., User: I usually eat for lunch, Truth: I usually eat <mo> for lunch.
+Origin: I usually eat different dishes for lunch., User: I usually different dishes for lunch, Truth: I usually <mv> different dishes for lunch.
+Predict: <ms> want a light meal., Origin: I want a light meal today., User: want a light meal today, Truth: <ms> want a light meal today.
+Predict: I want a light meal., Origin: I want a light meal today., User: I want a light meal, Truth: I want a light meal <ma>.
+Predict: I want <mo>., Origin: I want a light meal today., User: I want a today, Truth: I want a <mo> today.
+Origin: I want a light meal today., User: I a light meal today, Truth: I <mv> a light meal today.
+Predict: <ms> want a special meal., Origin: I want a special meal today., User: want a special meal today, Truth: <ms> want a special meal today.
+Predict: I want a special meal., Origin: I want a special meal today., User: I want a special meal, Truth: I want a special meal <ma>.
+Predict: I want <mo>., Origin: I want a special meal today., User: I want a today, Truth: I want a <mo> today.
+Origin: I want a special meal today., User: I a special meal today, Truth: I <mv> a special meal today.
+Predict: <ms> want a heavy meal., Origin: I want a heavy meal today., User: want a heavy meal today, Truth: <ms> want a heavy meal today.
+Predict: I want a heavy meal., Origin: I want a heavy meal today., User: I want a heavy meal, Truth: I want a heavy meal <ma>.
+Predict: I want <mo>., Origin: I want a heavy meal today., User: I want a today, Truth: I want a <mo> today.
+Origin: I want a heavy meal today., User: I a heavy meal today, Truth: I <mv> a heavy meal today.
+Origin: I have tried that noodle place., User: I that noodle place, Truth: I <mv> that noodle place.
+Predict: I have tried that., Origin: I have tried that ice cream place., User: I have tried that , Truth: I have tried that <mo>.
+Origin: I have tried that ice cream place., User: I that ice cream place, Truth: I <mv> that ice cream place.
+Predict: <ms> have that noodle place., Origin: I haven't tried that noodle place., User: haven't tried that noodle place, Truth: <ms> haven't tried that noodle place.
+Predict: I have., Origin: I haven't tried that noodle place., User: I haven't tried , Truth: I haven't tried <mo>.
+Origin: I haven't tried that noodle place., User: I that noodle place, Truth: I <mv> that noodle place.
+Predict: <ms> have that restaurant., Origin: I haven't tried that restaurant., User: haven't tried that restaurant, Truth: <ms> haven't tried that restaurant.
+Predict: I have., Origin: I haven't tried that restaurant., User: I haven't tried , Truth: I haven't tried <mo>.
+Origin: I haven't tried that restaurant., User: I that restaurant, Truth: I <mv> that restaurant.
+Origin: I like chocolate cake., User: I chocolate cake, Truth: I <mv> chocolate cake.
+Origin: I like bubble tea., User: I bubble tea, Truth: I <mv> bubble tea.
+Origin: I like sweet soup., User: I sweet soup, Truth: I <mv> sweet soup.
+Origin: I'm from Vietnam., User: from Vietnam, Truth: <ms> from Vietnam.
+Origin: I'm from Vietnam., User: I'm from , Truth: I'm from <mo>.
+Predict: I 'm Vietnam <ma>., Origin: I'm from Vietnam., User: I'm Vietnam, Truth: I'm <mv> Vietnam.
+Origin: I'm from Japan., User: from Japan, Truth: <ms> from Japan.
+Origin: I'm from Japan., User: I'm from , Truth: I'm from <mo>.
+Predict: I 'm Japan <ma>., Origin: I'm from Japan., User: I'm Japan, Truth: I'm <mv> Japan.
+Origin: I'm from China., User: from China, Truth: <ms> from China.
+Origin: I'm from China., User: I'm from , Truth: I'm from <mo>.
+Predict: I 'm China <ma>., Origin: I'm from China., User: I'm China, Truth: I'm <mv> China.
+Origin: I'm a teacher., User: a teacher, Truth: <ms> a teacher.
+Predict: I 'm a., Origin: I'm a teacher., User: I'm a , Truth: I'm a <mo>.
+Origin: I'm a banker., User: a banker, Truth: <ms> a banker.
+Predict: I 'm a., Origin: I'm a banker., User: I'm a , Truth: I'm a <mo>.
+Origin: I'm a student., User: a student, Truth: <ms> a student.
+Predict: I 'm a., Origin: I'm a student., User: I'm a , Truth: I'm a <mo>.
+Predict: <ms> do the houseis., Origin: I do the housework after work., User: do the housework after work, Truth: <ms> do the housework after work.
+Predict: I do the houseis., Origin: I do the housework after work., User: I do the housework , Truth: I do the housework <ma>.
+Predict: I do after is., Origin: I do the housework after work., User: I do after work, Truth: I do <mo> after work.
+Predict: I work <mo>., Origin: I do the housework after work., User: I the housework after work, Truth: I <mv> the housework after work.
+Predict: <ms> hang my friends with my friends., Origin: I hang out with my friends after work., User: hang out with my friends after work, Truth: <ms> hang out with my friends after work.
+Predict: I hang my friends with my friends., Origin: I hang out with my friends after work., User: I hang out with my friends , Truth: I hang out with my friends <ma>.
+Predict: I hang <ma>., Origin: I hang out with my friends after work., User: I hang out with after work, Truth: I hang out with <mo> after work.
+Predict: I work <ma>., Origin: I hang out with my friends after work., User: I with my friends after work, Truth: I <mv> with my friends after work.
+Predict: <ms> work my side hustle on my side hustle., Origin: I work on my side hustle after work., User: work on my side hustle after work, Truth: <ms> work on my side hustle after work.
+Predict: I work my side hustle <ma>., Origin: I work on my side hustle after work., User: I work my side hustle after work, Truth: I work <mp> my side hustle after work.
+Predict: I work my side hustle on my side hustle., Origin: I work on my side hustle after work., User: I work on my side hustle , Truth: I work on my side hustle <ma> work.
+Predict: I work on after <ma>., Origin: I work on my side hustle after work., User: I work on after work, Truth: I work on <mo> after work.
+Predict: <ms> get touch with me through Facebook., Origin: You can get in touch with me through Facebook., User: can get in touch with me through Facebook, Truth: <ms> can get in touch with me through Facebook.
+Predict: You get touch with me Facebook., Origin: You can get in touch with me through Facebook., User: You can get in touch with me Facebook, Truth: You can get in touch with me <mp> Facebook.
+Origin: You can get in touch with me through Facebook., User: You can get in touch with me through , Truth: You can get in touch with me through <mo>.
+Predict: You  Facebook through Facebook., Origin: You can get in touch with me through Facebook., User: You can with me through Facebook, Truth: You can <mv> with me through Facebook.
+Predict: <ms> get touch with me by phone., Origin: You can get in touch with me by phone., User: can get in touch with me by phone, Truth: <ms> can get in touch with me by phone.
+Origin: You can get in touch with me by phone., User: You can get in touch with me by , Truth: You can get in touch with me by <mo>.
+Predict: You  phone by phone., Origin: You can get in touch with me by phone., User: You can with me by phone, Truth: You can <mv> with me by phone.
+Predict: <ms> get touch with me by e-mail., Origin: You can get in touch with me by e-mail., User: can get in touch with me by e-mail, Truth: <ms> can get in touch with me by e-mail.
+Origin: You can get in touch with me by e-mail., User: You can get in touch with me by , Truth: You can get in touch with me by <mo>.
+Predict: You  e-mail by e-mail., Origin: You can get in touch with me by e-mail., User: You can with me by e-mail, Truth: You can <mv> with me by e-mail.
+Origin: I'm in the finance department., User: in the finance department, Truth: <ms> in the finance department.
+Predict: I 'm the finance department <ma>., Origin: I'm in the finance department., User: I'm the finance department, Truth: I'm <mp> the finance department.
+Predict: I 'm in <ma>., Origin: I'm in the finance department., User: I'm in , Truth: I'm in <mo>.
+Origin: I'm in the marketing department., User: in the marketing department, Truth: <ms> in the marketing department.
+Predict: I 'm the marketing department <ma>., Origin: I'm in the marketing department., User: I'm the marketing department, Truth: I'm <mp> the marketing department.
+Predict: I 'm in <ma>., Origin: I'm in the marketing department., User: I'm in , Truth: I'm in <mo>.
+Origin: I'm in the sales department., User: in the sales department, Truth: <ms> in the sales department.
+Predict: I 'm the sales department <ma>., Origin: I'm in the sales department., User: I'm the sales department, Truth: I'm <mp> the sales department.
+Predict: I 'm in <ma>., Origin: I'm in the sales department., User: I'm in , Truth: I'm in <mo>.
+Predict: <ms> sell products., Origin: We mainly sell products., User: mainly sell products, Truth: <ms> mainly sell products.
+Predict: We sell <mo>., Origin: We mainly sell products., User: We mainly sell , Truth: We mainly sell <mo>.
+Origin: We mainly sell products., User: We mainly products, Truth: We mainly <mv> products.
+Predict: <ms> create products., Origin: We mainly create products., User: mainly create products, Truth: <ms> mainly create products.
+Predict: We create <mo>., Origin: We mainly create products., User: We mainly create , Truth: We mainly create <mo>.
+Origin: We mainly create products., User: We mainly products, Truth: We mainly <mv> products.
+Predict: the company 's money manage <mo>., Origin: We mainly manage the company's money., User: mainly manage the company's money, Truth: <ms> mainly manage the company's money.
+Predict: We manage <mo>., Origin: We mainly manage the company's money., User: We mainly manage , Truth: We mainly manage <mo>.
+Origin: We mainly manage the company's money., User: We mainly the company's money, Truth: We mainly <mv> the company's money.
+Predict: <ms> find dealing the customers most exciting with the customers most exciting., Origin: I find dealing with the customers most exciting., User: find dealing with the customers most exciting, Truth: <ms> find dealing with the customers most exciting.
+Predict: I find dealing most exciting with most exciting., Origin: I find dealing with the customers most exciting., User: I find dealing with most exciting, Truth: I find dealing with <mo> most exciting.
+Origin: I find dealing with the customers most exciting., User: I with the customers most exciting, Truth: I <mv> with the customers most exciting.
+Predict: I find brainstorming most exciting., Origin: I find brainstorming ideas most exciting., User: I find brainstorming most exciting, Truth: I find brainstorming <mo> most exciting.
+Origin: I find brainstorming ideas most exciting., User: I most exciting, Truth: I <mv> most exciting.
+Predict: I find <mo>., Origin: I find business trips most exciting., User: I find most exciting, Truth: I find <mo> most exciting.
+Origin: I find business trips most exciting., User: I business trips most exciting, Truth: I <mv> business trips most exciting.
+Predict: <ms> want., Origin: I want to earn a lot of money., User: want to earn a lot of money, Truth: <ms> want to earn a lot of money.
+Predict: I want., Origin: I want to earn a lot of money., User: I want to earn , Truth: I want to earn <mo>.
+Predict: I., Origin: I want to earn a lot of money., User: I to earn a lot of money, Truth: I <mv> to earn a lot of money.
+Predict: <ms> want., Origin: I want to open my own business., User: want to open my own business, Truth: <ms> want to open my own business.
+Predict: I want my own business., Origin: I want to open my own business., User: I want open my own business, Truth: I want <mp> open my own business.
+Predict: I want., Origin: I want to open my own business., User: I want to open , Truth: I want to open <mo>.
+Predict: I., Origin: I want to open my own business., User: I to open my own business, Truth: I <mv> to open my own business.
+Predict: <ms> want., Origin: I want to be an engineer., User: want to be an engineer, Truth: <ms> want to be an engineer.
+Predict: I want be an engineer., Origin: I want to be an engineer., User: I want be an engineer, Truth: I want <mp> be an engineer.
+Predict: I want., Origin: I want to be an engineer., User: I want to be , Truth: I want to be <mo>.
+Predict: I., Origin: I want to be an engineer., User: I to be an engineer, Truth: I <mv> to be an engineer.
+Predict: <ms> find my major., Origin: I find my major useful., User: find my major useful, Truth: <ms> find my major useful.
+Predict: I find my useful., Origin: I find my major useful., User: I find my useful, Truth: I find my <mo> useful.
+Origin: I find my major useful., User: I my major useful, Truth: I <mv> my major useful.
+Predict: <ms> find my major., Origin: I find my major interesting., User: find my major interesting, Truth: <ms> find my major interesting.
+Predict: I find my interesting., Origin: I find my major interesting., User: I find my interesting, Truth: I find my <mo> interesting.
+Origin: I find my major interesting., User: I my major interesting, Truth: I <mv> my major interesting.
+Predict: I find my boring., Origin: I find my major boring., User: I find my boring, Truth: I find my <mo> boring.
+Predict: I  <mo>., Origin: I find my major boring., User: I my major boring, Truth: I <mv> my major boring.
+Predict: <ms> is., Origin: My plan is to enter grad school., User: is to enter grad school, Truth: <ms> is to enter grad school.
+Predict: My plan is., Origin: My plan is to enter grad school., User: My plan is to enter , Truth: My plan is to enter <mo>.
+Predict: <ms> is., Origin: My plan is to get a job., User: is to get a job, Truth: <ms> is to get a job.
+Predict: My plan is., Origin: My plan is to get a job., User: My plan is to get a , Truth: My plan is to get a <mo>.
+Predict: My plan is a job to a job., Origin: My plan is to get a job., User: My plan is to a job, Truth: My plan is to <mv> a job.
+Predict: <ms> is., Origin: My plan is to take a gap year., User: is to take a gap year, Truth: <ms> is to take a gap year.
+Predict: My plan is., Origin: My plan is to take a gap year., User: My plan is to take a , Truth: My plan is to take a <mo>.
+Predict: <ms> love., Origin: I would love to study abroad., User: would love to study abroad, Truth: <ms> would love to study abroad.
+Predict: I love abroad., Origin: I would love to study abroad., User: I would love study abroad, Truth: I would love <mp> study abroad.
+Predict: I love., Origin: I would love to study abroad., User: I would love to study, Truth: I would love to study <mo>.
+Origin: I would love to study abroad., User: I abroad, Truth: I <mv> abroad.
+Predict: <ms> love., Origin: I would love to join an exchange program., User: would love to join an exchange program, Truth: <ms> would love to join an exchange program.
+Predict: I love., Origin: I would love to join an exchange program., User: I would love join an exchange program, Truth: I would love <mp> join an exchange program.
+Predict: I love., Origin: I would love to join an exchange program., User: I would love to join , Truth: I would love to join <mo>.
+Origin: I would love to join an exchange program., User: I an exchange program, Truth: I <mv> an exchange program.
+Predict: <ms> love., Origin: I would love to study locally., User: would love to study locally, Truth: <ms> would love to study locally.
+Predict: I love locally., Origin: I would love to study locally., User: I would love study locally, Truth: I would love <mp> study locally.
+Predict: I love., Origin: I would love to study locally., User: I would love to study, Truth: I would love to study <mo>.
+Origin: I would love to study locally., User: I locally, Truth: I <mv> locally.
+Predict: <ms> travel the northern part of Vietnam to the northern part of Vietnam., Origin: We should travel to the northern part of Vietnam., User: should travel to the northern part of Vietnam, Truth: <ms> should travel to the northern part of Vietnam.
+Origin: We should travel to the northern part of Vietnam., User: We should travel to , Truth: We should travel to <mo>.
+Predict: We  the northern part of Vietnam to the northern part of Vietnam., Origin: We should travel to the northern part of Vietnam., User: We should to the northern part of Vietnam, Truth: We should <mv> to the northern part of Vietnam.
+Predict: <ms> travel the central part of Vietnam to the central part of Vietnam., Origin: We should travel to the central part of Vietnam., User: should travel to the central part of Vietnam, Truth: <ms> should travel to the central part of Vietnam.
+Origin: We should travel to the central part of Vietnam., User: We should travel to , Truth: We should travel to <mo>.
+Predict: We  the central part of Vietnam to the central part of Vietnam., Origin: We should travel to the central part of Vietnam., User: We should to the central part of Vietnam, Truth: We should <mv> to the central part of Vietnam.
+Predict: <ms> travel the southern part of Vietnam to the southern part of Vietnam., Origin: We should travel to the southern part of Vietnam., User: should travel to the southern part of Vietnam, Truth: <ms> should travel to the southern part of Vietnam.
+Predict: We travel <ma>., Origin: We should travel to the southern part of Vietnam., User: We should travel , Truth: We should travel <mo>.
+Predict: We  the southern part of Vietnam to the southern part of Vietnam., Origin: We should travel to the southern part of Vietnam., User: We should to the southern part of Vietnam, Truth: We should <mv> to the southern part of Vietnam.
+Predict: <ms> is., Origin: It is famous for its delicious seafood., User: is famous for its delicious seafood, Truth: <ms> is famous for its delicious seafood.
+Predict: It is its delicious seafood., Origin: It is famous for its delicious seafood., User: It is famous its delicious seafood, Truth: It is famous <mp> its delicious seafood.
+Predict: It is., Origin: It is famous for its delicious seafood., User: It is famous for its delicious , Truth: It is famous for its delicious <mo>.
+Predict: It is its delicious seafood for its delicious seafood., Origin: It is famous for its delicious seafood., User: It is for its delicious seafood, Truth: It is <mv> for its delicious seafood.
+Predict: <ms> is., Origin: It is famous for its beautiful beaches., User: is famous for its beautiful beaches, Truth: <ms> is famous for its beautiful beaches.
+Predict: It is its beautiful beaches., Origin: It is famous for its beautiful beaches., User: It is famous its beautiful beaches, Truth: It is famous <mp> its beautiful beaches.
+Predict: It is., Origin: It is famous for its beautiful beaches., User: It is famous for its beautiful , Truth: It is famous for its beautiful <mo>.
+Predict: It is its beautiful beaches for its beautiful beaches., Origin: It is famous for its beautiful beaches., User: It is for its beautiful beaches, Truth: It is <mv> for its beautiful beaches.
+Predict: <ms> is., Origin: It is famous for its high mountains., User: is famous for its high mountains, Truth: <ms> is famous for its high mountains.
+Predict: It is its high mountains., Origin: It is famous for its high mountains., User: It is famous its high mountains, Truth: It is famous <mp> its high mountains.
+Predict: It is., Origin: It is famous for its high mountains., User: It is famous for its high , Truth: It is famous for its high <mo>.
+Predict: It is its high mountains for its high mountains., Origin: It is famous for its high mountains., User: It is for its high mountains, Truth: It is <mv> for its high mountains.
+Predict: It is an ideal place travel., Origin: It is an ideal place to travel., User: It is an ideal place travel, Truth: It is an ideal place <mp> travel.
+Predict: It is a horrible place travel., Origin: It is a horrible place to travel., User: It is a horrible place travel, Truth: It is a horrible place <mp> travel.
+Predict: It is an alright place travel., Origin: It is an alright place to travel., User: It is an alright place travel, Truth: It is an alright place <mp> travel.
+Predict: <ms> stay there for at least three days., Origin: We should stay there for at least three days., User: should stay there for at least three days, Truth: <ms> should stay there for at least three days.
+Predict: We stay least <ma>., Origin: We should stay there for at least three days., User: We should stay there least three days, Truth: We should stay there <mp> least three days.
+Predict: We stay at least three days for at least three days., Origin: We should stay there for at least three days., User: We should stay for at least three days, Truth: We should stay <ma> for at least three days.
+Predict: We stay at least three days <ma>., Origin: We should stay there for at least three days., User: We should stay at least three days, Truth: We should stay <mo> at least three days.
+Predict: We  there <ma>., Origin: We should stay there for at least three days., User: We should there for at least three days, Truth: We should <mv> there for at least three days.
+Predict: <ms> stay there for about three days., Origin: We should stay there for about three days., User: should stay there for about three days, Truth: <ms> should stay there for about three days.
+Predict: We stay there <ma>., Origin: We should stay there for about three days., User: We should stay there about three days, Truth: We should stay there <mp> about three days.
+Predict: We stay about three days for about three days., Origin: We should stay there for about three days., User: We should stay for about three days, Truth: We should stay <ma> for about three days.
+Predict: We stay about three days for about three days., Origin: We should stay there for about three days., User: We should stay for about three days, Truth: We should stay <mo> for about three days.
+Predict: We  there <ma>., Origin: We should stay there for about three days., User: We should there for about three days, Truth: We should <mv> there for about three days.
+Predict: <ms> stay there for less than three days., Origin: We should stay there for less than three days., User: should stay there for less than three days, Truth: <ms> should stay there for less than three days.
+Predict: We stay there <ma>., Origin: We should stay there for less than three days., User: We should stay there less than three days, Truth: We should stay there <mp> less than three days.
+Predict: We stay less than three days for less than three days., Origin: We should stay there for less than three days., User: We should stay for less than three days, Truth: We should stay <ma> for less than three days.
+Predict: We stay less than three days for less than three days., Origin: We should stay there for less than three days., User: We should stay for less than three days, Truth: We should stay <mo> for less than three days.
+Predict: We  there <ma>., Origin: We should stay there for less than three days., User: We should there for less than three days, Truth: We should <mv> there for less than three days.
+Predict: <ms> prefer going train by train., Origin: I prefer going by train., User: prefer going by train, Truth: <ms> prefer going by train.
+Predict: I prefer going train <ma>., Origin: I prefer going by train., User: I prefer going train, Truth: I prefer going <mp> train.
+Origin: I prefer going by train., User: I prefer going by , Truth: I prefer going by <mo>.
+Origin: I prefer going by train., User: I by train, Truth: I <mv> by train.
+Predict: <ms> prefer going motorbike by motorbike., Origin: I prefer going by motorbike., User: prefer going by motorbike, Truth: <ms> prefer going by motorbike.
+Predict: I prefer going motorbike <ma>., Origin: I prefer going by motorbike., User: I prefer going motorbike, Truth: I prefer going <mp> motorbike.
+Origin: I prefer going by motorbike., User: I prefer going by , Truth: I prefer going by <mo>.
+Origin: I prefer going by motorbike., User: I by motorbike, Truth: I <mv> by motorbike.
+Predict: <ms> prefer going car by car., Origin: I prefer going by car., User: prefer going by car, Truth: <ms> prefer going by car.
+Predict: I prefer going car <ma>., Origin: I prefer going by car., User: I prefer going car, Truth: I prefer going <mp> car.
+Origin: I prefer going by car., User: I prefer going by , Truth: I prefer going by <mo>.
+Origin: I prefer going by car., User: I by car, Truth: I <mv> by car.
+Predict: <ms> bring a lot of money of money., Origin: We should bring a lot of money., User: should bring a lot of money, Truth: <ms> should bring a lot of money.
+Predict: We bring a lot money <ma>., Origin: We should bring a lot of money., User: We should bring a lot money, Truth: We should bring a lot <mp> money.
+Predict: We bring a <ma>., Origin: We should bring a lot of money., User: We should bring a, Truth: We should bring a <mo>.
+Predict: We  <mo> <ma>., Origin: We should bring a lot of money., User: We should a lot of money, Truth: We should <mv> a lot of money.
+Predict: <ms> bring a little money., Origin: We should bring a little money., User: should bring a little money, Truth: <ms> should bring a little money.
+Predict: We bring a., Origin: We should bring a little money., User: We should bring a, Truth: We should bring a <mo>.
+Predict: We  <mo>., Origin: We should bring a little money., User: We should a little money, Truth: We should <mv> a little money.
+Predict: <ms> bring about 10 million dong., Origin: We should bring about 10 million dong., User: should bring about 10 million dong, Truth: <ms> should bring about 10 million dong.
+Predict: We bring <mo>., Origin: We should bring about 10 million dong., User: We should bring , Truth: We should bring <mo>.
+Predict: We  <mo>., Origin: We should bring about 10 million dong., User: We should about 10 million dong, Truth: We should <mv> about 10 million dong.
+Origin: We can get to the beach by going straight., User: can get to the beach by going straight, Truth: <ms> can get to the beach by going straight.
+Origin: We can get to the beach by going straight., User: We can get to the beach, Truth: We can get to the beach <ma>.
+Origin: We can get to the beach by going straight., User: We can get to by going straight, Truth: We can get to <mo> by going straight.
+Origin: We can get to the beach by going left., User: can get to the beach by going left, Truth: <ms> can get to the beach by going left.
+Origin: We can get to the beach by going left., User: We can get to the beach, Truth: We can get to the beach <ma>.
+Origin: We can get to the beach by going left., User: We can get to  by going left, Truth: We can get to <mo> by going left.
+Origin: We can get to the beach by going along this road., User: can get to the beach by going along this road, Truth: <ms> can get to the beach by going along this road.
+Origin: We can get to the beach by going along this road., User: We can get to the beach, Truth: We can get to the beach <ma>.
+Origin: We can get to the beach by going along this road., User: We can get to by going along this road, Truth: We can get to <mo> by going along this road.
+Predict: <ms> do., Origin: I don't like the low salary., User: don't like the low salary, Truth: <ms> don't like the low salary.
+Predict: I do., Origin: I don't like the low salary., User: I don't like the salary, Truth: I don't like the <ma> salary.
+Predict: I do., Origin: I don't like the low salary., User: I don't like the, Truth: I don't like the <mo>.
+Origin: I don't like the low salary., User: I the low salary, Truth: I <mv> the low salary.
+Predict: <ms> do., Origin: I don't like the repetitive tasks., User: don't like the repetitive tasks, Truth: <ms> don't like the repetitive tasks.
+Predict: I do., Origin: I don't like the repetitive tasks., User: I don't like the tasks, Truth: I don't like the <ma> tasks.
+Predict: I do., Origin: I don't like the repetitive tasks., User: I don't like the, Truth: I don't like the <mo>.
+Origin: I don't like the repetitive tasks., User: I the repetitive tasks, Truth: I <mv> the repetitive tasks.
+Predict: <ms> do., Origin: I don't like the paperwork., User: don't like the paperwork, Truth: <ms> don't like the paperwork.
+Predict: I do., Origin: I don't like the paperwork., User: I don't like the, Truth: I don't like the <mo>.
+Origin: I don't like the paperwork., User: I the paperwork, Truth: I <mv> the paperwork.
+Predict: <ms> hang your family with your family., Origin: You should hang out with your family., User: should hang out with your family, Truth: <ms> should hang out with your family.
+Predict: You hang your family <ma>., Origin: You should hang out with your family., User: You should hang out your family, Truth: You should hang out <mp> your family.
+Origin: You should hang out with your family., User: You should hang out with , Truth: You should hang out with <mo>.
+Origin: You should hang out with your family., User: You with your family, Truth: You <mv> with your family.
+Predict: <ms> learn., Origin: You should learn to enjoy your job., User: should learn to enjoy your job, Truth: <ms> should learn to enjoy your job.
+Predict: You learn enjoy your job., Origin: You should learn to enjoy your job., User: You should learn enjoy your job, Truth: You should learn <mp> enjoy your job.
+Predict: You learn., Origin: You should learn to enjoy your job., User: You should learn to enjoy , Truth: You should learn to enjoy <mo>.
+Predict: You., Origin: You should learn to enjoy your job., User: You to enjoy your job, Truth: You <mv> to enjoy your job.
+Predict: <ms> work <mo>., Origin: You should relax after work., User: should relax after work, Truth: <ms> should relax after work.
+Predict: You relax <mo>., Origin: You should relax after work., User: You should relax , Truth: You should relax <mo>.
+Predict: You work <mo>., Origin: You should relax after work., User: You after work, Truth: You <mv> after work.
+Predict: <ms> like., Origin: I would like to have coffee with you., User: would like to have coffee with you, Truth: <ms> would like to have coffee with you.
+Predict: I like., Origin: I would like to have coffee with you., User: I would like , Truth: I would like <mo>.
+Origin: I would like to have coffee with you., User: I coffee with you, Truth: I <mv> coffee with you.
+Predict: <ms> like., Origin: I would like to go see a movie., User: would like to go see a movie, Truth: <ms> would like to go see a movie.
+Predict: I like a movie., Origin: I would like to go see a movie., User: I would like go see a movie, Truth: I would like <mp> go see a movie.
+Predict: I like., Origin: I would like to go see a movie., User: I would like , Truth: I would like <mo>.
+Origin: I would like to go see a movie., User: I a movie, Truth: I <mv> a movie.
+Predict: <ms> do., Origin: I don't want to have coffee with you., User: don't want to have coffee with you, Truth: <ms> don't want to have coffee with you.
+Predict: I do., Origin: I don't want to have coffee with you., User: I don't want , Truth: I don't want <mo>.
+Origin: I don't want to have coffee with you., User: I coffee with you, Truth: I <mv> coffee with you.
+Predict: <ms> do., Origin: I don't want to go out for lunch., User: don't want to go out for lunch, Truth: <ms> don't want to go out for lunch.
+Predict: I do., Origin: I don't want to go out for lunch., User: I don't want , Truth: I don't want <mo>.
+Origin: I don't want to go out for lunch., User: I for lunch, Truth: I <mv> for lunch.
+Predict: <ms> think., Origin: I think students should do internships., User: think students should do internships, Truth: <ms> think students should do internships.
+Predict: I think., Origin: I think students should do internships., User: I think students should , Truth: I think students should <mo>.
+Predict: I think students., Origin: I think students should do internships., User: I think students , Truth: I think students <mv>.
+Predict: <ms> think., Origin: I think students should focus on studying., User: think students should focus on studying, Truth: <ms> think students should focus on studying.
+Predict: I think., Origin: I think students should focus on studying., User: I think students should focus studying, Truth: I think students should focus <mp> studying.
+Predict: I think., Origin: I think students should focus on studying., User: I think students should , Truth: I think students should <mo>.
+Predict: I think students., Origin: I think students should focus on studying., User: I think students , Truth: I think students <mv>.
+Predict: <ms> think., Origin: I think students should have a part-time job., User: think students should have a part-time job, Truth: <ms> think students should have a part-time job.
+Predict: I think., Origin: I think students should have a part-time job., User: I think students should , Truth: I think students should <mo>.
+Predict: I think students., Origin: I think students should have a part-time job., User: I think students , Truth: I think students <mv>.
+Predict: <ms> practice interviewing., Origin: You should practice interviewing., User: should practice interviewing, Truth: <ms> should practice interviewing.
+Predict: You., Origin: You should practice interviewing., User: You should , Truth: You should <mo>.
+Predict: You interviewing., Origin: You should practice interviewing., User: You interviewing, Truth: You <mv> interviewing.
+Predict: <ms> prepare your CV., Origin: You should prepare your CV., User: should prepare your CV, Truth: <ms> should prepare your CV.
+Predict: You  <mo>., Origin: You should prepare your CV., User: You should, Truth: You should <mo>.
+Predict: You  <mo>., Origin: You should prepare your CV., User: You your CV, Truth: You <mv> your CV.
+Predict: <ms> research the company., Origin: You should research the company., User: should research the company, Truth: <ms> should research the company.
+Predict: You  <mo>., Origin: You should research the company., User: You should, Truth: You should <mo>.
+Origin: You should research the company., User: You the company, Truth: You <mv> the company.
+Predict: <ms> is., Origin: My advice is to be honest., User: is to be honest, Truth: <ms> is to be honest.
+Predict: My advice is be., Origin: My advice is to be honest., User: My advice is be honest, Truth: My advice is <mp> be honest.
+Predict: My advice is., Origin: My advice is to be honest., User: My advice is , Truth: My advice is <mo>.
+Predict: My advice be., Origin: My advice is to be honest., User: My advice be honest, Truth: My advice <mv> be honest.
+Predict: <ms> is., Origin: My advice is to start with a smile., User: is to start with a smile, Truth: <ms> is to start with a smile.
+Predict: My advice is., Origin: My advice is to start with a smile., User: My advice is , Truth: My advice is <mo>.
+Origin: My advice is to start with a smile., User: My advice a smile, Truth: My advice <mv> a smile.
+Predict: <ms> is., Origin: My advice is not to be late., User: is not to be late, Truth: <ms> is not to be late.
+Predict: My advice is., Origin: My advice is not to be late., User: My advice is not be late, Truth: My advice is not <mp> be late.
+Predict: My advice is., Origin: My advice is not to be late., User: My advice is not, Truth: My advice is not <mo>.
+Predict: My advice be., Origin: My advice is not to be late., User: My advice be late, Truth: My advice <mv> be late.
+Predict: <ms> think doing., Origin: I think doing an internship will gain us experience., User: think doing an internship will gain us experience, Truth: <ms> think doing an internship will gain us experience.
+Predict: I think., Origin: I think doing an internship will gain us experience., User: I think will gain us experience, Truth: I think <mo> will gain us experience.
+Predict: I think gain., Origin: I think doing an internship will gain us experience., User: I think gain us experience, Truth: I think <mv> gain us experience.
+Predict: <ms> think doing., Origin: I think doing an internship will affect our studies., User: think doing an internship will affect our studies, Truth: <ms> think doing an internship will affect our studies.
+Predict: I think., Origin: I think doing an internship will affect our studies., User: I think will affect our studies, Truth: I think <mo> will affect our studies.
+Predict: I think affect our studies., Origin: I think doing an internship will affect our studies., User: I think affect our studies, Truth: I think <mv> affect our studies.
+Predict: <ms> think doing., Origin: I think doing an internship will improve our skills., User: think doing an internship will improve our skills, Truth: <ms> think doing an internship will improve our skills.
+Predict: I think., Origin: I think doing an internship will improve our skills., User: I think will improve our skills, Truth: I think <mo> will improve our skills.
+Predict: I think improve our skills., Origin: I think doing an internship will improve our skills., User: I think improve our skills, Truth: I think <mv> improve our skills.
+Predict: <ms> work., Origin: I work less during exam season., User: work less during exam season, Truth: <ms> work less during exam season.
+Predict: I work less exam season., Origin: I work less during exam season., User: I work less exam season, Truth: I work less <mp> exam season.
+Predict: I work exam season during exam season., Origin: I work less during exam season., User: I work during exam season, Truth: I work <ma> during exam season.
+Predict: I work., Origin: I work less during exam season., User: I work less , Truth: I work less <mo>.
+Origin: I work less during exam season., User: I during exam season, Truth: I <mv> during exam season.
+Predict: study during my work breaks during exam season during exam season., Origin: I study during my work breaks during exam season., User: study during my work breaks during exam season, Truth: <ms> study during my work breaks during exam season.
+Predict: I study my is breaks during my is breaks., Origin: I study during my work breaks during exam season., User: I study during my work breaks, Truth: I study during my work breaks during <mo>.
+Predict: <ms> take off., Origin: I take days off to study during exam season., User: take days off to study during exam season, Truth: <ms> take days off to study during exam season.
+Predict: I take days., Origin: I take days off to study during exam season., User: I take days off to study , Truth: I take days off to study <mo>.
+Origin: I take days off to study during exam season., User: I during exam season, Truth: I <mv> during exam season.
+Predict: I like studying <mo>., Origin: I like studying more., User: I like studying, Truth: I like studying <ma>.
+Predict: I studying more., Origin: I like studying more., User: I studying more, Truth: I <mv> studying more.
+Predict: <ms> like doing more., Origin: I like doing other things more., User: like doing other things more, Truth: <ms> like doing other things more.
+Predict: I like doing other things., Origin: I like doing other things more., User: I like doing other things , Truth: I like doing other things <ma>.
+Origin: I like doing other things more., User: I other things more, Truth: I <mv> other things more.
+Predict: I like ising., Origin: I like working more., User: I like working , Truth: I like working <ma>.
+Predict: I working more., Origin: I like working more., User: I working more, Truth: I <mv> working more.
+Predict: <ms> is related my major to my major., Origin: My job is related to my major., User: is related to my major, Truth: <ms> is related to my major.
+Predict: My job is related my major <ma>., Origin: My job is related to my major., User: My job is related my major, Truth: My job is related <mp> my major.
+Predict: My job is <ma>., Origin: My job is related to my major., User: My job is , Truth: My job is <mo>.
+Origin: My job is related to my major., User: My job to my major, Truth: My job <mv> to my major.
+Predict: <ms> is., Origin: My job is fun and interesting., User: is fun and interesting, Truth: <ms> is fun and interesting.
+Predict: My job is., Origin: My job is fun and interesting., User: My job is , Truth: My job is <mo>.
+Origin: My job is fun and interesting., User: My job fun and interesting, Truth: My job <mv> fun and interesting.
+Predict: <ms> is., Origin: My job is not related to my major., User: is not related to my major, Truth: <ms> is not related to my major.
+Predict: My job is., Origin: My job is not related to my major., User: My job is not related my major, Truth: My job is not related <mp> my major.
+Predict: My job is., Origin: My job is not related to my major., User: My job is not, Truth: My job is not <mo>.
+Origin: My job is not related to my major., User: My job to my major, Truth: My job <mv> to my major.
+Predict: <ms> is., Origin: My job is not flexible., User: is not flexible, Truth: <ms> is not flexible.
+Predict: My job is., Origin: My job is not flexible., User: My job is not, Truth: My job is not <mo>.
+Origin: My job is not flexible., User: My job flexible, Truth: My job <mv> flexible.
+Origin: I have missed a deadline., User: I a deadline, Truth: I <mv> a deadline.
+Predict: <ms> have talked my boss to my boss., Origin: I have talked to my boss., User: have talked to my boss, Truth: <ms> have talked to my boss.
+Predict: I have talked my boss <ma>., Origin: I have talked to my boss., User: I have talked my boss, Truth: I have talked <mp> my boss.
+Origin: I have talked to my boss., User: I have talked to, Truth: I have talked to <mo>.
+Predict: I  <ma>., Origin: I have talked to my boss., User: I my boss, Truth: I <mv> my boss.
+Predict: <ms> have never., Origin: I have never missed a deadline., User: have never missed a deadline, Truth: <ms> have never missed a deadline.
+Predict: I have never., Origin: I have never missed a deadline., User: I have never missed , Truth: I have never missed <mo>.
+Origin: I have never missed a deadline., User: I a deadline, Truth: I <mv> a deadline.
+Predict: <ms> have never., Origin: I have never been late for work., User: have never been late for work, Truth: <ms> have never been late for work.
+Predict: I have never., Origin: I have never been late for work., User: I have never been late work, Truth: I have never been late <mp> work.
+Predict: I have never., Origin: I have never been late for work., User: I have never been , Truth: I have never been <mo>.
+Predict: I work <mo>., Origin: I have never been late for work., User: I late for work, Truth: I <mv> late for work.
+Predict: <ms> plan ahead., Origin: I usually plan everything ahead., User: usually plan everything ahead, Truth: <ms> usually plan everything ahead.
+Predict: I plan ahead., Origin: I usually plan everything ahead., User: I usually plan ahead, Truth: I usually plan <mo> ahead.
+Origin: I usually plan everything ahead., User: I usually everything ahead, Truth: I usually <mv> everything ahead.
+Predict: <ms> maintain focus., Origin: I usually maintain focus when working., User: usually maintain focus when working, Truth: <ms> usually maintain focus when working.
+Predict: I  <mo>., Origin: I usually maintain focus when working., User: I usually when working, Truth: I usually <mo> when working.
+Predict: I  <mo>., Origin: I usually maintain focus when working., User: I usually when working, Truth: I usually <mv> when working.
+Predict: <ms> avoid multitasking., Origin: I usually avoid multitasking., User: usually avoid multitasking, Truth: <ms> usually avoid multitasking.
+Predict: I avoid <mo>., Origin: I usually avoid multitasking., User: I usually avoid , Truth: I usually avoid <mo>.
+Predict: I multitasking <mo>., Origin: I usually avoid multitasking., User: I usually multitasking, Truth: I usually <mv> multitasking.
+Predict: <ms> have flexible ising hours., Origin: It would have flexible working hours., User: would have flexible working hours, Truth: <ms> would have flexible working hours.
+Predict: It have ising hours., Origin: It would have flexible working hours., User: It would have working hours, Truth: It would have <ma> working hours.
+Predict: It have <mo>., Origin: It would have flexible working hours., User: It would have , Truth: It would have <mo>.
+Origin: It would have flexible working hours., User: It flexible working hours, Truth: It <mv> flexible working hours.
+Predict: <ms> have no office drama., Origin: It would have no office drama., User: would have no office drama, Truth: <ms> would have no office drama.
+Predict: It have <mo>., Origin: It would have no office drama., User: It would have , Truth: It would have <mo>.
+Origin: It would have no office drama., User: It no office drama, Truth: It <mv> no office drama.
+Predict: <ms> have fewer meetings., Origin: It would have fewer meetings., User: would have fewer meetings, Truth: <ms> would have fewer meetings.
+Predict: It have meetings., Origin: It would have fewer meetings., User: It would have meetings, Truth: It would have <ma> meetings.
+Predict: It have <mo>., Origin: It would have fewer meetings., User: It would have , Truth: It would have <mo>.
+Origin: It would have fewer meetings., User: It fewer meetings, Truth: It <mv> fewer meetings.
+Predict: <ms> is., Origin: My advice is to be confident., User: is to be confident, Truth: <ms> is to be confident.
+Predict: My advice is be., Origin: My advice is to be confident., User: My advice is be confident, Truth: My advice is <mp> be confident.
+Predict: My advice is., Origin: My advice is to be confident., User: My advice is , Truth: My advice is <mo>.
+Predict: My advice be., Origin: My advice is to be confident., User: My advice be confident, Truth: My advice <mv> be confident.
+Predict: <ms> work., Origin: My advice is to work hard., User: is to work hard, Truth: <ms> is to work hard.
+Predict: My advice work work., Origin: My advice is to work hard., User: My advice is work hard, Truth: My advice is <mp> work hard.
+Predict: My advice work., Origin: My advice is to work hard., User: My advice is to work, Truth: My advice is to work <ma>.
+Predict: My advice is., Origin: My advice is to work hard., User: My advice is , Truth: My advice is <mo>.
+Predict: My advice work., Origin: My advice is to work hard., User: My advice work hard, Truth: My advice <mv> work hard.
+Predict: <ms> is., Origin: My advice is to learn from your boss., User: is to learn from your boss, Truth: <ms> is to learn from your boss.
+Predict: My advice is., Origin: My advice is to learn from your boss., User: My advice is , Truth: My advice is <mo>.
+Origin: My advice is to learn from your boss., User: My advice from your boss, Truth: My advice <mv> from your boss.
+Origin: I have made a reservation., User: I a reservation, Truth: I <mv> a reservation.
+Origin: I have ordered food., User: I food, Truth: I <mv> food.
+Predict: <ms> have., Origin: I have not made a reservation., User: have not made a reservation, Truth: <ms> have not made a reservation.
+Predict: I have., Origin: I have not made a reservation., User: I have not made , Truth: I have not made <mo>.
+Origin: I have not made a reservation., User: I a reservation, Truth: I <mv> a reservation.
+Predict: <ms> have., Origin: I have not had the bill., User: have not had the bill, Truth: <ms> have not had the bill.
+Predict: I have., Origin: I have not had the bill., User: I have not had , Truth: I have not had <mo>.
+Origin: I have not had the bill., User: I the bill, Truth: I <mv> the bill.
+Predict: <ms> like., Origin: I would like to sit by the window., User: would like to sit by the window, Truth: <ms> would like to sit by the window.
+Predict: I like., Origin: I would like to sit by the window., User: I would like , Truth: I would like <mo>.
+Origin: I would like to sit by the window., User: I by the window, Truth: I <mv> by the window.
+Predict: <ms> like., Origin: I would like to sit in the corner., User: would like to sit in the corner, Truth: <ms> would like to sit in the corner.
+Predict: I like., Origin: I would like to sit in the corner., User: I would like , Truth: I would like <mo>.
+Origin: I would like to sit in the corner., User: I in the corner, Truth: I <mv> in the corner.
+Predict: <ms> like., Origin: I would like to sit away from the main door., User: would like to sit away from the main door, Truth: <ms> would like to sit away from the main door.
+Predict: I like., Origin: I would like to sit away from the main door., User: I would like to sit from the main door, Truth: I would like to sit <ma> from the main door.
+Predict: I like., Origin: I would like to sit away from the main door., User: I would like , Truth: I would like <mo>.
+Origin: I would like to sit away from the main door., User: I from the main door, Truth: I <mv> from the main door.
+Predict: <ms> am., Origin: I am ready to order., User: am ready to order, Truth: <ms> am ready to order.
+Predict: I am ready order., Origin: I am ready to order., User: I am ready order, Truth: I am ready <mp> order.
+Predict: I am., Origin: I am ready to order., User: I am ready , Truth: I am ready <mo>.
+Predict: I am., Origin: I am ready to order., User: I am to order, Truth: I am <mv> to order.
+Predict: <ms> am., Origin: I am ready for dessert., User: am ready for dessert, Truth: <ms> am ready for dessert.
+Predict: I am ready dessert., Origin: I am ready for dessert., User: I am ready dessert, Truth: I am ready <mp> dessert.
+Predict: I am., Origin: I am ready for dessert., User: I am ready , Truth: I am ready <mo>.
+Predict: I am dessert for dessert., Origin: I am ready for dessert., User: I am for dessert, Truth: I am <mv> for dessert.
+Predict: <ms> am., Origin: I'm not ready to order yet., User: am not ready to order yet, Truth: <ms> not ready to order yet.
+Predict: I 'm yet., Origin: I'm not ready to order yet., User: I'm not ready order yet, Truth: I'm not ready <mp> order yet.
+Predict: I 'm., Origin: I'm not ready to order yet., User: I'm not ready to order, Truth: I'm not ready to order <ma>.
+Predict: I 'm., Origin: I'm not ready to order yet., User: I'm to order yet, Truth: I'm <mv> to order yet.
+Predict: <ms> am., Origin: I'm not ready to pay yet., User: am not ready to pay yet, Truth: <ms> not ready to pay yet.
+Predict: I 'm yet., Origin: I'm not ready to pay yet., User: I'm not ready pay yet, Truth: I'm not ready <mp> pay yet.
+Predict: I 'm., Origin: I'm not ready to pay yet., User: I'm not ready to pay, Truth: I'm not ready to pay <ma>.
+Predict: I 'm., Origin: I'm not ready to pay yet., User: I'm to pay yet, Truth: I'm <mv> to pay yet.
+Predict: <ms> like an egg salad., Origin: I would like an egg salad., User: would like an egg salad, Truth: <ms> would like an egg salad.
+Predict: I like <mo>., Origin: I would like an egg salad., User: I would like , Truth: I would like <mo>.
+Origin: I would like an egg salad., User: I an egg salad, Truth: I <mv> an egg salad.
+Predict: <ms> like a cheese pizza., Origin: I would like a cheese pizza., User: would like a cheese pizza, Truth: <ms> would like a cheese pizza.
+Predict: I like <mo>., Origin: I would like a cheese pizza., User: I would like , Truth: I would like <mo>.
+Origin: I would like a cheese pizza., User: I a cheese pizza, Truth: I <mv> a cheese pizza.
+Predict: <ms> like two chicken sandwiches., Origin: I would like two chicken sandwiches., User: would like two chicken sandwiches, Truth: <ms> would like two chicken sandwiches.
+Predict: I like <mo>., Origin: I would like two chicken sandwiches., User: I would like , Truth: I would like <mo>.
+Origin: I would like two chicken sandwiches., User: I two chicken sandwiches, Truth: I <mv> two chicken sandwiches.
+Predict: <ms> like a glass of orange juice of orange juice., Origin: I would like a glass of orange juice., User: would like a glass of orange juice, Truth: <ms> would like a glass of orange juice.
+Predict: I like a glass orange juice <ma>., Origin: I would like a glass of orange juice., User: I would like a glass orange juice, Truth: I would like a glass <mp> orange juice.
+Predict: I like <mo> <ma>., Origin: I would like a glass of orange juice., User: I would like , Truth: I would like <mo>.
+Origin: I would like a glass of orange juice., User: I a glass of orange juice, Truth: I <mv> a glass of orange juice.
+Predict: <ms> like two cokes., Origin: I would like two cokes., User: would like two cokes, Truth: <ms> would like two cokes.
+Predict: I like <mo>., Origin: I would like two cokes., User: I would like , Truth: I would like <mo>.
+Origin: I would like two cokes., User: I two cokes, Truth: I <mv> two cokes.
+Predict: <ms> like a bottle of water of water., Origin: I would like a bottle of water., User: would like a bottle of water, Truth: <ms> would like a bottle of water.
+Predict: I like a bottle water <ma>., Origin: I would like a bottle of water., User: I would like a bottle water, Truth: I would like a bottle <mp> water.
+Predict: I like <mo> <ma>., Origin: I would like a bottle of water., User: I would like , Truth: I would like <mo>.
+Origin: I would like a bottle of water., User: I a bottle of water, Truth: I <mv> a bottle of water.
+Predict: <ms> pay cash by cash., Origin: I will pay by cash., User: will pay by cash, Truth: <ms> will pay by cash.
+Predict: I pay cash <ma>., Origin: I will pay by cash., User: I will pay cash, Truth: I will pay <mp> cash.
+Predict: I pay <ma>., Origin: I will pay by cash., User: I will pay, Truth: I will pay <mo>.
+Origin: I will pay by cash., User: I by cash, Truth: I <mv> by cash.
+Predict: <ms> pay e-wallet by e-wallet., Origin: I will pay by e-wallet., User: will pay by e-wallet, Truth: <ms> will pay by e-wallet.
+Predict: I pay e-wallet <ma>., Origin: I will pay by e-wallet., User: I will pay e-wallet, Truth: I will pay <mp> e-wallet.
+Predict: I pay <ma>., Origin: I will pay by e-wallet., User: I will pay, Truth: I will pay <mo>.
+Origin: I will pay by e-wallet., User: I by e-wallet, Truth: I <mv> by e-wallet.
+Predict: <ms> pay card by card., Origin: I will pay by card., User: will pay by card, Truth: <ms> will pay by card.
+Predict: I pay card <ma>., Origin: I will pay by card., User: I will pay card, Truth: I will pay <mp> card.
+Predict: I pay <ma>., Origin: I will pay by card., User: I will pay, Truth: I will pay <mo>.
+Origin: I will pay by card., User: I by card, Truth: I <mv> by card.
+Predict: <ms> am., Origin: I'm free tomorrow., User: am free tomorrow, Truth: <ms> free tomorrow.
+Predict: I am., Origin: I'm free tomorrow., User: I am tomorrow, Truth: <mo> tomorrow.
+Predict: I 'm., Origin: I'm free tomorrow., User: I'm tomorrow, Truth: I'm <mv> tomorrow.
+Predict: <ms> am., Origin: I'm free this weekend., User: am free this weekend, Truth: <ms> free this weekend.
+Predict: I am this weekend., Origin: I'm free this weekend., User: I am this weekend, Truth: <mo> this weekend.
+Predict: I 'm this weekend., Origin: I'm free this weekend., User: I'm this weekend, Truth: I'm <mv> this weekend.
+Predict: <ms> am tomorrow after tomorrow., Origin: I'm free the day after tomorrow., User: am free the day after tomorrow, Truth: <ms> free the day after tomorrow.
+Predict: I 'm <ma>., Origin: I'm free the day after tomorrow., User: I'm free the day tomorrow, Truth: I'm free the day <mp> tomorrow.
+Predict: I am the day after tomorrow after tomorrow., Origin: I'm free the day after tomorrow., User: I am the day after tomorrow, Truth: <mo> the day after tomorrow.
+Predict: I 'm the day after tomorrow after tomorrow., Origin: I'm free the day after tomorrow., User: I'm the day after tomorrow, Truth: I'm <mv> the day after tomorrow.
+Origin: I like horror movies., User: I horror movies, Truth: I <mv> horror movies.
+Origin: I like romance movies., User: I romance movies, Truth: I <mv> romance movies.
+Origin: I like comedy movies., User: I comedy movies, Truth: I <mv> comedy movies.
+Origin: I have seen the trailer., User: I the trailer, Truth: I <mv> the trailer.
+Predict: <ms> have seen., Origin: I have seen that movie., User: have seen that movie, Truth: <ms> have seen that movie.
+Predict: I have seen., Origin: I have seen that movie., User: I have seen , Truth: I have seen <mo>.
+Origin: I have seen that movie., User: I that movie, Truth: I <mv> that movie.
+Predict: <ms> have., Origin: I have not seen the trailer., User: have not seen the trailer, Truth: <ms> have not seen the trailer.
+Predict: I have., Origin: I have not seen the trailer., User: I have not seen , Truth: I have not seen <mo>.
+Origin: I have not seen the trailer., User: I the trailer, Truth: I <mv> the trailer.
+Predict: <ms> have., Origin: I have not seen the review., User: have not seen the review, Truth: <ms> have not seen the review.
+Predict: I have., Origin: I have not seen the review., User: I have not seen , Truth: I have not seen <mo>.
+Origin: I have not seen the review., User: I the review, Truth: I <mv> the review.
+Predict: <ms> meet the cinema at the cinema., Origin: We should meet at the cinema., User: should meet at the cinema, Truth: <ms> should meet at the cinema.
+Predict: We meet the cinema <ma>., Origin: We should meet at the cinema., User: We should meet the cinema, Truth: We should meet <mp> the cinema.
+Predict: We meet <ma>., Origin: We should meet at the cinema., User: We should meet , Truth: We should meet <mo>.
+Origin: We should meet at the cinema., User: We at the cinema, Truth: We <mv> at the cinema.
+Predict: <ms> meet my place at my place., Origin: We should meet at my place., User: should meet at my place, Truth: <ms> should meet at my place.
+Predict: We meet my place <ma>., Origin: We should meet at my place., User: We should meet my place, Truth: We should meet <mp> my place.
+Predict: We meet <ma>., Origin: We should meet at my place., User: We should meet , Truth: We should meet <mo>.
+Origin: We should meet at my place., User: We at my place, Truth: We <mv> at my place.
+Predict: <ms> meet the café near the cinema at the café near the cinema., Origin: We should meet at the café near the cinema., User: should meet at the café near the cinema, Truth: <ms> should meet at the café near the cinema.
+Predict: We meet <ma>., Origin: We should meet at the café near the cinema., User: We should meet , Truth: We should meet <mo>.
+Origin: We should meet at the café near the cinema., User: We at the café near the cinema, Truth: We <mv> at the café near the cinema.
+Predict: <ms> have popcorn., Origin: I usually have popcorn., User: usually have popcorn, Truth: <ms> usually have popcorn.
+Predict: I have <mo>., Origin: I usually have popcorn., User: I usually have , Truth: I usually have <mo>.
+Origin: I usually have popcorn., User: I usually popcorn, Truth: I usually <mv> popcorn.
+Predict: <ms> have beef jerky., Origin: I usually have beef jerky., User: usually have beef jerky, Truth: <ms> usually have beef jerky.
+Predict: I have <mo>., Origin: I usually have beef jerky., User: I usually have , Truth: I usually have <mo>.
+Predict: I beef jerky., Origin: I usually have beef jerky., User: I usually beef jerky, Truth: I usually <mv> beef jerky.
+Predict: <ms> have iced coke., Origin: I usually have iced coke., User: usually have iced coke, Truth: <ms> usually have iced coke.
+Predict: I have <mo>., Origin: I usually have iced coke., User: I usually have , Truth: I usually have <mo>.
+Origin: I usually have iced coke., User: I usually iced coke, Truth: I usually <mv> iced coke.
+Predict: <ms> be., Origin: I will be free this weekend., User: will be free this weekend, Truth: <ms> will be free this weekend.
+Predict: I be., Origin: I will be free this weekend., User: I will be free , Truth: I will be free <ma>.
+Predict: I free this weekend., Origin: I will be free this weekend., User: I will free this weekend, Truth: I will <mv> free this weekend.
+Predict: <ms> be., Origin: I will be free next week., User: will be free next week, Truth: <ms> will be free next week.
+Predict: I be., Origin: I will be free next week., User: I will be free , Truth: I will be free <ma>.
+Predict: I free., Origin: I will be free next week., User: I will free next week, Truth: I will <mv> free next week.
+Predict: <ms> be., Origin: I will be free by the end of this month., User: will be free by the end of this month, Truth: <ms> will be free by the end of this month.
+Predict: I be., Origin: I will be free by the end of this month., User: I will be free by , Truth: I will be free by <ma>.
+Predict: I free the end of this month by the end of this month., Origin: I will be free by the end of this month., User: I will free by the end of this month, Truth: I will <mv> free by the end of this month.
+Predict: <ms> want., Origin: I want to visit the museum., User: want to visit the museum, Truth: <ms> want to visit the museum.
+Predict: I want visit the museum., Origin: I want to visit the museum., User: I want visit the museum, Truth: I want <mp> visit the museum.
+Predict: I want., Origin: I want to visit the museum., User: I want to visit the, Truth: I want to visit the <mo>.
+Predict: <ms> want., Origin: I want to visit the gallery., User: want to visit the gallery, Truth: <ms> want to visit the gallery.
+Predict: I want visit the gallery., Origin: I want to visit the gallery., User: I want visit the gallery, Truth: I want <mp> visit the gallery.
+Predict: I want., Origin: I want to visit the gallery., User: I want to visit the , Truth: I want to visit the <mo>.
+Predict: <ms> want., Origin: I want to visit the theater., User: want to visit the theater, Truth: <ms> want to visit the theater.
+Predict: I want visit the theater., Origin: I want to visit the theater., User: I want visit the theater, Truth: I want <mp> visit the theater.
+Predict: I want., Origin: I want to visit the theater., User: I want to visit the , Truth: I want to visit the <mo>.
+Predict: <ms> think., Origin: I think we can have some coffee., User: think we can have some coffee, Truth: <ms> think we can have some coffee.
+Predict: I think., Origin: I think we can have some coffee., User: I think we can have some , Truth: I think we can have some <mo>.
+Predict: I have some coffee., Origin: I think we can have some coffee., User: I we can have some coffee, Truth: I <mv> we can have some coffee.
+Predict: <ms> think., Origin: I think we can go for dinner., User: think we can go for dinner, Truth: <ms> think we can go for dinner.
+Predict: I think., Origin: I think we can go for dinner., User: I think we can go dinner, Truth: I think we can go <mp> dinner.
+Predict: <ms> think., Origin: I think we can go shopping., User: think we can go shopping, Truth: <ms> think we can go shopping.
+Predict: <ms> come my house by my house., Origin: You can come by my house., User: can come by my house, Truth: <ms> can come by my house.
+Predict: You come my house <ma>., Origin: You can come by my house., User: You can come my house, Truth: You can come <mp> my house.
+Predict: You come my by my., Origin: You can come by my house., User: You can come by my , Truth: You can come by my <mo>.
+Predict: You  my house by my house., Origin: You can come by my house., User: You can by my house, Truth: You can <mv> by my house.
+Predict: <ms> come the café by the café., Origin: You can come by the café where I work., User: can come by the café where I work, Truth: <ms> can come by the café where I work.
+Predict: You come the café <ma>., Origin: You can come by the café where I work., User: You can come the café where I work, Truth: You can come <mp> the café where I work.
+Predict: You come the by the., Origin: You can come by the café where I work., User: You can come by the where I work, Truth: You can come by the <mo> where I work.
+Predict: You  <ma>., Origin: You can come by the café where I work., User: You can by the café where I work, Truth: You can <mv> by the café where I work.
+Predict: <ms> come the library near the museum by the library near the museum., Origin: You can come by the library near the museum., User: can come by the library near the museum, Truth: <ms> can come by the library near the museum.
+Predict: You come the library near the museum near the museum., Origin: You can come by the library near the museum., User: You can come the library near the museum, Truth: You can come <mp> the library near the museum.
+Predict: You  the library near the museum by the library near the museum., Origin: You can come by the library near the museum., User: You can by the library near the museum, Truth: You can <mv> by the library near the museum.
+Predict: <ms> is about 1 kilometer to the beach., Origin: It is about 1 kilometer from here to the beach., User: is about 1 kilometer from here to the beach, Truth: <ms> is about 1 kilometer from here to the beach.
+Predict: It is about 1 kilometer to the., Origin: It is about 1 kilometer from here to the beach., User: It is about 1 kilometer from here to the , Truth: It is about 1 kilometer from here to the <mo>.
+Predict: <ms> is only 200 meters to the beach., Origin: It is only 200 meters from here to the beach., User: is only 200 meters from here to the beach, Truth: <ms> is only 200 meters from here to the beach.
+Predict: It is only 200 meters to the., Origin: It is only 200 meters from here to the beach., User: It is only 200 meters from here to the , Truth: It is only 200 meters from here to the <mo>.
+Predict: <ms> is more than 2 kilometers to the beach., Origin: It is more than 2 kilometers from here to the beach., User: is more than 2 kilometers from here to the beach, Truth: <ms> is more than 2 kilometers from here to the beach.
+Predict: It is more than 2 kilometers to the., Origin: It is more than 2 kilometers from here to the beach., User: It is more than 2 kilometers from here to the , Truth: It is more than 2 kilometers from here to the <mo>.
+Predict: <ms> walk there., Origin: We can walk there., User: can walk there, Truth: <ms> can walk there.
+Predict: We walk <mo>., Origin: We can walk there., User: We can walk , Truth: We can walk <mo>.
+Predict: We  there., Origin: We can walk there., User: We can there, Truth: We can <mv> there.
+Predict: <ms> get there by bike., Origin: We can get there by bike., User: can get there by bike, Truth: <ms> can get there by bike.
+Predict: We get there <ma>., Origin: We can get there by bike., User: We can get there bike, Truth: We can get there <mp> bike.
+Predict: We get bike by bike., Origin: We can get there by bike., User: We can get by bike, Truth: We can get <mo> by bike.
+Predict: We  there <ma>., Origin: We can get there by bike., User: We can there by bike, Truth: We can <mv> there by bike.
+Predict: <ms> get there by car., Origin: We can get there by car., User: can get there by car, Truth: <ms> can get there by car.
+Predict: We get there <ma>., Origin: We can get there by car., User: We can get there car, Truth: We can get there <mp> car.
+Predict: We get car by car., Origin: We can get there by car., User: We can get by car, Truth: We can get <mo> by car.
+Predict: We  there <ma>., Origin: We can get there by car., User: We can there by car, Truth: We can <mv> there by car.
+Predict: <ms> buy swimsuits at the store., Origin: We can buy swimsuits at the store., User: can buy swimsuits at the store, Truth: <ms> can buy swimsuits at the store.
+Predict: We buy swimsuits <ma>., Origin: We can buy swimsuits at the store., User: We can buy swimsuits the store, Truth: We can buy swimsuits <mp> the store.
+Predict: We  the store at the store., Origin: We can buy swimsuits at the store., User: We can swimsuits at the store, Truth: We can <mv> swimsuits at the store.
+Predict: <ms> buy swimsuits at the beach., Origin: We can buy swimsuits at the beach., User: can buy swimsuits at the beach, Truth: <ms> can buy swimsuits at the beach.
+Predict: We buy swimsuits <ma>., Origin: We can buy swimsuits at the beach., User: We can buy swimsuits the beach, Truth: We can buy swimsuits <mp> the beach.
+Predict: We  the beach at the beach., Origin: We can buy swimsuits at the beach., User: We can swimsuits at the beach, Truth: We can <mv> swimsuits at the beach.
+Predict: <ms> buy swimsuits at the supermarket., Origin: We can buy swimsuits at the supermarket., User: can buy swimsuits at the supermarket, Truth: <ms> can buy swimsuits at the supermarket.
+Predict: We buy swimsuits <ma>., Origin: We can buy swimsuits at the supermarket., User: We can buy swimsuits the supermarket, Truth: We can buy swimsuits <mp> the supermarket.
+Predict: We  the supermarket at the supermarket., Origin: We can buy swimsuits at the supermarket., User: We can swimsuits at the supermarket, Truth: We can <mv> swimsuits at the supermarket.
+Predict: They sell souvenirs <ma>., Origin: They sell souvenirs on the beach., User: They sell souvenirs the beach, Truth: They sell souvenirs <mp> the beach.
+Origin: They sell souvenirs on the beach., User: They souvenirs on the beach, Truth: They <mv> souvenirs on the beach.
+Predict: They sell souvenirs <ma>., Origin: They sell souvenirs in the hotel., User: They sell souvenirs the hotel, Truth: They sell souvenirs <mp> the hotel.
+Origin: They sell souvenirs in the hotel., User: They souvenirs in the hotel, Truth: They <mv> souvenirs in the hotel.
+Predict: They sell souvenirs <ma>., Origin: They sell souvenirs on the road., User: They sell souvenirs the road, Truth: They sell souvenirs <mp> the road.
+Origin: They sell souvenirs on the road., User: They souvenirs on the road, Truth: They <mv> souvenirs on the road.
+Predict: <ms> are., Origin: Pets are not allowed on the beach., User: are not allowed on the beach, Truth: <ms> are not allowed on the beach.
+Predict: Pets are., Origin: Pets are not allowed on the beach., User: Pets are not allowed the beach, Truth: Pets are not allowed <mp> the beach.
+Predict: Pets are., Origin: Pets are not allowed on the beach., User: Pets are not allowed on the , Truth: Pets are not allowed on the <mo>.
+Predict: <ms> are., Origin: Dangerous things are not allowed on the beach., User: are not allowed on the beach, Truth: <ms> are not allowed on the beach.
+Predict: Dangerous things are., Origin: Dangerous things are not allowed on the beach., User: Dangerous things are not allowed the beach, Truth: Dangerous things are not allowed <mp> the beach.
+Predict: Dangerous things are., Origin: Dangerous things are not allowed on the beach., User: Dangerous things are not allowed on the , Truth: Dangerous things are not allowed on the <mo>.
+Predict: <ms> are., Origin: Snacks are not allowed on the beach., User: are not allowed on the beach, Truth: <ms> are not allowed on the beach.
+Predict: Snacks are., Origin: Snacks are not allowed on the beach., User: Snacks are not allowed the beach, Truth: Snacks are not allowed <mp> the beach.
+Predict: Snacks are., Origin: Snacks are not allowed on the beach., User: Snacks are not allowed on the , Truth: Snacks are not allowed on the <mo>.
+Predict: <ms> is a flight from Hanoi to Singapore tomorrow morning from Hanoi to Singapore tomorrow morning., Origin: There is a flight from Hanoi to Singapore tomorrow morning., User: is a flight from Hanoi to Singapore tomorrow morning, Truth: <ms> is a flight from Hanoi to Singapore tomorrow morning.
+Predict: There is a flight from Hanoi to Singapore from Hanoi to Singapore., Origin: There is a flight from Hanoi to Singapore tomorrow morning., User: There is a flight from Hanoi to Singapore , Truth: There is a flight from Hanoi to Singapore <ma>.
+Predict: <ms> is a flight from Hanoi to Singapore tomorrow afternoon from Hanoi to Singapore tomorrow afternoon., Origin: There is a flight from Hanoi to Singapore tomorrow afternoon., User: is a flight from Hanoi to Singapore tomorrow afternoon, Truth: <ms> is a flight from Hanoi to Singapore tomorrow afternoon.
+Predict: There is a flight from Hanoi to Singapore from Hanoi to Singapore., Origin: There is a flight from Hanoi to Singapore tomorrow afternoon., User: There is a flight from Hanoi to Singapore , Truth: There is a flight from Hanoi to Singapore <ma>.
+Predict: There are no flights from Hanoi to Singapore., Origin: There are no flights from Hanoi to Singapore tomorrow morning., User: There are no flights from Hanoi to Singapore , Truth: There are no flights from Hanoi to Singapore <ma>.
+Predict: There are no flights from Hanoi to Singapore., Origin: There are no flights from Hanoi to Singapore tomorrow night., User: There are no flights from Hanoi to Singapore , Truth: There are no flights from Hanoi to Singapore <ma>.
+Predict: <ms> have., Origin: You have to pay for the checked luggage., User: have to pay for the checked luggage, Truth: <ms> have to pay for the checked luggage.
+Predict: You have., Origin: You have to pay for the checked luggage., User: You have to pay for the checked , Truth: You have to pay for the checked <mo>.
+Predict: You have., Origin: You have to pay for the checked luggage., User: You have to for the checked luggage, Truth: You have to <mv> for the checked luggage.
+Predict: <ms> have., Origin: You have to pay for the food., User: have to pay for the food, Truth: <ms> have to pay for the food.
+Predict: You have., Origin: You have to pay for the food., User: You have to pay for the , Truth: You have to pay for the <mo>.
+Predict: <ms> do., Origin: You don't have to pay for the checked luggage., User: don't have to pay for the checked luggage, Truth: <ms> don't have to pay for the checked luggage.
+Predict: You do., Origin: You don't have to pay for the checked luggage., User: You don't have to pay for the checked , Truth: You don't have to pay for the checked <mo>.
+Predict: You do., Origin: You don't have to pay for the checked luggage., User: You don't have to for the checked luggage, Truth: You don't have to <mv> for the checked luggage.
+Predict: <ms> do., Origin: You don't have to pay for the taxi., User: don't have to pay for the taxi, Truth: <ms> don't have to pay for the taxi.
+Predict: You do., Origin: You don't have to pay for the taxi., User: You don't have to pay for the , Truth: You don't have to pay for the <mo>.
+Predict: You do., Origin: You don't have to pay for the taxi., User: You don't have to for the taxi, Truth: You don't have to <mv> for the taxi.
+Predict: <ms> check online on your phone in online on your phone., Origin: You can check in online on your phone., User: can check in online on your phone, Truth: <ms> can check in online on your phone.
+Predict: You check your phone on your phone., Origin: You can check in online on your phone., User: You can check in on your phone, Truth: You can check in <ma> on your phone.
+Predict: You check online on your in online on your., Origin: You can check in online on your phone., User: You can check in online on your , Truth: You can check in online on your <mo>.
+Predict: You  in online on your phone., Origin: You can check in online on your phone., User: You can in online on your phone, Truth: You can <mv> in online on your phone.
+Predict: <ms> check online on your laptop in online on your laptop., Origin: You can check in online on your laptop., User: can check in online on your laptop, Truth: <ms> can check in online on your laptop.
+Predict: You check your laptop on your laptop., Origin: You can check in online on your laptop., User: You can check in on your laptop, Truth: You can check in <ma> on your laptop.
+Predict: You check online on your in online on your., Origin: You can check in online on your laptop., User: You can check in online on your , Truth: You can check in online on your <mo>.
+Predict: You  in online on your laptop., Origin: You can check in online on your laptop., User: You can in online on your laptop, Truth: You can <mv> in online on your laptop.
+Predict: <ms> check online on your tablet in online on your tablet., Origin: You can check in online on your tablet., User: can check in online on your tablet, Truth: <ms> can check in online on your tablet.
+Predict: You check your tablet on your tablet., Origin: You can check in online on your tablet., User: You can check in on your tablet, Truth: You can check in <ma> on your tablet.
+Predict: You check online on your in online on your., Origin: You can check in online on your tablet., User: You can check in online on your , Truth: You can check in online on your <mo>.
+Predict: You  in online on your tablet., Origin: You can check in online on your tablet., User: You can in online on your tablet, Truth: You can <mv> in online on your tablet.
+Predict: <ms> is., Origin: A double room is available at this hotel., User: is available at this hotel, Truth: <ms> is available at this hotel.
+Predict: A double room is., Origin: A double room is available at this hotel., User: A double room is available this hotel, Truth: A double room is available <mp> this hotel.
+Predict: A double room is., Origin: A double room is available at this hotel., User: A double room is available at this , Truth: A double room is available at this <mo>.
+Predict: <ms> is., Origin: A single room is available at this hotel., User: is available at this hotel, Truth: <ms> is available at this hotel.
+Predict: A single room is., Origin: A single room is available at this hotel., User: A single room is available this hotel, Truth: A single room is available <mp> this hotel.
+Predict: A single room is., Origin: A single room is available at this hotel., User: A single room is available at this , Truth: A single room is available at this <mo>.
+Predict: <ms> is., Origin: A triple room is available at this hotel., User: is available at this hotel, Truth: <ms> is available at this hotel.
+Predict: A triple room is., Origin: A triple room is available at this hotel., User: A triple room is available this hotel, Truth: A triple room is available <mp> this hotel.
+Predict: A triple room is., Origin: A triple room is available at this hotel., User: A triple room is available at this , Truth: A triple room is available at this <mo>.
+Origin: It costs 30 dollars per night., User: costs 30 dollars per night, Truth: <ms> costs 30 dollars per night.
+Origin: It costs 30 dollars per night., User: It 30 dollars per night, Truth: It <mv> 30 dollars per night.
+Origin: It costs 15 dollars per night., User: costs 15 dollars per night, Truth: <ms> costs 15 dollars per night.
+Origin: It costs 15 dollars per night., User: It 15 dollars per night, Truth: It <mv> 15 dollars per night.
+Origin: It costs 100 dollars per night., User: costs 100 dollars per night, Truth: <ms> costs 100 dollars per night.
+Origin: It costs 100 dollars per night., User: It 100 dollars per night, Truth: It <mv> 100 dollars per night.
+Predict: <ms> visit the beach., Origin: People often visit the beach., User: often visit the beach, Truth: <ms> often visit the beach.
+Predict: People visit the beach., Origin: People often visit the beach., User: People visit the beach, Truth: People <ma> visit the beach.
+Predict: People visit the., Origin: People often visit the beach., User: People often visit the , Truth: People often visit the <mo>.
+Origin: People often visit the beach., User: People often the beach, Truth: People often <mv> the beach.
+Predict: <ms> visit the mountain., Origin: People often visit the mountain., User: often visit the mountain, Truth: <ms> often visit the mountain.
+Predict: People visit the mountain., Origin: People often visit the mountain., User: People visit the mountain, Truth: People <ma> visit the mountain.
+Predict: People visit the., Origin: People often visit the mountain., User: People often visit the , Truth: People often visit the <mo>.
+Origin: People often visit the mountain., User: People often the mountain, Truth: People often <mv> the mountain.
+Predict: <ms> visit the ancient town., Origin: People often visit the ancient town., User: often visit the ancient town, Truth: <ms> often visit the ancient town.
+Predict: People visit the ancient town., Origin: People often visit the ancient town., User: People visit the ancient town, Truth: People <ma> visit the ancient town.
+Predict: People visit the., Origin: People often visit the ancient town., User: People often visit the , Truth: People often visit the <mo>.
+Origin: People often visit the ancient town., User: People often the ancient town, Truth: People often <mv> the ancient town.
+Predict: The last country I have to is Japan., Origin: The last country I have traveled to is Japan., User: The last country I have to is Japan, Truth: The last country I have <mv> to is Japan.
+Predict: The last country I have to is China., Origin: The last country I have traveled to is China., User: The last country I have to is China, Truth: The last country I have <mv> to is China.
+Predict: The last country I have to is Thailand., Origin: The last country I have traveled to is Thailand., User: The last country I have to is Thailand, Truth: The last country I have <mv> to is Thailand.
+Predict: <ms> have been a member for three months for three months., Origin: I have been a member for three months., User: have been a member for three months, Truth: <ms> have been a member for three months.
+Predict: I have been a member three months <ma>., Origin: I have been a member for three months., User: I have been a member three months, Truth: I have been a member <mp> three months.
+Predict: I have been <mo> <ma>., Origin: I have been a member for three months., User: I have been, Truth: I have been <mo>.
+Predict: I have been three months for three months., Origin: I have been a member for three months., User: I have been for three months, Truth: I have been <mo> for three months.
+Origin: I have been a member for three months., User: I a member for three months, Truth: I <mv> a member for three months.
+Predict: <ms> have been a member for a year for a year., Origin: I have been a member for a year., User: have been a member for a year, Truth: <ms> have been a member for a year.
+Predict: I have been a member a year <ma>., Origin: I have been a member for a year., User: I have been a member a year, Truth: I have been a member <mp> a year.
+Predict: I have been <mo> <ma>., Origin: I have been a member for a year., User: I have been, Truth: I have been <mo>.
+Predict: I have been a year for a year., Origin: I have been a member for a year., User: I have been for a year, Truth: I have been a <mo> for a year.
+Origin: I have been a member for a year., User: I a member for a year, Truth: I <mv> a member for a year.
+Predict: <ms> have been a member for just one week for just one week., Origin: I have been a member for just one week., User: have been a member for just one week, Truth: <ms> have been a member for just one week.
+Predict: I have been a member just one week <ma>., Origin: I have been a member for just one week., User: I have been a member just one week, Truth: I have been a member <mp> just one week.
+Predict: I have been <mo> <ma>., Origin: I have been a member for just one week., User: I have been, Truth: I have been <mo>.
+Predict: I have been just one for just one., Origin: I have been a member for just one week., User: I have been for just one week, Truth: I have been <mo> for just one week.
+Origin: I have been a member for just one week., User: I a member for just one week, Truth: I <mv> a member for just one week.
+Predict: <ms> joined., Origin: I joined to make some new friends., User: joined to make some new friends, Truth: <ms> joined to make some new friends.
+Predict: I joined make some new friends., Origin: I joined to make some new friends., User: I joined make some new friends, Truth: I joined <mp> make some new friends.
+Predict: I joined., Origin: I joined to make some new friends., User: I joined , Truth: I joined <ma>.
+Predict: I joined., Origin: I joined to make some new friends., User: I joined to make  , Truth: I joined to make <mo>.
+Origin: I joined to make some new friends., User: I joined to, Truth: I joined to <mo>.
+Predict: I joined some new friends to some new friends., Origin: I joined to make some new friends., User: I joined to some new friends, Truth: I joined to <mv> some new friends.
+Predict: I., Origin: I joined to make some new friends., User: I to make some new friends, Truth: I <mv> to make some new friends.
+Predict: <ms> joined., Origin: I joined to help the community., User: joined to help the community, Truth: <ms> joined to help the community.
+Predict: I joined help the community., Origin: I joined to help the community., User: I joined help the community, Truth: I joined <mp> help the community.
+Predict: I joined., Origin: I joined to help the community., User: I joined , Truth: I joined <ma>.
+Origin: I joined to help the community., User: I joined to, Truth: I joined to <mo>.
+Predict: I joined., Origin: I joined to help the community., User: I joined to help, Truth: I joined to help <mo>.
+Predict: I., Origin: I joined to help the community., User: I to help the community, Truth: I <mv> to help the community.
+Predict: <ms> joined., Origin: I joined to earn a certificate., User: joined to earn a certificate, Truth: <ms> joined to earn a certificate.
+Predict: I joined earn a certificate., Origin: I joined to earn a certificate., User: I joined earn a certificate, Truth: I joined <mp> earn a certificate.
+Predict: I joined., Origin: I joined to earn a certificate., User: I joined , Truth: I joined <ma>.
+Origin: I joined to earn a certificate., User: I joined to, Truth: I joined to <mo>.
+Predict: I joined., Origin: I joined to earn a certificate., User: I joined to earn, Truth: I joined to earn <mo>.
+Predict: I., Origin: I joined to earn a certificate., User: I to earn a certificate, Truth: I <mv> to earn a certificate.
+Predict: <ms> find., Origin: I find it very interesting., User: find it very interesting, Truth: <ms> find it very interesting.
+Predict: I find it., Origin: I find it very interesting., User: I  find it, Truth: I find it <ma>.
+Predict: I find., Origin: I find it very interesting., User: I find  , Truth: I find <mo>.
+Origin: I find it very interesting., User: I it very interesting, Truth: I <mv> it very interesting.
+Predict: <ms> find., Origin: I find it challenging., User: find it challenging, Truth: <ms> find it challenging.
+Predict: I find it., Origin: I find it challenging., User: I  find it, Truth: I find it <ma>.
+Predict: I find., Origin: I find it challenging., User: I find , Truth: I find <mo>.
+Origin: I find it challenging., User: I it challenging, Truth: I <mv> it challenging.
+Predict: <ms> find., Origin: I find it boring., User: find it boring, Truth: <ms> find it boring.
+Predict: I find it., Origin: I find it boring., User: I  find it, Truth: I find it <ma>.
+Predict: I find., Origin: I find it boring., User: I find  , Truth: I find <mo>.
+Origin: I find it boring., User: I it boring, Truth: I <mv> it boring.
+Origin: I'm also a part of a charity for children in need., User: Am also a part of a charity for children in need, Truth: <ms> also a part of a charity for children in need.
+Predict: I 'm a part of a charity for children in need of a charity for children in need., Origin: I'm also a part of a charity for children in need., User: I'm a part of a charity for children in need, Truth: I'm <ma> a part of a charity for children in need.
+Predict: I 'm also of., Origin: I'm also a part of a charity for children in need., User: I'm also a part of, Truth: I'm also a part of a <mo>.
+Predict: I 'm also <ma>., Origin: I'm also a part of a charity for children in need., User: I'm also , Truth: I'm also <mo>.
+Origin: I'm also a part of a charity for children in need., User: I a part of a charity for children in need, Truth: <mv> a part of a charity for children in need.
+Predict: also a part of an environment cleaning team <ma>., Origin: I'm also a part of an environment cleaning team., User: Am also a part of an environment cleaning team, Truth: <ms> also a part of an environment cleaning team.
+Predict: I 'm also <ma>., Origin: I'm also a part of an environment cleaning team., User: I'm also a part environment cleaning team, Truth: I'm also a part <mp> environment cleaning team.
+Predict: I 'm a part of an environment cleaning team of an environment cleaning team., Origin: I'm also a part of an environment cleaning team., User: I'm a part of an environment cleaning team, Truth: I'm <ma> a part of an environment cleaning team.
+Predict: I 'm also of., Origin: I'm also a part of an environment cleaning team., User: I'm also a part of, Truth: I'm also a part of <mo>.
+Predict: I 'm also <ma>., Origin: I'm also a part of an environment cleaning team., User: I'm also, Truth: I'm also <mo>.
+Origin: I'm also a part of an environment cleaning team., User: I a part of an environment cleaning team, Truth: <mv> a part of an environment cleaning team.
+Origin: I'm also a part of an animal rescue team., User: Am also a part of an animal rescue team, Truth: <ms> also a part of an animal rescue team.
+Predict: I 'm also <ma>., Origin: I'm also a part of an animal rescue team., User: I'm also a part an animal rescue team, Truth: I'm also a part <mp> an animal rescue team.
+Predict: I 'm a part of an animal rescue team of an animal rescue team., Origin: I'm also a part of an animal rescue team., User: I'm a part of an animal rescue team, Truth: I'm <ma> a part of an animal rescue team.
+Predict: I 'm also of., Origin: I'm also a part of an animal rescue team., User: I'm also a part of, Truth: I'm also a part of <mo>.
+Predict: I 'm also <ma>., Origin: I'm also a part of an animal rescue team., User: I'm also, Truth: I'm also <mo>.
+Origin: I'm also a part of an animal rescue team., User: I a part of an animal rescue team, Truth: <mv> a part of an animal rescue team.
+Predict: <ms> am charge of running media sites in charge of running media sites., Origin: I'm in charge of running media sites., User: am in charge of running media sites, Truth: <ms> in charge of running media sites.
+Predict: I 'm charge running media sites in charge running media sites., Origin: I'm in charge of running media sites., User: I'm in charge running media sites, Truth: I'm in charge <mp> running media sites.
+Predict: I 'm charge in charge., Origin: I'm in charge of running media sites., User: I'm in charge , Truth: I'm in charge <mo>.
+Predict: I 'm running media sites of running media sites., Origin: I'm in charge of running media sites., User: I'm of running media sites, Truth: I'm <mv> of running media sites.
+Origin: I'm in charge of collecting data., User: in charge of collecting data, Truth: <ms> in charge of collecting data.
+Predict: I 'm charge collecting data in charge collecting data., Origin: I'm in charge of collecting data., User: I'm in charge collecting data, Truth: I'm in charge <mp> collecting data.
+Predict: I 'm collecting data of collecting data., Origin: I'm in charge of collecting data., User: I'm of collecting data, Truth: I'm <mv> of collecting data.
+Origin: I'm in charge of managing volunteers., User: in charge of managing volunteers, Truth: <ms> in charge of managing volunteers.
+Predict: I 'm charge managing volunteers in charge managing volunteers., Origin: I'm in charge of managing volunteers., User: I'm in charge managing volunteers, Truth: I'm in charge <mp> managing volunteers.
+Predict: I 'm managing volunteers of managing volunteers., Origin: I'm in charge of managing volunteers., User: I'm of managing volunteers, Truth: I'm <mv> of managing volunteers.
+Predict: <ms> like., Origin: I would like to be a part of this again., User: would like to be a part of this again, Truth: <ms> would like to be a part of this again.
+Predict: I like., Origin: I would like to be a part of this again., User: I would like to be a part this again, Truth: I would like to be a part <mp> this again.
+Predict: I like., Origin: I would like to be a part of this again., User: I would like to be a part of this  , Truth: I would like to be a part of this <ma>.
+Predict: I like., Origin: I would like to be a part of this again., User: I would like to be, Truth: I would like to be <mo>.
+Origin: I would like to be a part of this again., User: I a part of this again, Truth: I <mv> a part of this again.
+Predict: <ms> like., Origin: I would like to join other projects., User: would like to join other projects, Truth: <ms> would like to join other projects.
+Predict: I like join other projects., Origin: I would like to join other projects., User: I would like join other projects, Truth: I would like <mp> join other projects.
+Predict: I like., Origin: I would like to join other projects., User: I would like to  , Truth: I would like to <mo>.
+Predict: I like., Origin: I would like to join other projects., User: I would like to join, Truth: I would like to join <mo>.
+Predict: I., Origin: I would like to join other projects., User: I to join other projects, Truth: I <mv> to join other projects.
+Predict: <ms> do., Origin: I don't want to be a part of this again., User: don't want to be a part of this again, Truth: <ms> don't want to be a part of this again.
+Predict: I do., Origin: I don't want to be a part of this again., User: I don't want to be a part of this  , Truth: I don't want to be a part of this <ma>.
+Predict: I do., Origin: I don't want to be a part of this again., User: I don't want to be, Truth: I don't want to be <mo>.
+Origin: I don't want to be a part of this again., User: I a part of this again, Truth: I <mv> a part of this again.
+Predict: <ms> do., Origin: I don't want to make new friends., User: don't want to make new friends, Truth: <ms> don't want to make new friends.
+Predict: I do., Origin: I don't want to make new friends., User: I don't want make new friends, Truth: I don't want <mp> make new friends.
+Predict: I do., Origin: I don't want to make new friends., User: I don't want to  , Truth: I don't want to <mo>.
+Predict: I do., Origin: I don't want to make new friends., User: I don't want to make, Truth: I don't want to make <mo>.
+Predict: I., Origin: I don't want to make new friends., User: I to make new friends, Truth: I <mv> to make new friends.
+Predict: <ms> found it through their Facebook event., Origin: I found out about it through their Facebook event., User: found out about it through their Facebook event, Truth: <ms> found out about it through their Facebook event.
+Predict: I found it about it., Origin: I found out about it through their Facebook event., User: I found out about it , Truth: I found out about it <ma>.
+Predict: I found <mo> <ma>., Origin: I found out about it through their Facebook event., User: I found out, Truth: I found out <mo>.
+Predict: <ms> found it through a friend., Origin: I found out about it through a friend., User: found out about it through a friend, Truth: <ms> found out about it through a friend.
+Predict: I found <mo> <ma>., Origin: I found out about it through a friend., User: I found out, Truth: I found out <mo>.
+Origin: I found out about it through a friend., User: I about it through a friend, Truth: I <mv> about it through a friend.
+Predict: <ms> found it through a poster at my favorite café., Origin: I found out about it through a poster at my favorite café., User: found out about it through a poster at my favorite café, Truth: <ms> found out about it through a poster at my favorite café.
+Predict: I found <ma>., Origin: I found out about it through a poster at my favorite café., User: I found out, Truth: I found out <mo>.
+Predict: <ms> come these festivals to these festivals., Origin: I come to these festivals all the time., User: come to these festivals all the time, Truth: <ms> come to these festivals all the time.
+Predict: I come these festivals <ma>., Origin: I come to these festivals all the time., User: I come these festivals all the time, Truth: I come <mp> these festivals all the time.
+Predict: I come these festivals to these festivals., Origin: I come to these festivals all the time., User: I come to these festivals  , Truth: I come to these festivals <ma>.
+Predict: I come all the time <ma>., Origin: I come to these festivals all the time., User: I come all the time, Truth: I come <mo> all the time.
+Origin: I come to these festivals all the time., User: I to these festivals all the time, Truth: I <mv> to these festivals all the time.
+Predict: I come these festivals <ma>., Origin: I come to these festivals when I have the chance., User: I come these festivals when I have the chance, Truth: I come <mp> these festivals when I have the chance.
+Predict: I come <ma>., Origin: I come to these festivals when I have the chance., User: I come when I have the chance, Truth: I come <mo> when I have the chance.
+Predict: <ms> come these festivals to these festivals., Origin: I come to these festivals every summer., User: come to these festivals every summer, Truth: <ms> come to these festivals every summer.
+Predict: I come these festivals <ma>., Origin: I come to these festivals every summer., User: I come these festivals every summer, Truth: I come <mp> these festivals every summer.
+Predict: I come these festivals to these festivals., Origin: I come to these festivals every summer., User: I come to these festivals , Truth: I come to these festivals <ma>.
+Predict: I come every summer <ma>., Origin: I come to these festivals every summer., User: I come every summer, Truth: I come <mo> every summer.
+Origin: I come to these festivals every summer., User: I to these festivals every summer, Truth: I <mv> to these festivals every summer.
+Predict: <ms> Am., Origin: I'm excited to see my favorite singer., User:  Am excited to see my favorite singer, Truth: <ms> excited to see my favorite singer.
+Predict: I 'm., Origin: I'm excited to see my favorite singer., User: I'm excited see my favorite singer, Truth: I'm excited <mp> see my favorite singer.
+Predict: I 'm., Origin: I'm excited to see my favorite singer., User: I'm excited to see my singer, Truth: I'm excited to see my <ma> singer.
+Predict: I 'm., Origin: I'm excited to see my favorite singer., User: I'm excited , Truth: I'm excited <mo>.
+Predict: I 'm., Origin: I'm excited to see my favorite singer., User: I'm excited to see, Truth: I'm excited to see <mo>.
+Predict: I excited., Origin: I'm excited to see my favorite singer., User: I excited to see my favorite singer, Truth: <mv> excited to see my favorite singer.
+Predict: <ms> Am., Origin: I'm excited to see my favorite rock band., User: Am excited to see my favorite rock band, Truth: <ms> excited to see my favorite rock band.
+Predict: I 'm., Origin: I'm excited to see my favorite rock band., User: I'm excited see my favorite rock band, Truth: I'm excited <mp> see my favorite rock band.
+Predict: I 'm., Origin: I'm excited to see my favorite rock band., User: I'm excited to see my rock band, Truth: I'm excited to see my <ma> rock band.
+Predict: I 'm., Origin: I'm excited to see my favorite rock band., User: I'm excited , Truth: I'm excited <mo>.
+Predict: I 'm., Origin: I'm excited to see my favorite rock band., User: I'm excited to see, Truth: I'm excited to see <mo>.
+Predict: I excited., Origin: I'm excited to see my favorite rock band., User: I excited to see my favorite rock band, Truth: <mv> excited to see my favorite rock band.
+Predict: <ms> Am., Origin: I'm excited to see all the performances., User: Am excited to see all the performances, Truth: <ms> excited to see all the performances.
+Predict: I 'm., Origin: I'm excited to see all the performances., User: I'm excited see all the performances, Truth: I'm excited <mp> see all the performances.
+Predict: I 'm., Origin: I'm excited to see all the performances., User: I'm excited to see the performances, Truth: I'm excited to see <ma> the performances.
+Predict: I 'm., Origin: I'm excited to see all the performances., User: I'm excited , Truth: I'm excited <mo>.
+Predict: I 'm., Origin: I'm excited to see all the performances., User: I'm excited to see, Truth: I'm excited to see <mo>.
+Predict: I excited., Origin: I'm excited to see all the performances., User: I excited to see all the performances, Truth: <mv> excited to see all the performances.
+Predict: I pop music., Origin: I like pop music., User: I pop music, Truth: I <mv> pop music.
+Predict: I rock music., Origin: I like rock music., User: I rock music, Truth: I <mv> rock music.
+Origin: I like country music., User: I country music, Truth: I <mv> country music.
+Predict: <ms> have been a fan for a year for a year., Origin: I have been a fan for a year., User: have been a fan for a year, Truth: <ms> have been a fan for a year.
+Predict: I have been a fan a year <ma>., Origin: I have been a fan for a year., User: I have been a fan a year, Truth: I have been a fan <mp> a year.
+Origin: I have been a fan for a year., User: I have been a fan for  , Truth: I have been a fan for a <ma>.
+Predict: I have been a year for a year., Origin: I have been a fan for a year., User: I have been for a year, Truth: I have been a <mo> for a year.
+Origin: I have been a fan for a year., User: I a fan for a year, Truth: I <mv> a fan for a year.
+Predict: <ms> have been a fan for a while for a while., Origin: I have been a fan for a while., User: have been a fan for a while, Truth: <ms> have been a fan for a while.
+Predict: I have been a fan a while <ma>., Origin: I have been a fan for a while., User: I have been a fan a while, Truth: I have been a fan <mp> a while.
+Origin: I have been a fan for a while., User: I have been a fan for, Truth: I have been a fan for a <ma>.
+Predict: I have been a while for a while., Origin: I have been a fan for a while., User: I have been for a while, Truth: I have been a <mo> for a while.
+Origin: I have been a fan for a while., User: I a fan for a while, Truth: I <mv> a fan for a while.
+Predict: <ms> have been ever since their debut., Origin: I have been a fan ever since their debut., User: have been a fan ever since their debut, Truth: <ms> have been a fan ever since their debut.
+Predict: I have been ever since their debut., Origin: I have been a fan ever since their debut., User: I have been ever since their debut, Truth: I have been <mo> ever since their debut.
+Origin: I have been a fan ever since their debut., User: I a fan ever since their debut, Truth: I <mv> a fan ever since their debut.
+Predict: <ms> come here., Origin: I come here once a week., User: come here once a week, Truth: <ms> come here once a week.
+Predict: I come once., Origin: I come here once a week., User: I come once a week, Truth: I come <mp> once a week.
+Predict: I come here., Origin: I come here once a week., User: I come here , Truth: I come here <ma>.
+Origin: I come here once a week., User: I here once a week, Truth: I <mv> here once a week.
+Predict: <ms> come here., Origin: I come here every weekend., User:  come here every weekend, Truth: <ms> come here every weekend.
+Predict: I come every weekend., Origin: I come here every weekend., User: I come every weekend, Truth: I come <mp> every weekend.
+Predict: I come here., Origin: I come here every weekend., User: I come here , Truth: I come here <ma>.
+Origin: I come here every weekend., User: I here every weekend, Truth: I <mv> here every weekend.
+Predict: <ms> come here., Origin: I come here twice a month., User: come here twice a month, Truth: <ms> come here twice a month.
+Predict: I come twice., Origin: I come here twice a month., User: I come twice a month, Truth: I come <mp> twice a month.
+Predict: I come here., Origin: I come here twice a month., User: I come here  , Truth: I come here <ma>.
+Predict: I  <mo>., Origin: I come here twice a month., User: I here twice a month, Truth: I <mv> here twice a month.
+Predict: <ms> like exercising sunrise before sunrise., Origin: I like exercising before sunrise., User: like exercising before sunrise, Truth: <ms> like exercising before sunrise.
+Predict: I like <ma>., Origin: I like exercising before sunrise., User: I like, Truth: I like <mo>.
+Predict: I exercising sunrise before sunrise., Origin: I like exercising before sunrise., User: I exercising before sunrise, Truth: I <mv> exercising before sunrise.
+Predict: <ms> like exercising lunch after lunch., Origin: I like exercising after lunch., User: like exercising after lunch, Truth: <ms> like exercising after lunch.
+Predict: I like <ma>., Origin: I like exercising after lunch., User: I like, Truth: I like <mo>.
+Predict: I exercising lunch after lunch., Origin: I like exercising after lunch., User: I exercising after lunch, Truth: I <mv> exercising after lunch.
+Predict: <ms> like exercising bed before bed., Origin: I like exercising before bed., User: like exercising before bed, Truth: <ms> like exercising before bed.
+Predict: I like <ma>., Origin: I like exercising before bed., User: I like, Truth: I like <mo>.
+Predict: I exercising bed before bed., Origin: I like exercising before bed., User: I exercising before bed, Truth: I <mv> exercising before bed.
+Predict: <ms> like exercising the park at the park., Origin: I like exercising at the park because it's more spacious., User: like exercising at the park because it's more spacious, Truth: <ms> like exercising at the park because it's more spacious.
+Predict: I like exercising the park <ma>., Origin: I like exercising at the park because it's more spacious., User: I like exercising the park because it's more spacious, Truth: I like exercising <mp> the park because it's more spacious.
+Predict: I like exercising the park at the park., Origin: I like exercising at the park because it's more spacious., User: I like exercising at the park  , Truth: I like exercising at the park <ma>.
+Predict: I like the park at the park., Origin: I like exercising at the park because it's more spacious., User: I like at the park because it's more spacious, Truth: I like <mo> at the park because it's more spacious.
+Predict: I exercising the park at the park., Origin: I like exercising at the park because it's more spacious., User: I exercising at the park because it's more spacious, Truth: I <mv> exercising at the park because it's more spacious.
+Predict: <ms> like exercising the park at the park., Origin: I like exercising at the park because it's free., User:  like exercising at the park because it's free, Truth: <ms> like exercising at the park because it's free.
+Predict: I like exercising the park <ma>., Origin: I like exercising at the park because it's free., User: I like exercising the park because it's free, Truth: I like exercising <mp> the park because it's free.
+Predict: I like exercising the park at the park., Origin: I like exercising at the park because it's free., User: I like exercising at the park  , Truth: I like exercising at the park <ma>.
+Predict: I like the park at the park., Origin: I like exercising at the park because it's free., User: I like at the park because it's free, Truth: I like <mo> at the park because it's free.
+Predict: I exercising the park at the park., Origin: I like exercising at the park because it's free., User: I exercising at the park because it's free, Truth: I <mv> exercising at the park because it's free.
+Predict: <ms> like exercising the park at the park., Origin: I like exercising at the park because it's more relaxing., User: like exercising at the park because it's more relaxing, Truth: <ms> like exercising at the park because it's more relaxing.
+Predict: I like exercising the park <ma>., Origin: I like exercising at the park because it's more relaxing., User: I like exercising the park because it's more relaxing, Truth: I like exercising <mp> the park because it's more relaxing.
+Predict: I like exercising the park at the park., Origin: I like exercising at the park because it's more relaxing., User: I like exercising at the park  , Truth: I like exercising at the park <ma>.
+Predict: I like the park at the park., Origin: I like exercising at the park because it's more relaxing., User: I like at the park because it's more relaxing, Truth: I like <mo> at the park because it's more relaxing.
+Predict: <ms> go running., Origin: I often go running., User: often go running, Truth: <ms> often go running.
+Predict: I go running., Origin: I often go running., User: I go running, Truth: I <ma> go running.
+Origin: I often go running., User: I often  , Truth: I often <mo>.
+Origin: I often go running., User: I often , Truth: I often <mv>.
+Predict: <ms> go cycling., Origin: I often go cycling., User: often go cycling, Truth: <ms> often go cycling.
+Predict: I go cycling., Origin: I often go cycling., User: I go cycling, Truth: I <ma> go cycling.
+Origin: I often go cycling., User: I often  , Truth: I often <mo>.
+Origin: I often go cycling., User: I often , Truth: I often <mv>.
+Predict: <ms> do aerobics., Origin: I often do aerobics., User:  often do aerobics, Truth: <ms> often do aerobics.
+Predict: I do aerobics., Origin: I often do aerobics., User: I do aerobics, Truth: I <ma> do aerobics.
+Origin: I often do aerobics., User: I often  , Truth: I often <mo>.
+Origin: I often do aerobics., User: I often, Truth: I often <mv>.
+Predict: <ms> prefer working a partner with a partner., Origin: I prefer working out with a partner., User: prefer working out with a partner, Truth: <ms> prefer working out with a partner.
+Predict: I prefer working a partner <ma>., Origin: I prefer working out with a partner., User: I prefer working out a partner, Truth: I prefer working out <mp> a partner.
+Predict: I prefer working <ma>., Origin: I prefer working out with a partner., User: I prefer working out, Truth: I prefer working out <ma>.
+Predict: I prefer a partner with a partner., Origin: I prefer working out with a partner., User: I prefer with a partner, Truth: I prefer <mo> with a partner.
+Predict: I working a partner with a partner., Origin: I prefer working out with a partner., User: I working out with a partner, Truth: I <mv> working out with a partner.
+Predict: <ms> prefer working alone., Origin: I prefer working out alone., User: prefer working out alone, Truth: <ms> prefer working out alone.
+Predict: I prefer working <mo>., Origin: I prefer working out alone., User: I prefer working out  , Truth: I prefer working out <ma>.
+Predict: I prefer alone., Origin: I prefer working out alone., User: I prefer alone, Truth: I prefer <mo> alone.
+Predict: I working alone., Origin: I prefer working out alone., User: I working out alone, Truth: I <mv> working out alone.
+Predict: <ms> prefer working a trainer with a trainer., Origin: I prefer working out with a trainer., User: prefer working out with a trainer, Truth: <ms> prefer working out with a trainer.
+Predict: I prefer working a trainer <ma>., Origin: I prefer working out with a trainer., User: I prefer working out a trainer, Truth: I prefer working out <mp> a trainer.
+Predict: I prefer working <ma>., Origin: I prefer working out with a trainer., User: I prefer working out, Truth: I prefer working out <ma>.
+Predict: I prefer a trainer with a trainer., Origin: I prefer working out with a trainer., User: I prefer with a trainer, Truth: I prefer <mo> with a trainer.
+Predict: I working a trainer with a trainer., Origin: I prefer working out with a trainer., User: I working out with a trainer, Truth: I <mv> working out with a trainer.
+Origin: I need a drink., User: I a drink, Truth: I <mv> a drink.
+Origin: I need a shower., User: I a shower, Truth: I <mv> a shower.
+Predict: <ms> do., Origin: I don't need a drink., User: don't need a drink, Truth: <ms> don't need a drink.
+Predict: I do., Origin: I don't need a drink., User: I don't need, Truth: I don't need <mo>.
+Origin: I don't need a drink., User: I a drink, Truth: I <mv> a drink.
+Predict: <ms> do., Origin: I don't need some snacks., User: don't need some snacks, Truth: <ms> don't need some snacks.
+Predict: I do., Origin: I don't need some snacks., User: I don't need, Truth: I don't need <mo>.
+Origin: I don't need some snacks., User: I some snacks, Truth: I <mv> some snacks.
+Predict: <ms> have been learning English for over ten years for over ten years., Origin: I have been learning English for over ten years., User:  have been learning English for over ten years, Truth: <ms> have been learning English for over ten years.
+Predict: I have been learning English over ten years over ten years., Origin: I have been learning English for over ten years., User: I have been learning English over ten years, Truth: I have been learning English <mp> over ten years.
+Predict: I have been learning English English for., Origin: I have been learning English for over ten years., User: I have been learning English for , Truth: I have been learning English for <ma>.
+Predict: I have been learning over ten years for over ten years., Origin: I have been learning English for over ten years., User: I have been learning for over ten years, Truth: I have been learning <mo> for over ten years.
+Predict: <ms> have been learning English for about two years for about two years., Origin: I have been learning English for about two years., User: have been learning English for about two years, Truth: <ms> have been learning English for about two years.
+Predict: I have been learning English <ma>., Origin: I have been learning English for about two years., User: I have been learning English two years, Truth: I have been learning English <mp> two years.
+Predict: I have been learning English English for., Origin: I have been learning English for about two years., User: I have been learning English for , Truth: I have been learning English for <ma>.
+Predict: I have been learning about two years for about two years., Origin: I have been learning English for about two years., User: I have been learning for about two years, Truth: I have been learning <mo> for about two years.
+Origin: I have been learning English for about two years., User: I English for about two years, Truth: I <mv> English for about two years.
+Predict: <ms> have been learning English for less than a., Origin: I have been learning English for less than a year., User: have been learning English for less than a year, Truth: <ms> have been learning English for less than a year.
+Predict: I have been learning English English for., Origin: I have been learning English for less than a year., User: I have been learning English for , Truth: I have been learning English for <ma>.
+Predict: I have been learning less than a for less than a., Origin: I have been learning English for less than a year., User: I have been learning for less than a year, Truth: I have been learning <mo> for less than a year.
+Origin: I have been learning English for less than a year., User: I English for less than a year, Truth: I <mv> English for less than a year.
+Predict: <ms> want., Origin: I want to have a high-paying job., User: want to have a high-paying job, Truth: <ms> want to have a high-paying job.
+Predict: I want., Origin: I want to have a high-paying job., User: I want to have, Truth: I want to have <mo>.
+Predict: I have a high - paying job., Origin: I want to have a high-paying job., User: I have a high-paying job, Truth: I <mv> have a high-paying job.
+Predict: <ms> want., Origin: I want to study abroad., User: want to study abroad, Truth: <ms> want to study abroad.
+Predict: I want., Origin: I want to study abroad., User: I want to study  , Truth: I want to study <ma>.
+Predict: I want., Origin: I want to study abroad., User: I want to, Truth: I want to <mo>.
+Predict: I study abroad., Origin: I want to study abroad., User: I study abroad, Truth: I <mv> study abroad.
+Predict: <ms> want., Origin: I want to make friends around the world., User: want to make friends around the world, Truth: <ms> want to make friends around the world.
+Predict: I want., Origin: I want to make friends around the world., User: I want to make friends the world, Truth: I want to make friends <mp> the world.
+Predict: I want., Origin: I want to make friends around the world., User: I want to make friends, Truth: I want to make friends <ma>.
+Predict: I want around the world., Origin: I want to make friends around the world., User: I want to around the world, Truth: I want to <mo> around the world.
+Predict: I make friends around the world., Origin: I want to make friends around the world., User: I make friends around the world, Truth: I <mv> make friends around the world.
+Predict: <ms> feel., Origin: I feel shy talking to foreigners., User: feel shy talking to foreigners, Truth: <ms> feel shy talking to foreigners.
+Predict: I feel., Origin: I feel shy talking to foreigners., User: I feel shy talking foreigners, Truth: I feel shy talking <mp> foreigners.
+Predict: I feel., Origin: I feel shy talking to foreigners., User: I feel shy , Truth: I feel shy <ma>.
+Predict: I feel talking foreigners to foreigners., Origin: I feel shy talking to foreigners., User: I feel talking to foreigners, Truth: I feel <mo> talking to foreigners.
+Predict: I shy talking foreigners to foreigners., Origin: I feel shy talking to foreigners., User: I shy talking to foreigners, Truth: I <mv> shy talking to foreigners.
+Predict: <ms> feel., Origin: I feel confident talking to foreigners., User:  feel confident talking to foreigners, Truth: <ms> feel confident talking to foreigners.
+Predict: I feel., Origin: I feel confident talking to foreigners., User: I feel confident talking foreigners, Truth: I feel confident talking <mp> foreigners.
+Predict: I feel., Origin: I feel confident talking to foreigners., User: I feel confident , Truth: I feel confident <ma>.
+Predict: I feel talking foreigners to foreigners., Origin: I feel confident talking to foreigners., User: I feel talking to foreigners, Truth: I feel <mo> talking to foreigners.
+Origin: I feel confident talking to foreigners., User: I confident talking to foreigners, Truth: I <mv> confident talking to foreigners.
+Predict: <ms> feel., Origin: I feel amazing talking to foreigners., User: feel amazing talking to foreigners, Truth: <ms> feel amazing talking to foreigners.
+Predict: I feel., Origin: I feel amazing talking to foreigners., User: I feel amazing talking foreigners, Truth: I feel amazing talking <mp> foreigners.
+Predict: I feel., Origin: I feel amazing talking to foreigners., User: I feel amazing, Truth: I feel amazing <ma>.
+Predict: I feel talking foreigners to foreigners., Origin: I feel amazing talking to foreigners., User: I feel talking to foreigners, Truth: I feel <mo> talking to foreigners.
+Origin: I feel amazing talking to foreigners., User: I amazing talking to foreigners, Truth: I <mv> amazing talking to foreigners.
+Predict: <ms> find English vocabulary., Origin: I find English vocabulary difficult., User: find English vocabulary difficult, Truth: <ms> find English vocabulary difficult.
+Predict: I find English vocabulary., Origin: I find English vocabulary difficult., User: I find English vocabulary, Truth: I find English vocabulary <ma>.
+Predict: I find., Origin: I find English vocabulary difficult., User: I find difficult, Truth: I find <mo> difficult.
+Origin: I find English vocabulary difficult., User: I English vocabulary difficult, Truth: I <mv> English vocabulary difficult.
+Predict: <ms> find English pronunciation., Origin: I find English pronunciation difficult., User: find English pronunciation difficult, Truth: <ms> find English pronunciation difficult.
+Origin: I find English pronunciation difficult., User: I English pronunciation difficult, Truth: I <mv> English pronunciation difficult.
+Predict: <ms> find English grammar., Origin: I find English grammar difficult., User: find English grammar difficult, Truth: <ms> find English grammar difficult.
+Origin: I find English grammar difficult., User: I English grammar difficult, Truth: I <mv> English grammar difficult.
+Predict: <ms> have a problem with communicating in English with communicating in English., Origin: I have a problem with communicating in English., User: have a problem with communicating in English, Truth: <ms> have a problem with communicating in English.
+Predict: I have a problem with communicating with communicating., Origin: I have a problem with communicating in English., User: I have a problem with communicating  , Truth: I have a problem with communicating <ma>.
+Predict: I  <mo> <ma>., Origin: I have a problem with communicating in English., User: I a problem with communicating in English, Truth: I <mv> a problem with communicating in English.
+Predict: <ms> have a problem with expressing my ideas with expressing my ideas., Origin: I have a problem with expressing my ideas., User: have a problem with expressing my ideas, Truth: <ms> have a problem with expressing my ideas.
+Predict: I have a problem expressing my ideas <ma>., Origin: I have a problem with expressing my ideas., User: I have a problem expressing my ideas, Truth: I have a problem <mp> expressing my ideas.
+Predict: I  <mo> <ma>., Origin: I have a problem with expressing my ideas., User: I a problem with expressing my ideas, Truth: I <mv> a problem with expressing my ideas.
+Predict: I have a problem understanding native speakers <ma>., Origin: I have a problem with understanding native speakers., User: I have a problem understanding native speakers, Truth: I have a problem <mp> understanding native speakers.
+Predict: I have understanding native speakers with understanding native speakers., Origin: I have a problem with understanding native speakers., User: I have with understanding native speakers, Truth: I have <mo> with understanding native speakers.
+Origin: I have a problem with understanding native speakers., User: I a problem with understanding native speakers, Truth: I <mv> a problem with understanding native speakers.
+Origin: I improve my English by using English learning apps., User: improve my English by using English learning apps, Truth: <ms> improve my English by using English learning apps.
+Origin: I improve my English by using English learning apps., User: I improve by using English learning apps, Truth: I improve <mo> English by using English learning apps.
+Origin: I improve my English by using English learning apps., User: I my English by using English learning apps, Truth: I <mv> my English by using English learning apps.
+Origin: I improve my English by watching movies without subtitles., User: improve my English by watching movies without subtitles, Truth: <ms> improve my English by watching movies without subtitles.
+Origin: I improve my English by watching movies without subtitles., User: I improve my English by watching movies subtitles, Truth: I improve my English by watching movies <mp> subtitles.
+Origin: I improve my English by watching movies without subtitles., User: I improve my English  , Truth: I improve my English <ma>.
+Origin: I improve my English by watching movies without subtitles., User: I improve by watching movies without subtitles, Truth: I improve <mo> by watching movies without subtitles.
+Origin: I improve my English by watching movies without subtitles., User: I my English by watching movies without subtitles, Truth: I <mv> my English by watching movies without subtitles.
+Origin: I improve my English by talking to foreigners., User: improve my English by talking to foreigners, Truth: <ms> improve my English by talking to foreigners.
+Origin: I improve my English by talking to foreigners., User: I improve my English by talking foreigners, Truth: I improve my English by talking <mp> foreigners.
+Origin: I improve my English by talking to foreigners., User: I improve my English  , Truth: I improve my English <ma>.
+Origin: I improve my English by talking to foreigners., User: I improve by talking to foreigners, Truth: I improve <mo> by talking to foreigners.
+Origin: I improve my English by talking to foreigners., User: I my English by talking to foreigners, Truth: I <mv> my English by talking to foreigners.
+Predict: <ms> have studied a lot for the exam for the exam., Origin: I have studied a lot for the exam., User: have studied a lot for the exam, Truth: <ms> have studied a lot for the exam.
+Predict: I have studied a lot the exam <ma>., Origin: I have studied a lot for the exam., User: I have studied a lot the exam, Truth: I have studied a lot <mp> the exam.
+Predict: I have studied the exam for the exam., Origin: I have studied a lot for the exam., User: I have studied for the exam, Truth: I have studied <ma> for the exam.
+Origin: I have studied a lot for the exam., User: I a lot for the exam, Truth: I <mv> a lot for the exam.
+Predict: <ms> have studied a little a little for the exam., Origin: I have studied a little for the exam., User: have studied a little for the exam, Truth: <ms> have studied a little for the exam.
+Predict: I have studied a little the exam <ma>., Origin: I have studied a little for the exam., User: I have studied a little the exam, Truth: I have studied a little <mp> the exam.
+Predict: I have studied the exam for the exam., Origin: I have studied a little for the exam., User: I have studied for the exam, Truth: I have studied <ma> for the exam.
+Predict: I have studied enough the exam <ma>., Origin: I have studied just enough for the exam., User: I have studied just enough the exam, Truth: I have studied just enough <mp> the exam.
+Predict: I have studied the exam for the exam., Origin: I have studied just enough for the exam., User: I have studied for the exam, Truth: I have studied <ma> for the exam.
+Origin: I have studied just enough for the exam., User: I just enough for the exam, Truth: I <mv> just enough for the exam.
+Predict: <ms> spend half an hour., Origin: I spend half an hour studying each day., User: spend half an hour studying each day, Truth: <ms> spend half an hour studying each day.
+Predict: I spend half an hour each day., Origin: I spend half an hour studying each day., User: I spend half an hour each day, Truth: I spend half an hour <mo> each day.
+Predict: I half an hour studying <mo>., Origin: I spend half an hour studying each day., User: I half an hour studying each day, Truth: I <mv> half an hour studying each day.
+Predict: <ms> spend an hour studying each day about an hour studying each day., Origin: I spend about an hour studying each day., User: spend about an hour studying each day, Truth: <ms> spend about an hour studying each day.
+Predict: I spend an hour each day about an hour each day., Origin: I spend about an hour studying each day., User: I spend about an hour each day, Truth: I spend about an hour <mo> each day.
+Predict: I about an hour studying <ma>., Origin: I spend about an hour studying each day., User: I about an hour studying each day, Truth: I <mv> about an hour studying each day.
+Predict: I spend more., Origin: I spend more than two hours studying each day., User: I spend more two hours studying each day, Truth: I spend more <mp> two hours studying each day.
+Predict: I spend more than two hours each day., Origin: I spend more than two hours studying each day., User: I spend more than two hours each day, Truth: I spend more than two hours <mo> each day.
+Predict: I more than two hours studying <mo>., Origin: I spend more than two hours studying each day., User: I more than two hours studying each day, Truth: I <mv> more than two hours studying each day.
+Predict: <ms> revise all the learning materials., Origin: I usually revise all the learning materials., User: usually revise all the learning materials, Truth: <ms> usually revise all the learning materials.
+Predict: I revise <mo>., Origin: I usually revise all the learning materials., User: I usually revise, Truth: I usually revise <mo>.
+Origin: I usually revise all the learning materials., User: I usually all the learning materials, Truth: I usually <mv> all the learning materials.
+Predict: <ms> learn heart by heart., Origin: I usually learn by heart., User: usually learn by heart, Truth: <ms> usually learn by heart.
+Origin: I usually learn by heart., User: I usually by heart, Truth: I usually <mv> by heart.
+Predict: <ms> join study groups in study groups., Origin: I usually join in study groups., User: usually join in study groups, Truth: <ms> usually join in study groups.
+Predict: I join study groups <ma>., Origin: I usually join in study groups., User: I usually join study groups, Truth: I usually jo<mp> <mp> study groups.
+Predict: I study groups <ma>., Origin: I usually join in study groups., User: I usually study groups, Truth: I usually <mv> study groups.
+Predict: <ms> turn my phone., Origin: I turn off my phone to stay focused., User: turn off my phone to stay focused, Truth: <ms> turn off my phone to stay focused.
+Predict: I turn <mo>., Origin: I turn off my phone to stay focused., User: I turn off my phone stay focused, Truth: I turn off my phone <mp> stay focused.
+Predict: I turn my phone., Origin: I turn off my phone to stay focused., User: I turn off my phone, Truth: I turn off my phone <ma>.
+Predict: I turn <mo>., Origin: I turn off my phone to stay focused., User: I turn off to stay focused, Truth: I turn off <mo> to stay focused.
+Origin: I turn off my phone to stay focused., User: I my phone to stay focused, Truth: I <mv> my phone to stay focused.
+Predict: <ms> drink coffee., Origin: I drink coffee to stay focused., User: drink coffee to stay focused, Truth: <ms> drink coffee to stay focused.
+Predict: I drink <mo>., Origin: I drink coffee to stay focused., User: I drink coffee stay focused, Truth: I drink coffee <mp> stay focused.
+Predict: I drink coffee., Origin: I drink coffee to stay focused., User: I drink coffee, Truth: I drink coffee <ma>.
+Predict: I drink <mo>., Origin: I drink coffee to stay focused., User: I drink to stay focused, Truth: I drink <mo> to stay focused.
+Predict: I coffee  <mo>., Origin: I drink coffee to stay focused., User: I coffee to stay focused, Truth: I <mv> coffee to stay focused.
+Predict: <ms> put headphones., Origin: I put on headphones to stay focused., User: put on headphones to stay focused, Truth: <ms> put on headphones to stay focused.
+Predict: I put headphones., Origin: I put on headphones to stay focused., User: I put on headphones  , Truth: I put on headphones <ma>.
+Predict: I put <mo>., Origin: I put on headphones to stay focused., User: I put on to stay focused, Truth: I put on <mo> to stay focused.
+Predict: I headphones  <mo>., Origin: I put on headphones to stay focused., User: I headphones to stay focused, Truth: I <mv> headphones to stay focused.
+Predict: I forget., Origin: I forget what I learned easily., User: I forget what I learned  , Truth: I forget what I learned <ma>.
+Predict: <ms> lose easily of time., Origin: I lose track of time easily., User: lose track of time easily, Truth: <ms> lose track of time easily.
+Predict: I lose easily <ma>., Origin: I lose track of time easily., User: I lose track time easily, Truth: I lose track <mp> time easily.
+Predict: I lose track of time of time., Origin: I lose track of time easily., User: I lose track of time  , Truth: I lose track of time <ma>.
+Predict: I lose easily <ma>., Origin: I lose track of time easily., User: I lose track easily, Truth: I lose track <mo> easily.
+Origin: I lose track of time easily., User: I of time easily, Truth: I <mv> of time easily.
+Predict: <ms> freak easily., Origin: I freak out easily., User: freak out easily, Truth: <ms> freak out easily.
+Predict: I freak easily., Origin: I freak out easily., User: I freak easily , Truth: I freak <mp> easily.
+Predict: I freak <mo>., Origin: I freak out easily., User: I freak out , Truth: I freak out <ma>.
+Origin: I freak out easily., User: I easily, Truth: I <mv> easily.
+Predict: I did pretty well <ma>., Origin: I did pretty well on the test., User: I did pretty well the test, Truth: I did pretty well <mp> the test.
+Origin: I did pretty well on the test., User: I pretty well on the test, Truth: I <mv> pretty well on the test.
+Predict: <ms> did the test on the test., Origin: I did amazing on the test., User:  did amazing on the test, Truth: <ms> did amazing on the test.
+Predict: I did amazing the test <ma>., Origin: I did amazing on the test., User: I did amazing the test, Truth: I did amazing <mp> the test.
+Origin: I did amazing on the test., User: I amazing on the test, Truth: I <mv> amazing on the test.
+Predict: <ms> did the test on the test., Origin: I did awful on the test., User: did awful on the test, Truth: <ms> did awful on the test.
+Predict: I did awful the test <ma>., Origin: I did awful on the test., User: I did awful the test, Truth: I did awful <mp> the test.
+Origin: I did awful on the test., User: I awful on the test, Truth: I <mv> awful on the test.
+Predict: <ms> have plans for improving my presentation skills for improving my presentation skills., Origin: I have plans for improving my presentation skills., User: have plans for improving my presentation skills, Truth: <ms> have plans for improving my presentation skills.
+Predict: I have plans improving my presentation skills <ma>., Origin: I have plans for improving my presentation skills., User: I have plans improving my presentation skills, Truth: I have plans <mp> improving my presentation skills.
+Predict: I plans <mo> for improving my presentation skills., Origin: I have plans for improving my presentation skills., User: I plans for improving my presentation skills, Truth: I <mv> plans for improving my presentation skills.
+Predict: <ms> have plans for improving my time - management skills for improving my time - management skills., Origin: I have plans for improving my time-management skills., User: have plans for improving my time-management skills, Truth: <ms> have plans for improving my time-management skills.
+Predict: I have plans improving my time - management skills <ma>., Origin: I have plans for improving my time-management skills., User: I have plans improving my time-management skills, Truth: I have plans <mp> improving my time-management skills.
+Predict: I have <mo> for improving my time - management skills., Origin: I have plans for improving my time-management skills., User: I have for improving my time-management skills, Truth: I have <mo> for improving my time-management skills.
+Predict: I plans <mo> for improving my time - management skills., Origin: I have plans for improving my time-management skills., User: I plans for improving my time-management skills, Truth: I <mv> plans for improving my time-management skills.
+Predict: <ms> have plans for improving my problem - solving skills for improving my problem - solving skills., Origin: I have plans for improving my problem-solving skills., User: have plans for improving my problem-solving skills, Truth: <ms> have plans for improving my problem-solving skills.
+Predict: I have plans improving my problem - solving skills <ma>., Origin: I have plans for improving my problem-solving skills., User: I have plans improving my problem-solving skills, Truth: I have plans <mp> improving my problem-solving skills.
+Predict: I have <mo> for improving my problem - solving skills., Origin: I have plans for improving my problem-solving skills., User: I have for improving my problem-solving skills, Truth: I have <mo> for improving my problem-solving skills.
+Predict: I plans <mo> for improving my problem - solving skills., Origin: I have plans for improving my problem-solving skills., User: I plans for improving my problem-solving skills, Truth: I <mv> plans for improving my problem-solving skills.
+Predict: <ms> take extra courses., Origin: I take extra courses to gain knowledge., User: take extra courses to gain knowledge, Truth: <ms> take extra courses to gain knowledge.
+Predict: I take extra course., Origin: I take extra courses to gain knowledge., User: I take extra course gain knowledge, Truth: I take extra <mp> gain knowledge.
+Predict: I take <mo>., Origin: I take extra courses to gain knowledge., User: I take to gain knowledge, Truth: I take <mo> to gain knowledge.
+Predict: I extra courses  <mo>., Origin: I take extra courses to gain knowledge., User: I extra courses to gain knowledge, Truth: I <mv> extra courses to gain knowledge.
+Predict: <ms> take extra courses., Origin: I take extra courses to further my career., User: take extra courses to further my career, Truth: <ms> take extra courses to further my career.
+Predict: I take extra course further., Origin: I take extra courses to further my career., User: I take extra course further my career, Truth: I take extra <mp> further my career.
+Predict: I take further my career., Origin: I take extra courses to further my career., User: I take to further my career, Truth: I take <mo> to further my career.
+Predict: I extra courses  <mo>., Origin: I take extra courses to further my career., User: I extra courses to further my career, Truth: I <mv> extra courses to further my career.
+Origin: I take extra courses to work more efficiently., User: take extra courses to work more efficiently, Truth: <ms> take extra courses to work more efficiently.
+Origin: I take extra courses to work more efficiently., User: I take extra course work more efficiently, Truth: I take extra <mp> work more efficiently.
+Origin: I take extra courses to work more efficiently., User: I take to work more efficiently, Truth: I take <mo> to work more efficiently.
+Origin: I take extra courses to work more efficiently., User: I extra courses to work more efficiently, Truth: I <mv> extra courses to work more efficiently.
+Predict: <ms> want., Origin: I want to take a business course., User: want to take a business course, Truth: <ms> want to take a business course.
+Predict: I want take a business course., Origin: I want to take a business course., User: I want take a business course, Truth: I want <mp> take a business course.
+Predict: I want., Origin: I want to take a business course., User: I want to take , Truth: I want to take <mo>.
+Predict: I., Origin: I want to take a business course., User: I to take a business course, Truth: I <mv> to take a business course.
+Predict: <ms> want., Origin: I want to take a programming course., User:  want to take a programming course, Truth: <ms> want to take a programming course.
+Predict: I want take a programming course., Origin: I want to take a programming course., User: I want take a programming course, Truth: I want <mp> take a programming course.
+Predict: I want., Origin: I want to take a programming course., User: I want to take , Truth: I want to take <mo>.
+Predict: I., Origin: I want to take a programming course., User: I to take a programming course, Truth: I <mv> to take a programming course.
+Predict: <ms> want., Origin: I want to take an English course., User:  want to take an English course, Truth: <ms> want to take an English course.
+Predict: I want., Origin: I want to take an English course., User: I want to take , Truth: I want to take <mo>.
+Origin: I prefer online classes., User: I online classes, Truth: I <mv> online classes.
+Origin: I prefer hybrid classes., User: I hybrid classes, Truth: I <mv> hybrid classes.
+Predict: <ms> prefer offline., Origin: I prefer offline classes., User: prefer offline classes, Truth: <ms> prefer offline classes.
+Origin: I prefer offline classes., User: I offline classes, Truth: I <mv> offline classes.
+Predict: I prefer studying <mo>., Origin: I prefer studying alone., User: I prefer studying  , Truth: I prefer studying <ma>.
+Predict: I studying alone., Origin: I prefer studying alone., User: I studying alone, Truth: I <mv> studying alone.
+Predict: <ms> prefer studying groups of two in groups of two., Origin: I prefer studying in groups of two., User: prefer studying in groups of two, Truth: <ms> prefer studying in groups of two.
+Predict: I prefer <ma>., Origin: I prefer studying in groups of two., User: I prefer  , Truth: I prefer <mo>.
+Predict: I studying groups of two in groups of two., Origin: I prefer studying in groups of two., User: I studying in groups of two, Truth: I <mv> studying in groups of two.
+Predict: <ms> prefer studying groups of four in groups of four., Origin: I prefer studying in groups of four., User: prefer studying in groups of four, Truth: <ms> prefer studying in groups of four.
+Predict: I prefer <ma>., Origin: I prefer studying in groups of four., User: I prefer  , Truth: I prefer <mo>.
+Predict: I studying groups of four in groups of four., Origin: I prefer studying in groups of four., User: I studying in groups of four, Truth: I <mv> studying in groups of four.
+Predict: <ms> like., Origin: I would like to join an online business class., User: would like to join an online business class, Truth: <ms> would like to join an online business class.
+Predict: I like join an online business class., Origin: I would like to join an online business class., User: I would like join an online business class, Truth: I would like <mp> join an online business class.
+Predict: I like., Origin: I would like to join an online business class., User: I would like to join, Truth: I would like to join <mo>.
+Origin: I would like to join an online business class., User: I an online business class, Truth: I <mv> an online business class.
+Predict: <ms> like., Origin: I would like to join an online marketing class., User: would like to join an online marketing class, Truth: <ms> would like to join an online marketing class.
+Predict: I like join an online marketing class., Origin: I would like to join an online marketing class., User: I would like join an online marketing class, Truth: I would like <mp> join an online marketing class.
+Predict: I like., Origin: I would like to join an online marketing class., User: I would like to join, Truth: I would like to join <mo>.
+Origin: I would like to join an online marketing class., User: I an online marketing class, Truth: I <mv> an online marketing class.
+Predict: <ms> like., Origin: I would like to join an online English class., User: would like to join an online English class, Truth: <ms> would like to join an online English class.
+Predict: I like join an online English class., Origin: I would like to join an online English class., User: I would like join an online English class, Truth: I would like <mp> join an online English class.
+Predict: I like., Origin: I would like to join an online English class., User: I would like to join, Truth: I would like to join <mo>.
+Origin: I would like to join an online English class., User: I an online English class, Truth: I <mv> an online English class.
+Predict: major is Business Management., Origin: My major is Business Management., User:  major is Business Management, Truth: <ms> major is Business Management.
+Origin: My major is Business Management., User: My major Business Management, Truth: My major <mv> Business Management.
+Predict: <ms> is Central Asia in Central Asia., Origin: It is in Central Asia., User:  is in Central Asia, Truth: <ms> is in Central Asia.
+Predict: It is Asia <ma>., Origin: It is in Central Asia., User: It is Central Asia, Truth: It is <mp> Central Asia.
+Origin: It is in Central Asia., User: It in Central Asia, Truth: It <mv> in Central Asia.
+Predict: <ms> is East Asia in East Asia., Origin: It is in East Asia., User: is in East Asia, Truth: <ms> is in East Asia.
+Predict: It is East Asia <ma>., Origin: It is in East Asia., User: It is East Asia, Truth: It is <mp> East Asia.
+Origin: It is in East Asia., User: It in East Asia, Truth: It <mv> in East Asia.
+Predict: <ms> is South Asia in South Asia., Origin: It is in South Asia., User: is in South Asia, Truth: <ms> is in South Asia.
+Predict: It is Asia <ma>., Origin: It is in South Asia., User: It is South Asia, Truth: It is <mp> South Asia.
+Origin: It is in South Asia., User: It in South Asia, Truth: It <mv> in South Asia.
+Predict: <ms> like most., Origin: I like the local cuisine most., User: like the local cuisine most, Truth: <ms> like the local cuisine most.
+Predict: I like most., Origin: I like the local cuisine most., User: I like most, Truth: I like <mo> most.
+Origin: I like the local cuisine most., User: I the local cuisine most, Truth: I <mv> the local cuisine most.
+Predict: <ms> like most., Origin: I like the wonderful culture most., User: like the wonderful culture most, Truth: <ms> like the wonderful culture most.
+Predict: I like most., Origin: I like the wonderful culture most., User: I like most, Truth: I like <mo> most.
+Origin: I like the wonderful culture most., User: I the wonderful culture most, Truth: I <mv> the wonderful culture most.
+Predict: <ms> like most., Origin: I like the hospitable people most., User: like the hospitable people most, Truth: <ms> like the hospitable people most.
+Predict: I like most., Origin: I like the hospitable people most., User: I like most, Truth: I like <mo> most.
+Origin: I like the hospitable people most., User: I the hospitable people most, Truth: I <mv> the hospitable people most.
+Predict: I visited the museum., Origin: I visited the museum while I was in that country., User: I visited the museum while I was that country, Truth: I visited the museum while I was <mp> that country.
+Predict: I visited <mo>., Origin: I visited the museum while I was in that country., User: I visited while I was in that country, Truth: I visited <mo> while I was in that country.
+Predict: I  <mo>., Origin: I visited the museum while I was in that country., User: I the museum while I was in that country, Truth: I <mv> the museum while I was in that country.
+Predict: I visited the gallery., Origin: I visited the gallery while I was in that country., User: I visited the gallery while I was that country, Truth: I visited the gallery while I was <mp> that country.
+Predict: I visited <mo>., Origin: I visited the gallery while I was in that country., User: I visited while I was in that country, Truth: I visited <mo> while I was in that country.
+Predict: I  <mo>., Origin: I visited the gallery while I was in that country., User: I the gallery while I was in that country, Truth: I <mv> the gallery while I was in that country.
+Predict: I visited the theater., Origin: I visited the theater while I was in that country., User: I visited the theater while I was that country, Truth: I visited the theater while I was <mp> that country.
+Predict: I visited <mo>., Origin: I visited the theater while I was in that country., User: I visited while I was in that country, Truth: I visited <mo> while I was in that country.
+Predict: I  <mo>., Origin: I visited the theater while I was in that country., User: I the theater while I was in that country, Truth: I <mv> the theater while I was in that country.
+Predict: <ms> ate there of specialties., Origin: I ate lots of specialties there., User: ate lots of specialties there, Truth: <ms> ate lots of specialties there.
+Predict: I ate there <ma>., Origin: I ate lots of specialties there., User: I ate lots specialties there, Truth: I ate lots <mp> specialties there.
+Predict: I ate lots of there of there., Origin: I ate lots of specialties there., User: I ate lots of there, Truth: I ate lots of <mo> there.
+Origin: I ate lots of specialties there., User: I lots of specialties there, Truth: I <mv> lots of specialties there.
+Predict: <ms> ate there of Vietnamese food., Origin: I ate lots of Vietnamese food there., User: ate lots of Vietnamese food there, Truth: <ms> ate lots of Vietnamese food there.
+Predict: I ate there <ma>., Origin: I ate lots of Vietnamese food there., User: I ate lots specialties there, Truth: I ate lots <mp> there.
+Predict: I ate lots of there of there., Origin: I ate lots of Vietnamese food there., User: I ate lots of there, Truth: I ate lots of <mo> there.
+Predict: <ms> did., Origin: I didn't eat lots of specialties there., User: didn't eat lots of specialties there, Truth: <ms> didn't eat lots of specialties there.
+Predict: I did., Origin: I didn't eat lots of specialties there., User: I didn't eat lots specialties there, Truth: I didn't eat lots <mp> specialties there.
+Predict: I did., Origin: I didn't eat lots of specialties there., User: I didn't eat lots of there, Truth: I didn't eat lots of <mo> there.
+Origin: I didn't eat lots of specialties there., User: I lots of specialties there, Truth: I <mv> lots of specialties there.
+Predict: <ms> did., Origin: I didn't eat lots of junk food there., User: didn't eat lots of junk food there, Truth: <ms> didn't eat lots of junk food there.
+Predict: I did., Origin: I didn't eat lots of junk food there., User: I didn't eat lots junk food there, Truth: I didn't eat lots <mp> junk food there.
+Predict: I did., Origin: I didn't eat lots of junk food there., User: I didn't eat lots of there, Truth: I didn't eat lots of <mo> there.
+Origin: I didn't eat lots of junk food there., User: I lots of junk food there, Truth: I <mv> lots of junk food there.
+Predict: <ms> were., Origin: The local people were friendly., User: were friendly, Truth: <ms> were friendly.
+Origin: The local people were friendly., User: The local people friendly, Truth: The local people <mv> friendly.
+Predict: <ms> were., Origin: The local people were unfriendly., User: were unfriendly, Truth: <ms> were unfriendly.
+Origin: The local people were unfriendly., User: The local people unfriendly, Truth: The local people <mv> unfriendly.
+Origin: The local people were kind., User: The local people kind, Truth: The local people <mv> kind.
+Predict: <ms> is., Origin: The weather there is sunny., User: is sunny, Truth: <ms> is sunny.
+Origin: The weather there is sunny., User: The weather there sunny, Truth: The weather there <mv> sunny.
+Predict: <ms> is., Origin: The weather there is cloudy., User: is cloudy, Truth: <ms> is cloudy.
+Origin: The weather there is cloudy., User: The weather there cloudy, Truth: The weather there <mv> cloudy.
+Predict: <ms> is., Origin: The weather there is rainy., User: is rainy, Truth: <ms> is rainy.
+Origin: The weather there is rainy., User: The weather there rainy, Truth: The weather there <mv> rainy.
+Predict: <ms> pack some T - shirts., Origin: You should pack some T-shirts., User:  should pack some T-shirts, Truth: <ms> should pack some T-shirts.
+Predict: You pack <mo>., Origin: You should pack some T-shirts., User: You should pack  , Truth: You should pack <mo>.
+Predict: You  <mo>., Origin: You should pack some T-shirts., User: You some T-shirts, Truth: You <mv> some T-shirts.
+Predict: <ms> pack some shorts., Origin: You should pack some shorts., User: should pack some shorts, Truth: <ms> should pack some shorts.
+Predict: You pack <mo>., Origin: You should pack some shorts., User: You should pack  , Truth: You should pack <mo>.
+Origin: You should pack some shorts., User: You some shorts, Truth: You <mv> some shorts.
+Predict: <ms> pack some sweaters., Origin: You should pack some sweaters., User: should pack some sweaters, Truth: <ms> should pack some sweaters.
+Predict: You pack <mo>., Origin: You should pack some sweaters., User: You should pack  , Truth: You should pack <mo>.
+Origin: You should pack some sweaters., User: You some sweaters, Truth: You <mv> some sweaters.
+Predict: <ms> go there by plane., Origin: You can go there by plane., User:  can go there by plane, Truth: <ms> can go there by plane.
+Predict: You go <mo> <ma>., Origin: You can go there by plane., User: You can go  , Truth: You can go <ma>.
+Origin: You can go there by plane., User: You there by plane, Truth: You <mv> there by plane.
+Predict: <ms> go there by car., Origin: You can go there by car., User:  can go there by car, Truth: <ms> can go there by car.
+Predict: You go <mo> <ma>., Origin: You can go there by car., User: You can go  , Truth: You can go <ma>.
+Origin: You can go there by car., User: You there by car, Truth: You <mv> there by car.
+Predict: <ms>., Origin: You cannot go there by plane., User: cannot go there by plane, Truth: <ms> cannot go there by plane.
+Predict: You., Origin: You cannot go there by plane., User: You cannot go  , Truth: You cannot go <ma>.
+Origin: You cannot go there by plane., User: You there by plane, Truth: You <mv> there by plane.
+Predict: <ms>., Origin: You cannot go there by train., User:  cannot go there by train, Truth: <ms> cannot go there by train.
+Predict: You., Origin: You cannot go there by train., User: You cannot go  , Truth: You cannot go <ma>.
+Origin: You cannot go there by train., User: You there by train, Truth: You <mv> there by train.
+Predict: <ms> travel that place by taxi., Origin: You can travel around that place by taxi., User: can travel around that place by taxi, Truth: <ms> can travel around that place by taxi.
+Predict: You travel around by taxi., Origin: You can travel around that place by taxi., User: You can travel around by taxi, Truth: You can travel around <mo> by taxi.
+Origin: You can travel around that place by taxi., User: You around that place by taxi, Truth: You <mv> around that place by taxi.
+Predict: <ms> travel that place by bike., Origin: You can travel around that place by bike., User: can travel around that place by bike, Truth: <ms> can travel around that place by bike.
+Predict: You travel around by bike., Origin: You can travel around that place by bike., User: You can travel around by bike, Truth: You can travel around <mo> by bike.
+Origin: You can travel around that place by bike., User: You around that place by bike, Truth: You <mv> around that place by bike.
+Predict: <ms> travel that place on foot around that place on foot., Origin: You can travel around that place on foot., User: can travel around that place on foot, Truth: <ms> can travel around that place on foot.
+Predict: You travel around on foot., Origin: You can travel around that place on foot., User: You can travel around on foot, Truth: You can travel around <mo> on foot.
+Origin: You can travel around that place on foot., User: You around that place on foot, Truth: You <mv> around that place on foot.
+Predict: <ms> is., Origin: The food there is excellent., User: is excellent, Truth: <ms> is excellent.
+Origin: The food there is excellent., User: The food there excellent, Truth: The food there <mv> excellent.
+Predict: <ms> is., Origin: The food there is delicious., User: is delicious, Truth: <ms> is delicious.
+Origin: The food there is delicious., User: The food there delicious, Truth: The food there <mv> delicious.
+Predict: <ms> is., Origin: The food there is quite bad., User: is quite bad, Truth: <ms> is quite bad.
+Predict: The food is., Origin: The food there is quite bad., User: The food there is bad, Truth: The food there is <ma> bad.
+Origin: The food there is quite bad., User: The food there quite bad, Truth: The food there <mv> quite bad.
+Predict: <ms> have Vietnamese food at local restaurants at local restaurants., Origin: They have Vietnamese food at local restaurants., User: have Vietnamese food at local restaurants, Truth: <ms> have Vietnamese food at local restaurants.
+Predict: They have Vietnamese food local restaurants <ma>., Origin: They have Vietnamese food at local restaurants., User: They have Vietnamese food local restaurants, Truth: They have Vietnamese food <mp> local restaurants.
+Predict: They have local restaurants at local restaurants., Origin: They have Vietnamese food at local restaurants., User: They have at local restaurants, Truth: They have <mo> at local restaurants.
+Origin: They have Vietnamese food at local restaurants., User: They Vietnamese food at local restaurants, Truth: They <mv> Vietnamese food at local restaurants.
+Predict: <ms> have Korean food at local restaurants at local restaurants., Origin: They have Korean food at local restaurants., User: have Korean food at local restaurants, Truth: <ms> have Korean food at local restaurants.
+Predict: They have Korean food local restaurants <ma>., Origin: They have Korean food at local restaurants., User: They have Korean food local restaurants, Truth: They have Korean food <mp> local restaurants.
+Predict: They have local restaurants at local restaurants., Origin: They have Korean food at local restaurants., User: They have at local restaurants, Truth: They have <mo> at local restaurants.
+Origin: They have Korean food at local restaurants., User: They Korean food at local restaurants, Truth: They <mv> Korean food at local restaurants.
+Predict: <ms> have Japanese food at local restaurants at local restaurants., Origin: They have Japanese food at local restaurants., User: have Japanese food at local restaurants, Truth: <ms> have Japanese food at local restaurants.
+Predict: They have Japanese food local restaurants <ma>., Origin: They have Japanese food at local restaurants., User: They have Japanese food local restaurants, Truth: They have Japanese food <mp> local restaurants.
+Predict: They have local restaurants at local restaurants., Origin: They have Japanese food at local restaurants., User: They have at local restaurants, Truth: They have <mo> at local restaurants.
+Origin: They have Japanese food at local restaurants., User: They Japanese food at local restaurants, Truth: They <mv> Japanese food at local restaurants.
+0 58 465
+1 16 274
+2 10 145
+3 45 550
