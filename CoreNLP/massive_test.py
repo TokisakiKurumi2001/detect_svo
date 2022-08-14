@@ -2,6 +2,14 @@ import pandas as pd
 from api import compare_detect_segment, preprocess_sentence
 
 
+def ignore_case(sentence):
+    ignore_cases = ["<mp>"]
+    for case in ignore_cases:
+        if case in sentence:
+            return True
+    return False
+
+
 def compute_score(file_name: str):
     score = 0
     df = pd.read_csv(file_name)
@@ -10,18 +18,21 @@ def compute_score(file_name: str):
         origin_sent = df['Origin'].iloc[idx]
         usr_sent = df['Missing'].iloc[idx]
         ground_truth = preprocess_sentence(df['Masking'].iloc[idx])
-        try:
-            predict, _ = compare_detect_segment(origin_sent, usr_sent)
-            if predict == ground_truth:
-                score += 1
-            else:
+        if ignore_case(ground_truth):
+            max_score -= 1
+        else:
+            try:
+                predict, _ = compare_detect_segment(origin_sent, usr_sent)
+                if predict == ground_truth:
+                    score += 1
+                else:
+                    print(
+                        f"Predict: {predict}, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}"
+                    )
+            except:
                 print(
-                    f"Predict: {predict}, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}"
-                )
-        except:
-            print(
-                f"Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}")
-            # raise
+                    f"Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}")
+                # raise
     return score, max_score
 
 

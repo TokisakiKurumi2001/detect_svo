@@ -1,11 +1,34 @@
-from cmath import exp
-from re import sub
-from tkinter import RAISED
 from nltk.parse.corenlp import CoreNLPParser
 import re
 import spacy
 import os
+from typing import List, Tuple
 nlp = spacy.load("en_core_web_sm")
+
+
+def edge_reserve(sentence: str, flag: List[int] = None) -> Tuple[str, List[int]]:
+    """
+    This function takes a string sentence and the flag for indicating for/back-ward replacement
+
+    Issues for having the function.
+    A corrupted sentence. "word
+    """
+    mappings = {'work': 'worked', 'like': 'liked'}
+    reverse_mappings = {'worked': 'work', 'liked': 'like'}
+    forward = False
+    if flag is None:
+        forward = True
+        flag = [0] * len(mappings.keys())
+    if forward:
+        for i, word in enumerate(mappings.keys()):
+            if word in sentence:
+                flag[i] = 1
+                sentence = re.sub(word, mappings[word], sentence)
+    else:
+        for i, word in enumerate(reverse_mappings.keys()):
+            if word in sentence and flag[i] == 1:
+                sentence = re.sub(word, reverse_mappings[word], sentence)
+    return sentence, flag
 
 
 def finalize():
@@ -15,6 +38,7 @@ def finalize():
 
 def svo_parser(sentence):
     sentence = re.sub(r'([a-zA-Z])([,.!])', r'\1 \2', sentence)
+    sentence, flag = edge_reserve(sentence)
     svo = dict()
 
     parser = CoreNLPParser()
@@ -105,13 +129,14 @@ def svo_parser(sentence):
         svo = svo_parser(new_sent)  # Trinh please comment this
         svo.pop('verb', None)  # Trinh please comment this
 
+    svo['verb'], _ = edge_reserve(svo['verb'], flag)
     return svo
 
 
 if __name__ == "__main__":
     sentences = [
         # "I have worked there for 2 years."
-        # # "like exercising before sunrise.", # khong thay
+        # "like exercising before sunrise.",  # khong thay
         # "I come here once a week.",
         # "often go running.",
         # "prefer working out with a partner.",
@@ -127,7 +152,8 @@ if __name__ == "__main__":
         # "see my family every two weeks.",
         # "the bus station usually depart at the weekends.",
         # "I."
-        "I work at."
+        # "I work at."
+        "work at Step Up."
     ]
     for sent in sentences:
         try:
