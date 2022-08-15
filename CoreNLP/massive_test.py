@@ -26,17 +26,20 @@ def compute_score(file_name: str):
                 if predict == ground_truth:
                     score += 1
                 else:
-                    print(
-                        f"Predict: {predict}, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}"
-                    )
+                    # print(
+                    #     f"Predict: {predict}, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}"
+                    # )
+                    print(f"{predict}, {origin_sent}, {usr_sent}, {ground_truth}")
             except:
-                print(
-                    f"Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}")
+                # print(
+                #     f"Predict: $$$, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}")
                 # raise
+                print(f"$$$, {origin_sent}, {usr_sent}, {ground_truth}")
     return score, max_score
 
 
 if __name__ == "__main__":
+    print("Predict, Origin, User, Truth")
     num_files = 4
     real_scores = []
     max_scores = []
