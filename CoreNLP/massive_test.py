@@ -10,7 +10,7 @@ def ignore_case(sentence):
     return False
 
 
-def compute_score(file_name: str):
+def compute_score(file_name: str, output: pd.DataFrame):
     score = 0
     df = pd.read_csv(file_name)
     max_score = len(df)
@@ -29,24 +29,29 @@ def compute_score(file_name: str):
                     # print(
                     #     f"Predict: {predict}, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}"
                     # )
-                    print(f"{predict}, {origin_sent}, {usr_sent}, {ground_truth}")
+                    # print(f"{predict}, {origin_sent}, {usr_sent}, {ground_truth}")
+                    output = output.append({"Predict": predict, "Origin": origin_sent,
+                                            "User": usr_sent, "Truth": ground_truth}, ignore_index=True)
             except:
                 # print(
                 #     f"Predict: $$$, Origin: {origin_sent}, User: {usr_sent}, Truth: {ground_truth}")
                 # raise
-                print(f"$$$, {origin_sent}, {usr_sent}, {ground_truth}")
-    return score, max_score
+                # print(f"$$$, {origin_sent}, {usr_sent}, {ground_truth}")
+                output = output.append({"Predict": "$$$", "Origin": origin_sent,
+                                        "User": usr_sent, "Truth": ground_truth}, ignore_index=True)
+    return score, max_score, output
 
 
 if __name__ == "__main__":
-    print("Predict, Origin, User, Truth")
+    df = pd.DataFrame()
     num_files = 4
     real_scores = []
     max_scores = []
     for i in range(1, num_files+1):
         file_name = f"./data/test/set{i}_test.csv"
-        real_score, max_score = compute_score(file_name)
+        real_score, max_score, df = compute_score(file_name, df)
         real_scores.append(real_score)
         max_scores.append(max_score)
     for i, (real_score, max_score) in enumerate(zip(real_scores, max_scores)):
         print(i, real_score, max_score)
+    df.to_csv("result.csv")
